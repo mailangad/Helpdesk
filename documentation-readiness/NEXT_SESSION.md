@@ -3,8 +3,11 @@
 Goal: make sure the Help Center covers **every screen and feature of theleansuite.app**, with screenshots.
 
 ## Prerequisites (owner)
+
+**Dev environment option (preferred):** point `LS_URL` at the dev app and allow its domain in Network access. Only a throwaway dev test account may go in the environment variables (`LS_USER`/`LS_PASS`); the variables are visible to anyone using the environment. When crawling dev, **document only features that are live in production**. Skip or flag anything dev-only or unreleased.
+
 1. In the cloud environment settings, allow network access to `theleansuite.app`, plus any API or asset domains the app uses.
-2. Add environment secrets `LS_URL=https://theleansuite.app`, `LS_USER` and `LS_PASS` for an **admin user in a demo/sandbox facility** with sample data. Never use a customer facility.
+2. Set `LS_URL`, `LS_USER` and `LS_PASS` (see the dev option above; never use a production or customer account in env vars) for an **admin user in a demo/sandbox facility** with sample data. Never use a customer facility.
 3. Start a **new** session on branch `claude/documentation-readiness-review-9qm6yf` in `mailangad/Helpdesk`. Network and secret changes only apply to new sessions.
 
 ## Steps for the next session
