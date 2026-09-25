@@ -1,0 +1,82 @@
+{"id": "17182735", "title": "How to log in to LeanSuite?", "status": "pass", "changes": ["Published article; content consistent. Cross-ref to password draft left as italic. No edits made to live article."]}
+{"id": "17182736", "title": "How to reset or change your password?", "status": "fixed", "changes": ["Added intro sentence", "Linked support email", "Added related link to published login article"]}
+{"id": "17182738", "title": "How to get access to your company's LeanSuite workspace?", "status": "fixed", "changes": ["Added intro sentence", "Linked italic reference to published article How to log in to LeanSuite?"]}
+{"id": "17182740", "title": "How to add a new user?", "status": "pass", "changes": []}
+{"id": "17182742", "title": "How to bulk upload users?", "status": "pass", "changes": []}
+{"id": "17182743", "title": "How to create roles and manage permissions?", "status": "pass", "changes": []}
+{"id": "17182745", "title": "How to set up departments, lines, workstations and assets?", "status": "pass", "changes": ["Published article; no issues found"]}
+{"id": "17183477", "title": "How to find your way around LeanSuite?", "status": "fixed", "changes": ["Added intro sentence", "Gear icon now names Admin Settings for consistency"]}
+{"id": "17183479", "title": "How to change your language?", "status": "fixed", "changes": ["Added intro sentence", "Added confirmed languages (English, Spanish, French)", "Linked support email"]}
+{"id": "17183480", "title": "How do notifications and reminders work?", "status": "fixed", "changes": ["Added intro sentence"]}
+{"id": "17183482", "title": "How to use LeanSuite on mobile, tablets and shared devices?", "status": "fixed", "changes": ["Added intro sentence", "Linked published login article", "Noted SOP step QR codes require login (per backlog)"]}
+{"id": "12921679", "title": "Live body is still the ORIGINAL despite fix_log claiming it was fixed: 19-row response-types table with empty Input Type/Add Rule cells|typos 'cannot be submitted is a question', 'choose is the response'|chatty 'Let's go ahead' phrasing, empty paragraphs|article ends abruptly after Add Rule screenshot", "status": "needs_human", "changes": ["QA update_article returned success (updated_at bumped) but get_article still returns original body - same non-persistence as 12123178. Intended corrected body (all 6 images kept) saved at scratchpad/qa/12921679.html; needs manual paste in Intercom UI"]}
+{"id": "17183483", "title": "How to save, pin and share views on dashboards?", "status": "pass", "changes": []}
+{"id": "17183486", "title": "How to report a bug or request a feature?", "status": "fixed", "changes": ["Added intro sentence", "US spelling: prioritize"]}
+{"id": "17183488", "title": "Security, data and AI: frequently asked questions", "status": "fixed", "changes": ["Added intro sentence", "Bolded Create with AI"]}
+{"id": "17183194", "title": "How to set up Single Sign-On (SSO) with Microsoft Entra ID?", "status": "pass", "changes": ["SSO providers limited to Microsoft and Google (confirmed); no change needed"]}
+{"id": "17183489", "title": "How to export data from LeanSuite?", "status": "fixed", "changes": ["Added intro sentence"]}
+{"id": "17183943", "title": "Setting up LeanSuite for your site: admin checklist", "status": "fixed", "changes": ["Linked published departments/assets article", "Bolded Create with AI"]}
+{"id": "17183944", "title": "Getting started with LeanSuite for frontline users", "status": "fixed", "changes": ["Added intro sentence", "Linked published login article", "Bolded My Learning"]}
+{"id": "17183946", "title": "Which LeanSuite module should I use?", "status": "fixed", "changes": ["Added intro sentence", "US spelling: Analyze"]}
+{"id": "17183947", "title": "Troubleshooting: common problems and quick fixes", "status": "fixed", "changes": ["Added intro sentence", "Linked published login article", "Clarified visibility wording with Private/Workspace terms", "Reworded suggestion points sentence"]}
+{"id": "12745936", "title": "What is Lean Creator in LeanSuite?", "status": "pass", "changes": []}
+{"id": "17182747", "title": "What is Create with AI in Lean Creator and which mode should I use?", "status": "pass", "changes": []}
+{"id": "17182750", "title": "How to create an SOP from a video?", "status": "fixed", "changes": ["Added intro sentence"]}
+{"id": "17182751", "title": "What are AI drafts, drafts and published templates?", "status": "fixed", "changes": ["Added intro sentence", "Saved-draft row softened to 'Review it before you publish' (pencil editing on saved drafts unconfirmed)"]}
+{"id": "17182753", "title": "How to publish and assign a template for sign-off?", "status": "fixed", "changes": ["Added intro sentence", "Standardized role-completion rule wording", "Label User (singular) to match DSW article", "Added cross-reference to DSW scheduling article"]}
+{"id": "17183180", "title": "How to add rules, required evidence and scoring to a template?", "status": "fixed", "changes": ["Added intro sentence", "Linked published departments/assets article"]}
+{"id": "17183176", "title": "How to assign and schedule a template in Daily Standard Work?", "status": "fixed", "changes": ["US spelling: recognize", "Linked published departments/assets article", "Standardized role-completion rule wording", "Named Save & Publish"]}
+{"id": "17183491", "title": "How to create a one-point lesson (OPL) with AI?", "status": "fixed", "changes": ["Removed unconfirmed claim that video files don't appear in OPL picker (backlog says short video also works)", "Added role-completion rule note", "Bolded Create with AI in intro"]}
+{"id": "17183492", "title": "How to create a custom Kaizen section in Lean Creator?", "status": "pass", "changes": []}
+{"id": "12920887", "title": "How to start and submit an activity assigned to you in Daily Standard Work?", "status": "fixed", "changes": ["Added intro sentence", "Bolded Lean Studio"]}
+{"id": "12920999", "title": "What is the Template Marketplace and how to use it?", "status": "pass", "changes": []}
+{"id": "12920914", "title": "What is the My Templates section?", "status": "pass", "changes": []}
+{"id": "17183182", "title": "How to set up Kaizen project types, methodologies and templates?", "status": "fixed", "changes": ["Added intro sentence after audience note", "US spelling: colors", "Bolded Kaizen Settings consistently", "Added cross-reference to custom Kaizen section article"]}
+{"id": "17183184", "title": "How to build a workflow for Kaizen, EWO or Tags?", "status": "fixed", "changes": ["US spelling: color/gray", "Bolded Update"]}
+{"id": "17183189", "title": "What is an EWO and how to use it?", "status": "pass", "changes": []}
+{"id": "17183557", "title": "How to create a Kaizen and add sections?", "status": "fixed", "changes": ["Added intro sentence", "Added 'no workflow created' pointer to setup article"]}
+{"id": "17183559", "title": "How to present, export and analyze a Kaizen?", "status": "fixed", "changes": ["Title US spelling: analyse -> analyze", "Added intro sentence", "US spelling: colors"]}
+{"id": "17183561", "title": "How to manage action plans, timelines and delays in Kaizen?", "status": "fixed", "changes": ["Added intro sentence", "Added cross-reference to Kaizen Dashboard article"]}
+{"id": "17183562", "title": "Kaizen and EWO glossary", "status": "fixed", "changes": ["Added intro sentence"]}
+{"id": "17183948", "title": "What is the Kaizen Dashboard and how to use it?", "status": "pass", "changes": []}
+{"id": "17183564", "title": "How to configure tag types, fields and auto-assignment in F-Tag?", "status": "fixed", "changes": ["Added intro sentence after audience note", "US spelling: color, customize"]}
+{"id": "12882033", "title": "What is Floor Plan in the F-Tag Module?", "status": "fixed", "changes": ["Removed unconfirmed claim that pins update in real time"]}
+{"id": "12882047", "title": "What is Kanban Board in the F-Tag Module?", "status": "pass", "changes": []}
+{"id": "17183568", "title": "How to escalate tags between tiers?", "status": "fixed", "changes": ["Added intro sentence", "Bolded Lean Studio", "Added cross-reference to saved views article"]}
+{"id": "17183569", "title": "How to use QR codes and print tags?", "status": "fixed", "changes": ["Added intro sentence", "Linked published departments/assets article", "Softened unconfirmed AI photo-description claim to wording clean-up"]}
+{"id": "17183950", "title": "What is the F-Tag module in LeanSuite?", "status": "fixed", "changes": ["US spelling: color"]}
+{"id": "17183570", "title": "How do suggestion points, rewards and the leaderboard work?", "status": "fixed", "changes": ["Added intro sentence", "Aligned missing-points wording with troubleshooting article", "Bolded leaderboard/Wall of Fame"]}
+{"id": "17183572", "title": "What do suggestion statuses mean?", "status": "pass", "changes": []}
+{"id": "17183574", "title": "How does Lean AI help with suggestions?", "status": "fixed", "changes": ["Added intro sentence", "Bolded Translate"]}
+{"id": "17183335", "title": "KPI basics: indicators, targets, categories and KPI trees", "status": "fixed", "changes": ["Added intro sentence", "US spelling: colored, organization", "Bolded Lean Studio"]}
+{"id": "17183337", "title": "How to create a KPI step by step?", "status": "fixed", "changes": ["Added intro sentence with cross-reference to KPI basics", "Bolded Lean Studio"]}
+{"id": "17183339", "title": "How to connect a KPI to Excel or Google Sheets?", "status": "fixed", "changes": ["Added intro sentence"]}
+{"id": "17183343", "title": "How to enter KPI values?", "status": "fixed", "changes": ["Added intro sentence", "Bolded Lean Studio"]}
+{"id": "17183323", "title": "What is AI Time & Motion Study?", "status": "fixed", "changes": ["US spelling: analyzes", "Added italic cross-references to the other Time Study articles in workflow steps"]}
+{"id": "17183326", "title": "How to record video for an AI time study?", "status": "fixed", "changes": ["Expanded intro sentence", "US spelling: colored", "Max length kept as 'up to about 2 hours' (neutral)"]}
+{"id": "17183329", "title": "How to create a time study and select operators?", "status": "fixed", "changes": ["Added intro sentence", "Untick -> Uncheck"]}
+{"id": "17183331", "title": "How to review, edit and certify a time study?", "status": "fixed", "changes": ["Added intro sentence", "US spelling: color-coded, Gray"]}
+{"id": "13311666", "title": "What is Lean Studio?", "status": "pass", "changes": []}
+{"id": "13311679", "title": "Types of dashboards in Lean Studio", "status": "fixed", "changes": ["Title: removed trailing period", "Expanded intro sentence"]}
+{"id": "13311870", "title": "How to create a new dashboard inside Lean Studio?", "status": "fixed", "changes": ["Added intro sentence", "Softened tip that implied other facilities can copy/clone a dashboard (cloning availability unconfirmed)", "Updated cross-reference to renamed widget article title"]}
+{"id": "13311893", "title": "How to edit the details of an existing dashboard?", "status": "fixed", "changes": ["Added intro sentence", "Softened claim that facilities can make their own copy (dashboard cloning unconfirmed)", "Note: article description still says 'or copy it' (description not edited per rules)"]}
+{"id": "13311974", "title": "How to set up a Grid dashboard?", "status": "fixed", "changes": ["Added intro sentence"]}
+{"id": "13311987", "title": "How to set up a Freeform dashboard and use templates?", "status": "fixed", "changes": ["Added intro sentence", "US spelling: colors", "Bolded Edit Layout"]}
+{"id": "13312017", "title": "How to edit the layout of a dashboard?", "status": "fixed", "changes": ["Added intro sentence", "Title: lowercase 'dashboard' for consistency"]}
+{"id": "13312024", "title": "How to use a Lean Studio board in a huddle?", "status": "fixed", "changes": ["Added intro sentence", "Capitalized Tier 1/Tier 2 consistently"]}
+{"id": "13312027", "title": "How to export charts from dashboards?", "status": "fixed", "changes": ["Title: lowercase 'dashboards'", "Added intro sentence"]}
+{"id": "13312033", "title": "Types of widgets available to add to a dashboard", "status": "fixed", "changes": ["Title: removed trailing period, fixed capitalization and preposition", "Added intro sentence", "US spelling: colored, colors"]}
+{"id": "13312040", "title": "How to edit a widget in a dashboard?", "status": "fixed", "changes": ["Title: lowercase 'dashboard'", "Added intro sentence"]}
+{"id": "13312050", "title": "How to add a new widget to a dashboard?", "status": "fixed", "changes": ["Title: capitalization and 'in' -> 'to'", "Added intro sentence", "Added cross-reference to widget types article"]}
+{"id": "17183621", "title": "How to build quizzes, courses and learning plans in the Instructor Panel?", "status": "fixed", "changes": ["Expanded intro sentence", "US spelling: enroll (matches Enrollment requests UI label)", "Added cross-reference to role assignment article"]}
+{"id": "17183623", "title": "How to run an in-class training session?", "status": "fixed", "changes": ["Added intro sentence", "US spelling: enroll, auto-enroll, enrollment"]}
+{"id": "17183625", "title": "How to assign courses to roles and share them across facilities?", "status": "fixed", "changes": ["Added intro sentence", "US spelling: enrollment", "Bolded facility switcher"]}
+{"id": "17183626", "title": "How to link training to the Skills Matrix and record external training?", "status": "fixed", "changes": ["Added intro sentence", "Softened manual/external training record to neutral availability wording (release status unconfirmed)", "Bolded Create with AI"]}
+{"id": "17183627", "title": "How are teams, skills, roles and procedures connected in the Skills Matrix?", "status": "fixed", "changes": ["Added intro sentence", "Capitalized Job Cover Matrix consistently", "Added cross-reference to team setup article"]}
+{"id": "17183629", "title": "How to read the radar chart and plan skill gaps?", "status": "fixed", "changes": ["Added intro sentence"]}
+{"id": "17183949", "title": "How to create a team and set required skills in the Skills Matrix?", "status": "fixed", "changes": ["Added intro sentence", "Added cross-reference to radar chart article"]}
+{"id": "17183952", "title": "What is the Job Cover Matrix?", "status": "fixed", "changes": ["Softened qualification rule to neutral wording (details lightly confirmed)", "Replaced 'record external training' with neutral 'keep training records up to date' (manual training release unconfirmed)"]}
+{"id": "17183630", "title": "How to use Document Management?", "status": "pass", "changes": []}
+{"id": "17183632", "title": "How to track adoption of a shared Best Practice?", "status": "fixed", "changes": ["Added intro sentence", "Linked published article 12124962 How to share a Best Practice with other facilities?"]}
+{"id": "17183951", "title": "How to set savings targets and track imports in Cost Management?", "status": "fixed", "changes": ["Added intro sentence", "Linked published Loss Tree articles 12123848 and 12123858", "Saving Type filter wording made neutral (full list of savings types unconfirmed)"]}
+{"id": "17183634", "title": "Release highlights: April to September 2026", "status": "fixed", "changes": ["Added intro sentence", "US spelling: colors", "Named Admin Settings \u2192 Asset Management"]}

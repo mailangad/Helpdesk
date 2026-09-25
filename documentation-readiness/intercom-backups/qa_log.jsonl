@@ -1,0 +1,244 @@
+{"id": "12123178", "title": "What is the side window of a suggestion and its features?", "status": "needs_human", "issues_found": ["Live body still original: internal-article link (4672960) under 'Need Help?', Confluence edit link, tutorial-chain 'Congratulations'/'let's move ahead' text, empty paragraphs", "update_article returns success and bumps updated_at but get_article still returns the original body (retried again in QA)"], "fixes": ["Retried update with sug/12123178.new.html; did not persist - needs manual edit in Intercom UI (possible draft/lock on article)"]}
+{"id": "12921679", "title": "How to create Questions & Responses in the Lean Creator Window?", "status": "needs_human", "issues_found": ["Live body is still the ORIGINAL despite fix_log claiming it was fixed: 19-row response-types table with empty Input Type/Add Rule cells", "typos 'cannot be submitted is a question', 'choose is the response'", "chatty 'Let's go ahead' phrasing, empty paragraphs", "article ends abruptly after Add Rule screenshot"], "fixes": ["QA update_article returned success (updated_at bumped) but get_article still returns original body - same non-persistence as 12123178. Intended corrected body (all 6 images kept) saved at scratchpad/pubqa/12921679.intended.html; needs manual paste in Intercom UI"]}
+{"id": "12927244", "title": "How to edit template properties in Lean Creator?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12919963", "title": "How to edit Template questions and responses in Lean Creator?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12919966", "title": "Where are the Lean Creator Templates used?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12919960", "title": "How to create pages and sections in the Lean Creator Window?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12919959", "title": "What is the Lean Creator Window and its components?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12919894", "title": "What is the Lean Creator Dashboard and how to use it?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12919955", "title": "How to create a new template in Lean Creator ?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735 (verified persisted)"]}
+{"id": "12920022", "title": "How to create a new KPI?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735"]}
+{"id": "12930648", "title": "What are the KPI builder sections and how to use them?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12920091", "title": "How to view data in a KPI ?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12920026", "title": "How to input data manually into a KPI ?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12920075", "title": "How to edit a KPI?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12920014", "title": "What is KPI in Lean Suite ?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12920016", "title": "The KPI dashboard and how to use it?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12920981", "title": "What is the Schedule dashboard in Daily Standard Work ?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12920991", "title": "How to assign a template to a user?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12920945", "title": "How to clone a template from marketplace ?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12920854", "title": "What is Daily Standard Work in Lean Suite ?", "status": "fixed", "issues_found": ["Activity type list said 'Quiz Survey' (audit flagged: reconcile with Lean Creator template types, which list Quiz and Survey separately)"], "fixes": ["Changed 'Quiz Survey' to 'Survey'; all 5 images kept"]}
+{"id": "12920931", "title": "How to start a template/task/activity in Daily standard work?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12920905", "title": "What is the Kanban Board in Daily Standard Work and how to use it?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12920922", "title": "How to preview a template?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12920876", "title": "What is the overview dashboard in Daily Standard Work ?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "14568481", "title": "March 30, 2026 (Major Release)", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12565743", "title": "February 28, 2026 (Major Release)", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12565741", "title": "October 25, 2025 (Minor Release)", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12053058", "title": "September 13, 2025 (Major Release)", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12920896", "title": "How to view submitted reports in Daily Standard Work ?", "status": "fixed", "issues_found": ["Numbered steps split by a screenshot restarted at 1 (read 1,2,1,2)"], "fixes": ["Rewrote the Overview Dashboard steps as explicit 1-4 so numbering reads correctly; all 4 images kept"]}
+{"id": "12123146", "title": "How to attach a photo and a photo with a sketch to a suggestion?", "status": "fixed", "issues_found": ["Article titled 'How to attach a photo' had no procedure (original empty collapsibles were removed in first pass)", "No screenshots"], "fixes": ["Added short 'Add a photo' procedure based on the verified Attach drop-down in the detail view (12123143/12123150)", "Screenshots still needed (original article had none)"]}
+{"id": "12123147", "title": "How to attach a sketch to a suggestion?", "status": "fixed", "issues_found": ["Article titled 'How to attach a sketch' had no procedure (original empty collapsibles were removed in first pass)", "No screenshots"], "fixes": ["Added short 'Add a sketch' procedure based on the verified Attach drop-down in the detail view", "Screenshots still needed (original article had none)"]}
+{"id": "12052734", "title": "July 12, 2025  (Major Release)", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12053045", "title": "July 27, 2025 (Patch Release)", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123175", "title": "What is the priority of a suggestion and how to change it?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123152", "title": "How to edit information in your suggestion?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123121", "title": "How to search the Suggestion dashboard?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123017", "title": "How to add/edit fields while creating a suggestion ?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123143", "title": "How to attach a file to a suggestion?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123150", "title": "How to attach information & data to a Suggestion ?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123641", "title": "How to add a photo and a photo with a sketch to a Kaizen?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123131", "title": "How to add a comment to a suggestion?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123167", "title": "What is the activity field in suggestion system and its options?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123187", "title": "How to create a new campaign?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123164", "title": "How to Revert a Suggestion to its Initial State?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123154", "title": "How to initiate a Kaizen from a Suggestion?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123160", "title": "How to proceed a Suggestion after approval?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123133", "title": "How to add an approver/implementer to a Suggestion ?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123137", "title": "How to approve a Suggestion?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123129", "title": "How does a suggestion proceed after creation?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123188", "title": "How to edit existing campaign details?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123191", "title": "How to see campaign details and submitted suggestions?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123192", "title": "How to submit a suggestion to a campaign?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123193", "title": "What is a Suggestion Campaign ?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123157", "title": "How to open a Suggestion after creation?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123074", "title": "What are Reports in the Suggestion module?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123066", "title": "What are suggestion settings/preferences and how to edit them?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123043", "title": "What are the navigation options in Suggestion System and how to use them?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123124", "title": "How to export suggestions/search results from suggestion dashboard?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123034", "title": "What is the Suggestion dashboard?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12122771", "title": "How to create a new Suggestion?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123201", "title": "What is the Suggestion System in Lean Suite ?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123181", "title": "What is the suggestion detail view and its features?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125145", "title": "What is the My Learning section in LMS?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125143", "title": "What is the LMS Dashboard?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125142", "title": "What is the instructor panel in LMS and how to navigate it?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125139", "title": "What is the Course Catalog inside LMS?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125133", "title": "What are the navigation options in LMS system and how to use them?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125137", "title": "What is LMS in LeanSuite?", "status": "pass", "issues_found": ["2 api.media.atlassian.com images removed in first pass (intentional; needs new screenshots)"], "fixes": []}
+{"id": "12123843", "title": "What is the \"Tool\" phase section and how to use it?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123839", "title": "What is the \"Team\" phase section and how to use it?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123837", "title": "What is the \"Target\" phase section and how to use it?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123836", "title": "What is the \"Root Cause Analysis\" phase section and how to use it?", "status": "pass_with_notes", "issues_found": ["minor: '________' placeholder in Increased Stress > Insufficient Skills row was filled by fixer with 'OPL for Operator or Maintenance' (inferred from parallel Deterioration row) - human to confirm"], "fixes": []}
+{"id": "12123835", "title": "What is the \"Result\" phase section and how to use it?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123788", "title": "What is the \"MTTR\" phase section and how to use it?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123787", "title": "What is the \"Failure Curve Analysis\" phase section and how to use it?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123778", "title": "What is the \"Description\" phase section and how to use it?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123776", "title": "What is the \"Description of Repairs\" phase section and how to use it?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123772", "title": "What is the \"Additional Details\" phase section and how to use it?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123761", "title": "What is the \"Action Plan\" phase section and how to use it?", "status": "pass_with_notes", "issues_found": ["minor: Stage 1 step 6 says 'Add the action, as shown in the video walkthrough' - exact button name not in source; human to name it"], "fixes": []}
+{"id": "12123755", "title": "What is the \"5W1H\" phase section and how to use it?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123754", "title": "What is the \"5G\" phase section and how to use it?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123749", "title": "What is the \"5WHY\" phase section and how to use it?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123746", "title": "What is the \"4M1D\" phase section and how to use it?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123781", "title": "What is the \"Expansion\" phase section and how to use it?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123666", "title": "How to open a Kaizen after creation?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123715", "title": "What are the various Kaizen phase sections & how to use them?", "status": "pass_with_notes", "issues_found": ["info: 'Adoption' section listed as plain text - no published article exists (missing topic)"], "fixes": []}
+{"id": "12123707", "title": "What is the side window of a Kaizen & its features?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123704", "title": "What is the Kaizen detail view and its features?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123702", "title": "What is the activity field in a Kaizen and the options available in it?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123699", "title": "What is drag & drop box in Kaizen and how to use it?", "status": "pass_with_notes", "issues_found": ["minor: awkward phrase 'Click the relevant icon of the two icons in the bottom-right corner' (not changed)"], "fixes": []}
+{"id": "12123696", "title": "What are phases and sections in a Kaizen?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123695", "title": "What is the process after creating a Kaizen?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123674", "title": "How to see the workflow attached to a Kaizen?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123664", "title": "How to export data from a Kaizen?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123661", "title": "How to edit information in your Kaizen?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123659", "title": "How to edit due date of a Kaizen?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123658", "title": "How to attach information & data to a Kaizen?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123651", "title": "How to advance a kaizen into the next stage/phase or change status?", "status": "pass_with_notes", "issues_found": ["minor: title uses lowercase 'kaizen' (cosmetic, not changed to avoid slug churn)"], "fixes": []}
+{"id": "12123648", "title": "How to add a web url to a Kaizen?", "status": "pass_with_notes", "issues_found": ["minor: step 3 in both procedures says 'add it ... as shown in the video walkthrough' - button name not in source", "minor: title uses lowercase 'web url' (cosmetic, not changed)"], "fixes": []}
+{"id": "12125130", "title": "What are LMS reports?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125129", "title": "What are Course Analytics and how to view them?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12125128", "title": "How to view submitted Quizes in LMS?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12125126", "title": "How to view and add instructors in LMS?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12125124", "title": "How to use the instructor panel?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125123", "title": "How to see a Course Detail in LMS?", "status": "fixed", "issues_found": ["Login step 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12125120", "title": "How to mark submitted quizzes as instructor in LMS?", "status": "fixed", "issues_found": ["Login step 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12125118", "title": "How to enroll into a course in LMS?", "status": "fixed", "issues_found": ["Login step 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12125113", "title": "How to create a Quiz inside LMS?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125106", "title": "How to create a course inside LMS?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125105", "title": "How to create a new Course Category?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125103", "title": "How to compare quizzes in LMS System?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125115", "title": "How to edit/delete an Instructor in LMS?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12125114", "title": "How to delete a course from the database in LMS?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12125094", "title": "How to add a quiz to a course?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125099", "title": "How to assign a course to a user/employee in LMS?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12125091", "title": "How to add a new Quiz in LMS?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12125087", "title": "How to add a new Course in LMS?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12124974", "title": "What is the side window of a Best Practice & its features?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124971", "title": "What is the drag & drop box in Best Practice and how to use it?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124969", "title": "What is the Best Practice detail view and its features?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124967", "title": "What is the activity field in a Best Practice and the options available in it?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124965", "title": "What are phases and sections in a Best Practice?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124964", "title": "Process after creation in a Best Practice", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124960", "title": "How to open a Best Practice after creation?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124957", "title": "How to export data from a Best Practice?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124956", "title": "How to edit information in your Best Practice?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124962", "title": "How to share a Best Practice with other facilities?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; 4 images unchanged"]}
+{"id": "12124950", "title": "How to attach information & data to a Best Practice?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124947", "title": "How to advance a Best Practice into the next stage/phase?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124943", "title": "How to add a web URL to a Best Practice?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124940", "title": "How to add a sketch to a Best Practice?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124937", "title": "How to add a photo and a photo with a sketch to a Best Practice?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124952", "title": "How to edit due date of a Best Practice?", "status": "fixed", "issues_found": ["Step 4 sub-steps were three separate one-item <ol> lists split by screenshots, so each rendered as '1.'"], "fixes": ["Rewrote Step 4 sub-steps as explicit 1-3; all 6 images kept in place"]}
+{"id": "12124933", "title": "How to add a file to a Best Practice?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124930", "title": "How to add a comment to a Best Practice?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124910", "title": "What is a Best Practice Dashboard?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124898", "title": "What are Reports the in the Best Practice Module?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124853", "title": "Navigation in Best Practice Module", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124851", "title": "How to search the Best Practice Dashboard?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124929", "title": "How to add & remove sections from phases in Best Practice Module?", "status": "fixed", "issues_found": ["'To remove a section' steps split by a screenshot: third step restarted at '1.'"], "fixes": ["Rewrote remove-section steps as explicit 1-3; all 5 images kept in place"]}
+{"id": "12124842", "title": "How to export data from the Best Practice Dashboard?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124836", "title": "What is the Best Practice Module in LeanSuite?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124812", "title": "What is User Profile in Skill Matrix?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124810", "title": "What is the team detail view and its features?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124806", "title": "What is the Skill Matrix in LeanSuite?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124805", "title": "What is Team Dashboard in Skill Matrix?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124838", "title": "How to create a new Best Practice?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; 5 images unchanged"]}
+{"id": "12124803", "title": "What are the navigation options inside Skill Matrix?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124796", "title": "What are Reports inside Skill Matrix?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124779", "title": "How to view/export team data for a particular date in Skill Matrix?", "status": "fixed", "issues_found": ["Step 1 login text not linked", "Dangling '<b>Tip:</b>' paragraph separated from its text by a screenshot"], "fixes": ["Linked login text to public article 17182735", "Merged Tip label into the Excel export sentence; 4 images unchanged"]}
+{"id": "12124763", "title": "How to view competency detail for a member in a team?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12124749", "title": "How to view a team in detail post creation?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12124734", "title": "How to export team overview results from Skill Matrix?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12124693", "title": "How to export data from Reports in Skill Matrix?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12124680", "title": "How to edit a team in Skill Matrix?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12124661", "title": "How to create a new team?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12124643", "title": "How to clone a team in Skill Matrix?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12124081", "title": "What is the Loss Trees Dashboard and it features?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124064", "title": "What is the Cost Management Dashboard and how to navigate it?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124047", "title": "What is Loss Tree Detail View and its features?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124027", "title": "What is Cost Management in Lean Suite?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125040", "title": "What is user Re-Assignments and how to edit them?", "status": "fixed", "issues_found": ["Procedure split by images into <ol>s numbered 1,2 / 1,2 / 1"], "fixes": ["Rewrote as explicit Step 1-5 paragraphs; images kept in place"]}
+{"id": "12125037", "title": "What is the default due date in F-Tag Module?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124998", "title": "How to configure the F-Tag Module for your workspace?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125053", "title": "How to add a comment to an F-Tag?", "status": "fixed", "issues_found": ["Step 3 split into two single-item <ol>s both rendering '1.'"], "fixes": ["Converted to paragraphs; images kept"]}
+{"id": "12125075", "title": "What is the activity field and its options?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125062", "title": "How to clone an F-Tag?", "status": "fixed", "issues_found": ["Step 1 'Log in' not linked", "Step 3 sentence broken around inline icon image ('Click the Clone icon' / 'in the top bar.')", "Caption styled as <code>"], "fixes": ["Linked 'Log in' to login article", "Rewrote Step 3 as one sentence, removed orphan fragment, images kept in place", "Caption changed to italic"]}
+{"id": "12125069", "title": "How to operate an F-Tag?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125060", "title": "How to attach information & data to an F-Tag?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125078", "title": "What is the F-Tag detail view and its features?", "status": "fixed", "issues_found": ["Image captions styled as <code>"], "fixes": ["Captions changed to italic"]}
+{"id": "12125080", "title": "What is the side window of the F-Tag and its features?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125068", "title": "How to open an F-Tag after creation?", "status": "fixed", "issues_found": ["'Open the detail view' sentence broken around inline icon image ('Click the' / 'icon in the top-left corner')"], "fixes": ["Rewrote as one sentence before the icon; images kept in order"]}
+{"id": "12125071", "title": "Process after creation in F-Tag Module.", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125047", "title": "What are the Tag Settings and how to use them?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125045", "title": "What are F-Tag Reports and how to navigate them?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125014", "title": "How to edit/delete a trade type in F-Tag?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125005", "title": "How to create a new trade type in F-Tag Module?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125038", "title": "What is trade type in F-Tag Module?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125009", "title": "How to edit/delete a priority in F-Tag?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125003", "title": "How to create a new Priority type in F-Tag?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125034", "title": "What is priority in F-Tag Settings?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125018", "title": "How to edit/delete an issue/sub-issue in F-Tag Module?", "status": "fixed", "issues_found": ["'Edit an issue' numbering restarted at 1 after image (1 / 1,2,3)"], "fixes": ["First item made a paragraph; 3-item list introduced with 'In the Update Issue window:'"]}
+{"id": "12125001", "title": "How to create a new issue and sub-issue in F-Tag?", "status": "fixed", "issues_found": ["Step 3 split into two single-item <ol>s that both render as '1.'"], "fixes": ["Converted to plain step paragraphs; images kept in place"]}
+{"id": "12125028", "title": "What are issues inside F-Tag Module?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125007", "title": "How to edit a default Due Date in F-Tag?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124999", "title": "How to create a new default due date?", "status": "fixed", "issues_found": ["Step 3 split into two single-item <ol>s that both render as '1.'"], "fixes": ["Converted to plain step paragraphs; images kept in place"]}
+{"id": "12125006", "title": "How to edit a Default Assignee?", "status": "fixed", "issues_found": ["Step 1 'Log in' not linked"], "fixes": ["Linked 'Log in' to 17182735 login article"]}
+{"id": "12125024", "title": "How to set up/create a new default assignee in F-Tag Module?", "status": "fixed", "issues_found": ["Step 1 'Log in' not linked"], "fixes": ["Linked 'Log in' to 17182735 login article"]}
+{"id": "12125032", "title": "What is default assignee in F-Tag Module?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125081", "title": "What is the status inside F-Tag and how is it connected to its operating?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125066", "title": "How to edit information in an F-Tag?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125057", "title": "How to attach a photo and a photo with a sketch to an F-Tag?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125058", "title": "How to attach a sketch to an F-Tag?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125055", "title": "How to attach a file to an F-Tag?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125042", "title": "How to export data from the F-Tag dashboard?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125043", "title": "How to search the F-Tag dashboard?", "status": "fixed", "issues_found": ["Group By steps numbered 1,2 / 1 / 1 and Saved Views steps 1 / 1 / 1 due to image-split <ol>s"], "fixes": ["Rewrote as explicit Step 1-4 (Group By) and Step 1-3 (Saved Views); all 13 images kept in order"]}
+{"id": "12125051", "title": "What is the F-Tag dashboard?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12125046", "title": "What are the navigation options in F-Tag Module and how to use them?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124990", "title": "What is the F-Tag Module in LeanSuite?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124994", "title": "How to add & edit fields while creating an F-Tag?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12124995", "title": "How to create a new F-Tag?", "status": "fixed", "issues_found": ["Step 1 'Log in' not linked"], "fixes": ["Linked 'Log in' to 17182735 login article"]}
+{"id": "12123999", "title": "What are the navigation options in Cost Management System?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123975", "title": "What are reports inside Cost Management and how to navigate them?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123953", "title": "How to view Top Losses Report for a Loss Tree?", "status": "fixed", "issues_found": ["Step 1 login text not linked", "Dangling '<b>Tip:</b>' paragraph separated from its text by a screenshot"], "fixes": ["Linked login text to 17182735", "Merged Tip label into its sentence; 3 images unchanged"]}
+{"id": "12123856", "title": "How to check import history in Cost Management?", "status": "fixed", "issues_found": ["Step 1 login text not linked", "Dangling '<b>Tip:</b>' paragraph separated from its text by a screenshot"], "fixes": ["Linked login text to 17182735", "Merged Tip label into its sentence; 3 images unchanged"]}
+{"id": "12123933", "title": "How to view the Kaizens related to a Loss Tree?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12123917", "title": "How to open a loss tree after creation?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12123895", "title": "How to import data in Cost Management?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12123871", "title": "How to export results from Cost Management Dashboard?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12123867", "title": "How to export data from the Loss Tree dashboard?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12123864", "title": "How to export data from a Loss Tree?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12123848", "title": "How to add a new Loss Tree in Cost Management?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12123858", "title": "How to create a Kaizen from a Loss Tree?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12123862", "title": "How to delete a Loss Tree?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12123647", "title": "How to add a sketch to a Kaizen?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123638", "title": "How to add a file to a Kaizen?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123563", "title": "What is approval dashboard in Kaizen module?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123562", "title": "What is a Kaizen Dashboard?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123637", "title": "How to add a comment to a Kaizen?", "status": "fixed", "issues_found": ["Step 3 sub-steps split by a screenshot into two <ol> lists (read 1, 1, 2)"], "fixes": ["Rewrote Step 3 sub-steps as explicit 1-3; 4 images kept"]}
+{"id": "12123569", "title": "How to add or remove sections from phases in Kaizen module?", "status": "fixed", "issues_found": ["'Remove a section' steps split by a screenshot: third step restarted at '1.'"], "fixes": ["Rewrote remove steps as explicit 1-3; 5 images kept"]}
+{"id": "12123558", "title": "What are the navigation options in Kaizen system and how to use them?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123557", "title": "What are reports in Kaizen module?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123555", "title": "What are Kaizen settings?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123550", "title": "Navigating inside the parent menu in Kaizen module.", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123549", "title": "How to search a Kaizen dashboard?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123548", "title": "How to export a .csv file for tool or skill usage count on the Kaizen project?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123538", "title": "What is tool management in Kaizen?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123534", "title": "What is savings distribution in Kaizen module?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123528", "title": "How to edit an existing revised due date reason in Kaizen setting?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123544", "title": "How to export a .csv file for the Kaizen dashboard?", "status": "fixed", "issues_found": ["Step 3 sub-steps split by a screenshot: 'Click Save' restarted at '1.'"], "fixes": ["Rewrote Step 3 sub-steps as explicit 1-3; 2 images kept"]}
+{"id": "12123512", "title": "How to edit a tool or a skill in Kaizen?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123509", "title": "How to edit a tool or a skill connected to a loss type in Kaizen setting?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123503", "title": "How to distribute savings by default in a Kaizen?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123496", "title": "How to add a revised due date reason in Kaizen setting?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123490", "title": "How to add default tools or skills to a loss type in Kaizen setting?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123487", "title": "How to add/track tools or skills in Kaizen Module?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123483", "title": "How to add a loss type in kaizen Module?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123479", "title": "How to add a loss category in Kaizen Module?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123465", "title": "How to add and edit fields while creating a Kaizen?", "status": "pass", "issues_found": [], "fixes": []}
+{"id": "12123205", "title": "What is a Kaizen in LeanSuite?", "status": "pass", "issues_found": ["2 api.media.atlassian.com images removed in first pass (intentional; needs new screenshots)"], "fixes": []}
+{"id": "12123471", "title": "How to edit methodology settings in Kaizen type?", "status": "fixed", "issues_found": ["Step 3 sub-steps were two one-item <ol> lists split by screenshots (read 1, 1)"], "fixes": ["Rewrote Step 3 sub-steps as explicit 1-2; 5 images kept"]}
+{"id": "12123462", "title": "How to add a new Kaizen methodology?", "status": "fixed", "issues_found": ["Step 3 'Click Save' restarted at '1.' after screenshots"], "fixes": ["Rewrote Step 3 sub-steps as explicit 1-3; 6 images kept"]}
+{"id": "12123466", "title": "How to create a new Kaizen?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
+{"id": "12123208", "title": "How to add a new Kaizen type?", "status": "fixed", "issues_found": ["Step 1 'Log in to your LeanSuite account' not linked"], "fixes": ["Linked login text to public article 17182735; images unchanged"]}
