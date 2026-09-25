@@ -10,7 +10,12 @@ Before you publish any of them:
 - add screenshots
 - move each article into its collection (the table below)
 
-## Articles with no collection yet: move these
+## Collection moves (done 2026-09-25)
+Getting Started = collection 19761634 and Administration = collection 19761635. All articles below were moved.
+
+**Now published:** 17182735 (login) and 17182745 (departments/assets) were published when they were moved in the Intercom editor. All other articles are still drafts.
+
+### Articles moved, with their target collections
 
 | Intercom ID | Title | Move to |
 |---|---|---|
