@@ -4,6 +4,8 @@ Goal: make sure the Help Center covers **every screen and feature of theleansuit
 
 ## Prerequisites (owner)
 
+**Dev app: `https://lean-suite.web.app/login`** (Firebase). Allowed domains it needs: `lean-suite.web.app`, `lean-suite.firebaseapp.com`, `identitytoolkit.googleapis.com`, `securetoken.googleapis.com`, `firestore.googleapis.com`, `firebasestorage.googleapis.com`, `*.cloudfunctions.net`, plus any custom API domain. If pages load blank, check the browser console for blocked hosts. Run with `LS_URL=https://lean-suite.web.app`.
+
 **Dev environment option (preferred):** point `LS_URL` at the dev app and allow its domain in Network access. Only a throwaway dev test account may go in the environment variables (`LS_USER`/`LS_PASS`); the variables are visible to anyone using the environment. When crawling dev, **document only features that are live in production**. Skip or flag anything dev-only or unreleased.
 
 1. In the cloud environment settings, allow network access to `theleansuite.app`, plus any API or asset domains the app uses.
