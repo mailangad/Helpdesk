@@ -29,8 +29,9 @@ const MODULES = {
   'Daily Standard Work': '/main/dsw/overview',
   'Lean Studio': '/main/custom-dashboard',
   'Document Management': '/main/documents?viewType=table',
+  'Lean Creator': '/main/lean-creator/templates',
 };
-const UNSAFE = /(delete|remove|archive|log ?out|sign ?out|reset|deactivate|submit|publish|approve|reject|send|save|privacy|terms|visit site|follow)/i;
+const UNSAFE = /(delete|remove|archive|log ?out|sign ?out|reset|deactivate|submit|publish|approve|reject|send|save|privacy|terms|visit site|follow|close|arrow_|chevron)/i;
 const HOME_ITEMS = /^(home|prize catalog|requested prizes|leaderboard|campaigns)$/i;
 
 const browser = await chromium.launch({ headless: !process.env.HEADFUL });
