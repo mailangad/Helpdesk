@@ -2,7 +2,7 @@
 
 This file supersedes the batch checklists as the master list; those still hold the per-article "verify before publishing" notes.
 
-- **64 articles in draft:** 46 new drafts, plus 18 existing empty drafts that now have content.
+- **73 articles in draft:** 55 new drafts, plus 18 existing empty drafts that now have content.
 - **Nothing is published.** No published article was edited.
 
 Before you publish any of them:
@@ -30,6 +30,10 @@ Before you publish any of them:
 | 17182745 | How to set up departments, lines, workstations and assets? | Administration |
 | 17183194 | How to set up Single Sign-On (SSO) with Microsoft Entra ID? | Administration |
 | 17183489 | How to export data from LeanSuite? | Administration |
+| 17183943 | Setting up LeanSuite for your site: admin checklist | Administration |
+| 17183944 | Getting started with LeanSuite for frontline users | Getting Started & Account |
+| 17183946 | Which LeanSuite module should I use? | Getting Started & Account |
+| 17183947 | Troubleshooting: common problems and quick fixes | Getting Started & Account |
 | 17183323 | What is AI Time & Motion Study? | New collection: AI Time & Motion Study |
 | 17183326 | How to record video for an AI time study? | AI Time & Motion Study |
 | 17183329 | How to create a time study and select operators? | AI Time & Motion Study |
@@ -120,3 +124,21 @@ Before you publish any of them:
   - Cost Management updates (saving targets, import history)
   - QA Matrix
   - Job Cover Matrix
+
+## Batch 5: onboarding guides and replacements for weak published articles
+
+**Onboarding guides.** These have no collection yet, so they are listed in the move table above.
+- 17183943 Setting up LeanSuite for your site: admin checklist
+- 17183944 Getting started with LeanSuite for frontline users
+- 17183946 Which LeanSuite module should I use?
+- 17183947 Troubleshooting: common problems and quick fixes
+
+**Replacements for weak published articles.** Once each draft is published, unpublish the old article.
+- Kaizen: 17183948 What is the Kaizen Dashboard and how to use it? (replaces 12123562)
+- Skill Matrix: 17183949 How to create a team and set required skills in the Skills Matrix? (replaces 12124661)
+- F-Tag: 17183950 What is the F-Tag module in LeanSuite? (replaces 12124990)
+
+**New articles in existing collections.**
+- Cost Management: 17183951 How to set savings targets and track imports in Cost Management?
+- Skill Matrix: 17183952 What is the Job Cover Matrix?
+  - Check where it sits in the product and how it decides who is qualified. The details come mostly from the website, and there was only light coverage on calls.
