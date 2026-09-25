@@ -1,0 +1,7 @@
+[
+  { "file": "17182735-01-login.png", "path": "/login", "loggedIn": false, "clip": "form" },
+  { "file": "17182736-01-forgot-password.png", "path": "/login", "loggedIn": false,
+    "steps": [ { "click": "text=Forgot password" } ], "clip": "form" },
+  { "file": "17183477-01-home-dashboard.png", "path": "/" },
+  { "file": "17182735-03-mobile-login.png", "path": "/login", "loggedIn": false, "mobile": true }
+]
