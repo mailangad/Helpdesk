@@ -1,0 +1,599 @@
+[
+  {
+    "url": "https://lean-suite.web.app/main/home",
+    "slug": "main_home",
+    "title": "The Leansuite",
+    "headings": [
+      "Home",
+      "Prize Catalog",
+      "Requested Prizes",
+      "Leaderboard",
+      "Campaigns"
+    ],
+    "buttons": [
+      "chevron_left",
+      "LeanSuitee User2\n843 Points\nunfold_more",
+      "close",
+      "lightbulb\nSuggestion",
+      "bar_chart\nKaizen",
+      "sell\nTag",
+      "grid_view\nQA Matrix",
+      "assignment\nEWO",
+      "star\nBest Practice",
+      "attach_money\nCost Management",
+      "grid_view\nSkill Matrix",
+      "school\nLMS",
+      "account_tree\nWorkflow",
+      "NEW\ndraw\nLean Creator",
+      "NEW\nspeed\nKpi",
+      "NEW\nevent_available\nDaily Standard Work",
+      "NEW\napps\nLean Studio",
+      "NEW\ndescription\nDocument Management",
+      "person_outline\nMy Profile",
+      "notifications_none\nManage Notifications",
+      "menu_book\nInstructor Panel",
+      "settings\nGap Planning",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "menuItems": [],
+    "labels": [],
+    "tableColumns": []
+  },
+  {
+    "url": "https://lean-suite.web.app/main/kaizen/b3c8b5d0-89e4-4ebc-a858-c6b6cdfd47f4",
+    "slug": "main_kaizen_b3c8b5d0_89e4_4ebc_a858_c6b6cdfd47f4",
+    "title": "The Leansuite",
+    "headings": [
+      "Home",
+      "Prize Catalog",
+      "Requested Prizes",
+      "Leaderboard",
+      "Campaigns",
+      "No RCA Analysis Yet"
+    ],
+    "buttons": [
+      "chevron_left",
+      "LeanSuitee User2\n843 Points\nunfold_more",
+      "close",
+      "home",
+      "4M 1D\nclose",
+      "5W 1H\nclose",
+      "5 Why\nclose",
+      "5G\nclose",
+      "Root Cause Analysis\nclose",
+      "Linked Docs",
+      "bold",
+      "italic",
+      "underline",
+      "strike",
+      "blockquote",
+      "list: ordered",
+      "list: bullet",
+      "indent: -1",
+      "indent: +1",
+      "direction: rtl",
+      "link",
+      "image",
+      "Open calendar",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "menuItems": [
+      "home"
+    ],
+    "labels": [
+      "b3c8b5d0-89e4-4ebc-a858-c6b6cdfd47f4"
+    ],
+    "tableColumns": []
+  },
+  {
+    "url": "https://lean-suite.web.app/main/suggestion/view-suggession/2235",
+    "slug": "main_suggestion_view_suggession_2235",
+    "title": "The Leansuite",
+    "headings": [
+      "Home",
+      "Prize Catalog",
+      "Requested Prizes",
+      "Leaderboard",
+      "Campaigns",
+      "All Suggestions",
+      "Reports",
+      "Suggestion Settings",
+      "Points"
+    ],
+    "buttons": [
+      "chevron_left",
+      "LeanSuitee User2\n843 Points\nunfold_more",
+      "close",
+      "home",
+      "All Suggestions",
+      "add\nAdd Documents",
+      "add\nAdd Link",
+      "bold",
+      "italic",
+      "underline",
+      "strike",
+      "blockquote",
+      "list: ordered",
+      "list: bullet",
+      "indent: -1",
+      "indent: +1",
+      "direction: rtl",
+      "link",
+      "image",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "menuItems": [
+      "home",
+      "All Suggestions"
+    ],
+    "labels": [
+      "2235"
+    ],
+    "tableColumns": []
+  },
+  {
+    "url": "https://lean-suite.web.app/main/kaizen/e8771a9c-bb4d-4127-852c-5dd8e60b62ff",
+    "slug": "main_kaizen_e8771a9c_bb4d_4127_852c_5dd8e60b62ff",
+    "title": "The Leansuite",
+    "headings": [
+      "Home",
+      "Prize Catalog",
+      "Requested Prizes",
+      "Leaderboard",
+      "Campaigns",
+      "No RCA Analysis Yet"
+    ],
+    "buttons": [
+      "chevron_left",
+      "LeanSuitee User2\n843 Points\nunfold_more",
+      "close",
+      "home",
+      "Tool\nclose",
+      "Target\nclose",
+      "5 Why\nclose",
+      "Action Plan\nclose",
+      "Team\nclose",
+      "TATATAT",
+      "Linked Docs",
+      "bold",
+      "italic",
+      "underline",
+      "strike",
+      "blockquote",
+      "list: ordered",
+      "list: bullet",
+      "indent: -1",
+      "indent: +1",
+      "direction: rtl",
+      "link",
+      "image",
+      "Open calendar",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "menuItems": [
+      "home"
+    ],
+    "labels": [
+      "e8771a9c-bb4d-4127-852c-5dd8e60b62ff"
+    ],
+    "tableColumns": []
+  },
+  {
+    "url": "https://lean-suite.web.app/main/suggestion/view-suggession/2238",
+    "slug": "main_suggestion_view_suggession_2238",
+    "title": "The Leansuite",
+    "headings": [
+      "Home",
+      "Prize Catalog",
+      "Requested Prizes",
+      "Leaderboard",
+      "Campaigns",
+      "All Suggestions",
+      "Reports",
+      "Suggestion Settings",
+      "Points"
+    ],
+    "buttons": [
+      "chevron_left",
+      "LeanSuitee User2\n843 Points\nunfold_more",
+      "close",
+      "home",
+      "All Suggestions",
+      "add\nAdd Document",
+      "add\nAdd Link",
+      "bold",
+      "italic",
+      "underline",
+      "strike",
+      "blockquote",
+      "list: ordered",
+      "list: bullet",
+      "indent: -1",
+      "indent: +1",
+      "direction: rtl",
+      "link",
+      "image",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "menuItems": [
+      "home",
+      "All Suggestions"
+    ],
+    "labels": [
+      "2238"
+    ],
+    "tableColumns": []
+  },
+  {
+    "url": "https://lean-suite.web.app/main/suggestion/view-suggession/2240",
+    "slug": "main_suggestion_view_suggession_2240",
+    "title": "The Leansuite",
+    "headings": [
+      "Home",
+      "Prize Catalog",
+      "Requested Prizes",
+      "Leaderboard",
+      "Campaigns",
+      "All Suggestions",
+      "Reports",
+      "Suggestion Settings",
+      "Points"
+    ],
+    "buttons": [
+      "chevron_left",
+      "LeanSuitee User2\n843 Points\nunfold_more",
+      "close",
+      "home",
+      "All Suggestions",
+      "add\nAdd Document",
+      "add\nAdd Link",
+      "bold",
+      "italic",
+      "underline",
+      "strike",
+      "blockquote",
+      "list: ordered",
+      "list: bullet",
+      "indent: -1",
+      "indent: +1",
+      "direction: rtl",
+      "link",
+      "image",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "menuItems": [
+      "home",
+      "All Suggestions"
+    ],
+    "labels": [
+      "2240"
+    ],
+    "tableColumns": []
+  },
+  {
+    "url": "https://lean-suite.web.app/main/suggestion/view-suggession/2241",
+    "slug": "main_suggestion_view_suggession_2241",
+    "title": "The Leansuite",
+    "headings": [
+      "Home",
+      "Prize Catalog",
+      "Requested Prizes",
+      "Leaderboard",
+      "Campaigns",
+      "All Suggestions",
+      "Reports",
+      "Suggestion Settings",
+      "Points"
+    ],
+    "buttons": [
+      "chevron_left",
+      "LeanSuitee User2\n843 Points\nunfold_more",
+      "close",
+      "home",
+      "All Suggestions",
+      "add\nAdd Documents",
+      "add\nAdd Link",
+      "bold",
+      "italic",
+      "underline",
+      "strike",
+      "blockquote",
+      "list: ordered",
+      "list: bullet",
+      "indent: -1",
+      "indent: +1",
+      "direction: rtl",
+      "link",
+      "image",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "menuItems": [
+      "home",
+      "All Suggestions"
+    ],
+    "labels": [
+      "2241"
+    ],
+    "tableColumns": []
+  },
+  {
+    "url": "https://lean-suite.web.app/main/suggestion/view-suggession/2236",
+    "slug": "main_suggestion_view_suggession_2236",
+    "title": "The Leansuite",
+    "headings": [
+      "Home",
+      "Prize Catalog",
+      "Requested Prizes",
+      "Leaderboard",
+      "Campaigns",
+      "All Suggestions",
+      "Reports",
+      "Suggestion Settings",
+      "Points"
+    ],
+    "buttons": [
+      "chevron_left",
+      "LeanSuitee User2\n843 Points\nunfold_more",
+      "close",
+      "home",
+      "All Suggestions",
+      "add\nAdd Document",
+      "add\nAdd Link",
+      "bold",
+      "italic",
+      "underline",
+      "strike",
+      "blockquote",
+      "list: ordered",
+      "list: bullet",
+      "indent: -1",
+      "indent: +1",
+      "direction: rtl",
+      "link",
+      "image",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "menuItems": [
+      "home",
+      "All Suggestions"
+    ],
+    "labels": [
+      "2236"
+    ],
+    "tableColumns": []
+  },
+  {
+    "url": "https://lean-suite.web.app/main/suggestion/view-suggession/2237",
+    "slug": "main_suggestion_view_suggession_2237",
+    "title": "The Leansuite",
+    "headings": [
+      "Home",
+      "Prize Catalog",
+      "Requested Prizes",
+      "Leaderboard",
+      "Campaigns",
+      "All Suggestions",
+      "Reports",
+      "Suggestion Settings",
+      "Points"
+    ],
+    "buttons": [
+      "chevron_left",
+      "LeanSuitee User2\n843 Points\nunfold_more",
+      "close",
+      "home",
+      "All Suggestions",
+      "add\nAdd Document",
+      "add\nAdd Link",
+      "bold",
+      "italic",
+      "underline",
+      "strike",
+      "blockquote",
+      "list: ordered",
+      "list: bullet",
+      "indent: -1",
+      "indent: +1",
+      "direction: rtl",
+      "link",
+      "image",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "menuItems": [
+      "home",
+      "All Suggestions"
+    ],
+    "labels": [
+      "2237"
+    ],
+    "tableColumns": []
+  },
+  {
+    "url": "https://lean-suite.web.app/main/suggestion/view-suggession/2220",
+    "slug": "main_suggestion_view_suggession_2220",
+    "title": "The Leansuite",
+    "headings": [
+      "Home",
+      "Prize Catalog",
+      "Requested Prizes",
+      "Leaderboard",
+      "Campaigns",
+      "All Suggestions",
+      "Reports",
+      "Suggestion Settings",
+      "Points"
+    ],
+    "buttons": [
+      "chevron_left",
+      "LeanSuitee User2\n843 Points\nunfold_more",
+      "close",
+      "home",
+      "All Suggestions",
+      "add\nAdd Documents",
+      "add\nAdd Link",
+      "bold",
+      "italic",
+      "underline",
+      "strike",
+      "blockquote",
+      "list: ordered",
+      "list: bullet",
+      "indent: -1",
+      "indent: +1",
+      "direction: rtl",
+      "link",
+      "image",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "menuItems": [
+      "home",
+      "All Suggestions"
+    ],
+    "labels": [
+      "2220"
+    ],
+    "tableColumns": []
+  },
+  {
+    "url": "https://lean-suite.web.app/main/kaizen/fdefb051-8269-4dbe-94b6-01507ce46043",
+    "slug": "main_kaizen_fdefb051_8269_4dbe_94b6_01507ce46043",
+    "title": "The Leansuite",
+    "headings": [
+      "Home",
+      "Prize Catalog",
+      "Requested Prizes",
+      "Leaderboard",
+      "Campaigns",
+      "No RCA Analysis Yet"
+    ],
+    "buttons": [
+      "chevron_left",
+      "LeanSuitee User2\n843 Points\nunfold_more",
+      "close",
+      "home",
+      "Team\nclose",
+      "4M 1D\nclose",
+      "New Template Kaizen 17",
+      "Linked Docs",
+      "bold",
+      "italic",
+      "underline",
+      "strike",
+      "blockquote",
+      "list: ordered",
+      "list: bullet",
+      "indent: -1",
+      "indent: +1",
+      "direction: rtl",
+      "link",
+      "image",
+      "Open calendar",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "menuItems": [
+      "home"
+    ],
+    "labels": [
+      "fdefb051-8269-4dbe-94b6-01507ce46043"
+    ],
+    "tableColumns": []
+  },
+  {
+    "url": "https://lean-suite.web.app/main",
+    "slug": "main",
+    "title": "The Leansuite",
+    "headings": [
+      "Home",
+      "Prize Catalog",
+      "Requested Prizes",
+      "Leaderboard",
+      "Campaigns"
+    ],
+    "buttons": [
+      "chevron_left",
+      "LeanSuitee User2\n843 Points\nunfold_more",
+      "close",
+      "lightbulb\nSuggestion",
+      "bar_chart\nKaizen",
+      "sell\nTag",
+      "grid_view\nQA Matrix",
+      "assignment\nEWO",
+      "star\nBest Practice",
+      "attach_money\nCost Management",
+      "grid_view\nSkill Matrix",
+      "school\nLMS",
+      "account_tree\nWorkflow",
+      "NEW\ndraw\nLean Creator",
+      "NEW\nspeed\nKpi",
+      "NEW\nevent_available\nDaily Standard Work",
+      "NEW\napps\nLean Studio",
+      "NEW\ndescription\nDocument Management",
+      "person_outline\nMy Profile",
+      "notifications_none\nManage Notifications",
+      "menu_book\nInstructor Panel",
+      "settings\nGap Planning",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "menuItems": [],
+    "labels": [],
+    "tableColumns": []
+  },
+  {
+    "url": "https://lean-suite.web.app/main/suggestion",
+    "slug": "main_suggestion",
+    "title": "The Leansuite",
+    "headings": [
+      "Home",
+      "Prize Catalog",
+      "Requested Prizes",
+      "Leaderboard",
+      "Campaigns",
+      "All Suggestions",
+      "Reports",
+      "Suggestion Settings",
+      "Points"
+    ],
+    "buttons": [
+      "chevron_left",
+      "LeanSuitee User2\n843 Points\nunfold_more",
+      "close",
+      "home",
+      "reset",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "menuItems": [
+      "home"
+    ],
+    "labels": [
+      "All Suggestions",
+      "search text"
+    ],
+    "tableColumns": [
+      "ID",
+      "Priority",
+      "Submitted By",
+      "Score",
+      "Problem Description",
+      "Pillar",
+      "Submitted On",
+      "Action"
+    ]
+  }
+]
