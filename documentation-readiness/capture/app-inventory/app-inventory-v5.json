@@ -1,0 +1,2847 @@
+[
+  {
+    "name": "Suggestion - landing",
+    "url": "https://lean-suite.web.app/main/suggestion/view-all",
+    "file": "suggestion-landing.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "All Suggestions",
+      "search text"
+    ],
+    "tableColumns": [
+      "ID",
+      "Priority",
+      "Submitted By",
+      "Score",
+      "Problem Description",
+      "Pillar",
+      "Submitted On",
+      "Action"
+    ]
+  },
+  {
+    "name": "Suggestion - All Suggestions",
+    "url": "https://lean-suite.web.app/main/suggestion/view-all",
+    "file": "suggestion-all-suggestions.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "All Suggestions",
+      "search text"
+    ],
+    "tableColumns": [
+      "ID",
+      "Priority",
+      "Submitted By",
+      "Score",
+      "Problem Description",
+      "Pillar",
+      "Submitted On",
+      "Action"
+    ]
+  },
+  {
+    "name": "Suggestion - emoji_objects",
+    "url": "https://lean-suite.web.app/main/suggestion/view-all",
+    "file": "suggestion-emoji-objects.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "All Suggestions",
+      "search text"
+    ],
+    "tableColumns": [
+      "ID",
+      "Priority",
+      "Submitted By",
+      "Score",
+      "Problem Description",
+      "Pillar",
+      "Submitted On",
+      "Action"
+    ]
+  },
+  {
+    "name": "Suggestion - Reports",
+    "url": "https://lean-suite.web.app/main/suggestion/report?filter=%7B%22submittedDateRange%22:%7B%22from%22:%222026-01-01%22,%22to%22:%222026-09-25%22%7D%7D",
+    "file": "suggestion-reports.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "All Suggestions",
+      "settings",
+      "download\nExport",
+      "Pending Feedback\n112",
+      "Pending Implementation\n12",
+      "Implemented\n6",
+      "Rejected\n8",
+      "Implemented Kaizen\n3",
+      "Not a Suggestion\n11",
+      "View Detailed Reports →",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Report"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Suggestion - pie_chart",
+    "url": "https://lean-suite.web.app/main/suggestion/report",
+    "file": "suggestion-pie-chart.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "All Suggestions",
+      "View Detailed Reports →",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Report"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Suggestion - Suggestion Settings",
+    "url": "https://lean-suite.web.app/main/suggestion-settings/im-preference",
+    "file": "suggestion-suggestion-settings.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Preferences"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Suggestion - settings",
+    "url": "https://lean-suite.web.app/main/suggestion-settings/im-preference",
+    "file": "suggestion-settings.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Preferences"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Suggestion - Points",
+    "url": "https://lean-suite.web.app/main/suggestion/points",
+    "file": "suggestion-points.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "All Suggestions",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Points"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Suggestion - task",
+    "url": "https://lean-suite.web.app/main/suggestion/points",
+    "file": "suggestion-task.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "All Suggestions",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Points"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Kaizen - landing",
+    "url": "https://lean-suite.web.app/main/kaizen/dashboard/kaizen",
+    "file": "kaizen-landing.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "table_view\nTable",
+      "view_list\nList",
+      "view_timeline\nGantt",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Kaizen Dashboard",
+      "search text"
+    ],
+    "tableColumns": [
+      "ID",
+      "Title",
+      "Lead Pillar",
+      "Slippage ($)",
+      "Days to close",
+      "Days Delayed",
+      "State",
+      "Facility",
+      "Action"
+    ]
+  },
+  {
+    "name": "Kaizen - Kaizen Dashboard",
+    "url": "https://lean-suite.web.app/main/kaizen/dashboard/kaizen",
+    "file": "kaizen-kaizen-dashboard.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "table_view\nTable",
+      "view_list\nList",
+      "view_timeline\nGantt",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Kaizen Dashboard",
+      "search text"
+    ],
+    "tableColumns": [
+      "ID",
+      "Title",
+      "Lead Pillar",
+      "Slippage ($)",
+      "Days to close",
+      "Days Delayed",
+      "State",
+      "Facility",
+      "Action"
+    ]
+  },
+  {
+    "name": "Kaizen - donut_large",
+    "url": "https://lean-suite.web.app/main/kaizen/dashboard/kaizen",
+    "file": "kaizen-donut-large.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "table_view\nTable",
+      "view_list\nList",
+      "view_timeline\nGantt",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Kaizen Dashboard",
+      "search text"
+    ],
+    "tableColumns": [
+      "ID",
+      "Title",
+      "Lead Pillar",
+      "Slippage ($)",
+      "Days to close",
+      "Days Delayed",
+      "State",
+      "Facility",
+      "Action"
+    ]
+  },
+  {
+    "name": "Kaizen - Kaizen Settings",
+    "url": "https://lean-suite.web.app/main/kaizen/settings/settings",
+    "file": "kaizen-kaizen-settings.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Kaizen Setting",
+      "0"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Kaizen - settings",
+    "url": "https://lean-suite.web.app/main/kaizen/settings/settings",
+    "file": "kaizen-settings.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Kaizen Setting",
+      "0"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Kaizen - Kaizen Reports",
+    "url": "https://lean-suite.web.app/main/kaizen/reports?filter=%7B%22createdOn%22:%7B%22from%22:%222026-01-01%22,%22to%22:%222026-09-25%22%7D%7D",
+    "file": "kaizen-kaizen-reports.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Kaizen Reports"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Kaizen - pie_chart",
+    "url": "https://lean-suite.web.app/main/kaizen/reports?filter=%7B%22createdOn%22:%7B%22from%22:%222026-01-01%22,%22to%22:%222026-09-25%22%7D%7D",
+    "file": "kaizen-pie-chart.png",
+    "headings": [
+      "State With Workflow"
+    ],
+    "buttons": [
+      "home",
+      "settings",
+      "download\nExport",
+      "To Do",
+      "In Progress",
+      "Start",
+      "Done",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Kaizen Reports"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Kaizen - Approval Dashboard",
+    "url": "https://lean-suite.web.app/main/kaizen/approval-dashboard/kaizen?filter=%7B%22approvalStatus%22:%5B%7B%22name%22:%22Open%22,%22value%22:10%7D%5D%7D&viewType=table&pageSize=10",
+    "file": "kaizen-approval-dashboard.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "table_view\nTable",
+      "view_list\nList",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Approval Dashboard",
+      "search text"
+    ],
+    "tableColumns": [
+      "Id",
+      "Project Title",
+      "Requested By",
+      "Requested On",
+      "Current Due Date",
+      "Revised Due Date",
+      "Reason for Revised Due Date",
+      "Module",
+      "Status",
+      "Action"
+    ]
+  },
+  {
+    "name": "Kaizen - dashboard",
+    "url": "https://lean-suite.web.app/main/kaizen/approval-dashboard/kaizen?filter=%7B%22approvalStatus%22:%5B%7B%22name%22:%22Open%22,%22value%22:10%7D%5D%7D&viewType=table&pageSize=10",
+    "file": "kaizen-dashboard.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "table_view\nTable",
+      "view_list\nList",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Approval Dashboard",
+      "search text"
+    ],
+    "tableColumns": [
+      "Id",
+      "Project Title",
+      "Requested By",
+      "Requested On",
+      "Current Due Date",
+      "Revised Due Date",
+      "Reason for Revised Due Date",
+      "Module",
+      "Status",
+      "Action"
+    ]
+  },
+  {
+    "name": "Tag - landing",
+    "url": "https://lean-suite.web.app/main/tag/tag-dashboard",
+    "file": "tag-landing.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "table_view\nTable",
+      "view_list\nList",
+      "view_kanban\nKanban",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Tag Dashboard",
+      "search text"
+    ],
+    "tableColumns": [
+      "Tag ID",
+      "T-Title",
+      "Problem Description",
+      "T-Assignee",
+      "T-Approval Status",
+      "T-Priority",
+      "T-Pillar",
+      "Action"
+    ]
+  },
+  {
+    "name": "Tag - Tag Dashboard",
+    "url": "https://lean-suite.web.app/main/tag/tag-dashboard",
+    "file": "tag-tag-dashboard.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "table_view\nTable",
+      "view_list\nList",
+      "view_kanban\nKanban",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Tag Dashboard",
+      "search text"
+    ],
+    "tableColumns": [
+      "Tag ID",
+      "T-Title",
+      "Problem Description",
+      "T-Assignee",
+      "T-Approval Status",
+      "T-Priority",
+      "T-Pillar",
+      "Action"
+    ]
+  },
+  {
+    "name": "Tag - local_offer",
+    "url": "https://lean-suite.web.app/main/tag/tag-dashboard",
+    "file": "tag-local-offer.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "table_view\nTable",
+      "view_list\nList",
+      "view_kanban\nKanban",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Tag Dashboard",
+      "search text"
+    ],
+    "tableColumns": [
+      "Tag ID",
+      "T-Title",
+      "Problem Description",
+      "T-Assignee",
+      "T-Approval Status",
+      "T-Priority",
+      "T-Pillar",
+      "Action"
+    ]
+  },
+  {
+    "name": "Tag - Floor Plan",
+    "url": "https://lean-suite.web.app/main/tag/floor-plan-detail?filter=%7B%22approvalStatus%22:%5B%7B%22name%22:%22Open%22,%22value%22:10,%22selected%22:true%7D,%7B%22name%22:%22Overdue%22,%22value%22:13,%22selected%22:true%7D%5D%7D&viewType=list&pageSize=20",
+    "file": "tag-floor-plan.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Tag Dashboard",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Floor Plans",
+      "search text"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Tag - view_compact",
+    "url": "https://lean-suite.web.app/main/tag/floor-plan-detail?filter=%7B%22approvalStatus%22:%5B%7B%22name%22:%22Open%22,%22value%22:10,%22selected%22:true%7D,%7B%22name%22:%22Overdue%22,%22value%22:13,%22selected%22:true%7D%5D%7D&viewType=list&pageSize=20",
+    "file": "tag-view-compact.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Tag Dashboard",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Floor Plans",
+      "search text"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Tag - Kanban Board",
+    "url": "https://lean-suite.web.app/main/tag/tag-kanban?viewType=kanban",
+    "file": "tag-kanban-board.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "table_view\nTable",
+      "view_list\nList",
+      "view_kanban\nKanban",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Tag Dashboard",
+      "search text"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Tag - view_kanban",
+    "url": "https://lean-suite.web.app/main/tag/tag-kanban?viewType=kanban",
+    "file": "tag-view-kanban.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "table_view\nTable",
+      "view_list\nList",
+      "view_kanban\nKanban",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Tag Dashboard",
+      "search text"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Tag - Tag Reports",
+    "url": "https://lean-suite.web.app/main/tag/reports?filter=%7B%22generatedOn%22:%7B%22from%22:%222026-01-01%22,%22to%22:%222026-09-25%22%7D%7D",
+    "file": "tag-tag-reports.png",
+    "headings": [
+      "Estimated Cost By Asset",
+      "Status"
+    ],
+    "buttons": [
+      "home",
+      "Tag Dashboard",
+      "settings",
+      "download\nExport",
+      "Open\n140",
+      "Close\n3",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Tag Reports"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Tag - pie_chart",
+    "url": "https://lean-suite.web.app/main/tag/reports?filter=%7B%22generatedOn%22:%7B%22from%22:%222026-01-01%22,%22to%22:%222026-09-25%22%7D%7D",
+    "file": "tag-pie-chart.png",
+    "headings": [
+      "Estimated Cost By Asset",
+      "Status"
+    ],
+    "buttons": [
+      "home",
+      "Tag Dashboard",
+      "settings",
+      "download\nExport",
+      "Open\n140",
+      "Close\n3",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Tag Reports"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Tag - Tag Settings",
+    "url": "https://lean-suite.web.app/main/tag/tag-settings",
+    "file": "tag-tag-settings.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Tag Dashboard",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Tag Settings"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Tag - settings",
+    "url": "https://lean-suite.web.app/main/tag/tag-settings",
+    "file": "tag-settings.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Tag Dashboard",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Tag Settings"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "QA Matrix - landing",
+    "url": "https://lean-suite.web.app/main/qa-matrix/qa-dashboard",
+    "file": "qa-matrix-landing.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "QA Matrix",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Dashboard",
+      "search text"
+    ],
+    "tableColumns": [
+      "Actions",
+      "Title",
+      "Facilities",
+      "Created By",
+      "External Defect Range",
+      "Internal Defect Range"
+    ]
+  },
+  {
+    "name": "QA Matrix - QA Dashboard",
+    "url": "https://lean-suite.web.app/main/qa-matrix/qa-dashboard",
+    "file": "qa-matrix-qa-dashboard.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "QA Matrix",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Dashboard",
+      "search text"
+    ],
+    "tableColumns": [
+      "Actions",
+      "Title",
+      "Facilities",
+      "Created By",
+      "External Defect Range",
+      "Internal Defect Range"
+    ]
+  },
+  {
+    "name": "QA Matrix - data_exploration",
+    "url": "https://lean-suite.web.app/main/qa-matrix/qa-dashboard",
+    "file": "qa-matrix-data-exploration.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "QA Matrix",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Dashboard",
+      "search text"
+    ],
+    "tableColumns": [
+      "Actions",
+      "Title",
+      "Facilities",
+      "Created By",
+      "External Defect Range",
+      "Internal Defect Range"
+    ]
+  },
+  {
+    "name": "QA Matrix - QA Settings",
+    "url": "https://lean-suite.web.app/main/qa-matrix/qa-settings/product-category",
+    "file": "qa-matrix-qa-settings.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "QA Matrix",
+      "QA Matrix Settings",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Product Category"
+    ],
+    "tableColumns": [
+      "Category",
+      "Facility",
+      "Date Added",
+      "Status",
+      "Action"
+    ]
+  },
+  {
+    "name": "QA Matrix - settings",
+    "url": "https://lean-suite.web.app/main/qa-matrix/qa-settings/product-category",
+    "file": "qa-matrix-settings.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "QA Matrix",
+      "QA Matrix Settings",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Product Category"
+    ],
+    "tableColumns": [
+      "Category",
+      "Facility",
+      "Date Added",
+      "Status",
+      "Action"
+    ]
+  },
+  {
+    "name": "QA Matrix - QA Reports",
+    "url": "https://lean-suite.web.app/main/qa-matrix/reports?filter=%7B%22qaMatrix%22:%5B%7B%22id%22:%225bc36096-f935-4769-8234-ea185aa09f78%22,%22prioritization%22:%22QA%20matrix%20%22,%22facilities%22:%5Bnull%5D,%22externalDefectInformation%22:%7B%22from%22:%222025-08-20T00:00:00Z%22,%22to%22:%222025-08-30T00:00:00Z%22%7D,%22internalDefectInformation%22:%7B%22from%22:%222025-08-30T00:00:00Z%22,%22to%22:%222025-08-30T00:00:00Z%22%7D,%22createdBy%22:%7B%22id%22:595,%22firstName%22:%22Satyam%22,%22lastName%22:%22Gupta_0%22,%22fullName%22:%22Satyam%20Gupta_0%22,%22profilePicture%22:%22https:%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Flean-suite.appspot.com%2Fo%2FfilesStorage%252F1747978142901_image_23052025-105902.png%3Falt%3Dmedia%26token%3D760898f1-daf9-44fc-8ea2-bab15c0741d1%22,%22email%22:null,%22username%22:null,%22employeeId%22:null,%22costCenterId%22:null,%22jobTitle%22:null,%22employeeType%22:null%7D,%22createdOn%22:%222025-08-22T10:43:11.973Z%22%7D%5D%7D",
+    "file": "qa-matrix-qa-reports.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "QA Matrix",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "QA Matrix Report"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "EWO - landing",
+    "url": "https://lean-suite.web.app/main/kaizen/dashboard/ewo",
+    "file": "ewo-landing.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "table_view\nTable",
+      "view_list\nList",
+      "view_timeline\nGantt",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "EWO Dashboard",
+      "search text"
+    ],
+    "tableColumns": [
+      "ID",
+      "Title",
+      "Lead Pillar",
+      "Slippage ($)",
+      "Days to close",
+      "Days Delayed",
+      "State",
+      "Facility",
+      "Action"
+    ]
+  },
+  {
+    "name": "EWO - EWO Dashboard",
+    "url": "https://lean-suite.web.app/main/kaizen/dashboard/ewo",
+    "file": "ewo-ewo-dashboard.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "table_view\nTable",
+      "view_list\nList",
+      "view_timeline\nGantt",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "EWO Dashboard",
+      "search text"
+    ],
+    "tableColumns": [
+      "ID",
+      "Title",
+      "Lead Pillar",
+      "Slippage ($)",
+      "Days to close",
+      "Days Delayed",
+      "State",
+      "Facility",
+      "Action"
+    ]
+  },
+  {
+    "name": "EWO - dashboard",
+    "url": "https://lean-suite.web.app/main/kaizen/approval-dashboard/ewo?filter=%7B%22approvalStatus%22:%5B%7B%22name%22:%22Open%22,%22value%22:10%7D%5D%7D&viewType=table&pageSize=10",
+    "file": "ewo-dashboard.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "table_view\nTable",
+      "view_list\nList",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Approval Dashboard",
+      "search text"
+    ],
+    "tableColumns": [
+      "Id",
+      "Project Title",
+      "Requested By",
+      "Requested On",
+      "Current Due Date",
+      "Revised Due Date",
+      "Reason for Revised Due Date",
+      "Module",
+      "Status",
+      "Action"
+    ]
+  },
+  {
+    "name": "EWO - Reports",
+    "url": "https://lean-suite.web.app/main/kaizen/ewo-report?filter=%7B%22breakdownDate%22:%7B%22from%22:%222026-01-01%22,%22to%22:%222026-09-25%22%7D%7D",
+    "file": "ewo-reports.png",
+    "headings": [
+      "Open Vs Close (Pillar)"
+    ],
+    "buttons": [
+      "home",
+      "settings",
+      "download\nExport",
+      "To Do",
+      "In Progress",
+      "Done",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "EWO Report"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "EWO - pie_chart",
+    "url": "https://lean-suite.web.app/main/kaizen/ewo-report?filter=%7B%22breakdownDate%22:%7B%22from%22:%222026-01-01%22,%22to%22:%222026-09-25%22%7D%7D",
+    "file": "ewo-pie-chart.png",
+    "headings": [
+      "Open Vs Close (Pillar)"
+    ],
+    "buttons": [
+      "home",
+      "settings",
+      "download\nExport",
+      "To Do",
+      "In Progress",
+      "Done",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "EWO Report"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "EWO - EWO Settings",
+    "url": "https://lean-suite.web.app/main/kaizen/ewo-setting",
+    "file": "ewo-ewo-settings.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "table_view\nTable",
+      "view_list\nList",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Ewo Setting"
+    ],
+    "tableColumns": [
+      "Name",
+      "Created By",
+      "Action"
+    ]
+  },
+  {
+    "name": "EWO - settings",
+    "url": "https://lean-suite.web.app/main/kaizen/ewo-setting",
+    "file": "ewo-settings.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "table_view\nTable",
+      "view_list\nList",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Ewo Setting"
+    ],
+    "tableColumns": [
+      "Name",
+      "Created By",
+      "Action"
+    ]
+  },
+  {
+    "name": "EWO - Approval Dashboard",
+    "url": "https://lean-suite.web.app/main/kaizen/approval-dashboard/ewo?filter=%7B%22approvalStatus%22:%5B%7B%22name%22:%22Open%22,%22value%22:10%7D%5D%7D&viewType=table&pageSize=10",
+    "file": "ewo-approval-dashboard.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "table_view\nTable",
+      "view_list\nList",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Approval Dashboard",
+      "search text"
+    ],
+    "tableColumns": [
+      "Id",
+      "Project Title",
+      "Requested By",
+      "Requested On",
+      "Current Due Date",
+      "Revised Due Date",
+      "Reason for Revised Due Date",
+      "Module",
+      "Status",
+      "Action"
+    ]
+  },
+  {
+    "name": "Best Practice - landing",
+    "url": "https://lean-suite.web.app/main/kaizen/dashboard/best-practice",
+    "file": "best-practice-landing.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "table_view\nTable",
+      "view_list\nList",
+      "view_timeline\nGantt",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Best Practice Dashboard",
+      "search text"
+    ],
+    "tableColumns": [
+      "ID",
+      "Title",
+      "Lead Pillar",
+      "Slippage ($)",
+      "Days to close",
+      "Days Delayed",
+      "State",
+      "Facility",
+      "Action"
+    ]
+  },
+  {
+    "name": "Best Practice - Best Practice",
+    "url": "https://lean-suite.web.app/main/kaizen/dashboard/best-practice",
+    "file": "best-practice-best-practice.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "table_view\nTable",
+      "view_list\nList",
+      "view_timeline\nGantt",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Best Practice Dashboard",
+      "search text"
+    ],
+    "tableColumns": [
+      "ID",
+      "Title",
+      "Lead Pillar",
+      "Slippage ($)",
+      "Days to close",
+      "Days Delayed",
+      "State",
+      "Facility",
+      "Action"
+    ]
+  },
+  {
+    "name": "Best Practice - webhook",
+    "url": "https://lean-suite.web.app/main/kaizen/dashboard/best-practice",
+    "file": "best-practice-webhook.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "table_view\nTable",
+      "view_list\nList",
+      "view_timeline\nGantt",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Best Practice Dashboard",
+      "search text"
+    ],
+    "tableColumns": [
+      "ID",
+      "Title",
+      "Lead Pillar",
+      "Slippage ($)",
+      "Days to close",
+      "Days Delayed",
+      "State",
+      "Facility",
+      "Action"
+    ]
+  },
+  {
+    "name": "Best Practice - Best Practice Report",
+    "url": "https://lean-suite.web.app/main/kaizen/bp-report?filter=%7B%22createdOn%22:%7B%22from%22:%222026-01-01%22,%22to%22:%222026-09-25%22%7D%7D",
+    "file": "best-practice-best-practice-report.png",
+    "headings": [
+      "No Records found."
+    ],
+    "buttons": [
+      "home",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Best Practice Report"
+    ],
+    "tableColumns": [
+      "Loss Type",
+      "Count",
+      "Process",
+      "Pillar"
+    ]
+  },
+  {
+    "name": "Best Practice - pie_chart",
+    "url": "https://lean-suite.web.app/main/kaizen/bp-report?filter=%7B%22createdOn%22:%7B%22from%22:%222026-01-01%22,%22to%22:%222026-09-25%22%7D%7D",
+    "file": "best-practice-pie-chart.png",
+    "headings": [
+      "No Records found."
+    ],
+    "buttons": [
+      "home",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Best Practice Report"
+    ],
+    "tableColumns": [
+      "Loss Type",
+      "Count",
+      "Process",
+      "Pillar"
+    ]
+  },
+  {
+    "name": "Best Practice - Best Practice Settings",
+    "url": "https://lean-suite.web.app/main/kaizen/best-practice-setting/best-practice-settings",
+    "file": "best-practice-best-practice-settings.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Best Practice Setting",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Best Practice Settings"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Best Practice - settings",
+    "url": "https://lean-suite.web.app/main/kaizen/best-practice-setting/best-practice-settings",
+    "file": "best-practice-settings.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Best Practice Setting",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Best Practice Settings"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Best Practice - Approval Dashboard",
+    "url": "https://lean-suite.web.app/main/kaizen/approval-dashboard/best-practice?filter=%7B%22approvalStatus%22:%5B%7B%22name%22:%22Open%22,%22value%22:10%7D%5D%7D&viewType=table&pageSize=10",
+    "file": "best-practice-approval-dashboard.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "table_view\nTable",
+      "view_list\nList",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Approval Dashboard",
+      "search text"
+    ],
+    "tableColumns": [
+      "Id",
+      "Project Title",
+      "Requested By",
+      "Requested On",
+      "Current Due Date",
+      "Revised Due Date",
+      "Reason for Revised Due Date",
+      "Module",
+      "Status",
+      "Action"
+    ]
+  },
+  {
+    "name": "Best Practice - dashboard",
+    "url": "https://lean-suite.web.app/main/kaizen/approval-dashboard/best-practice?filter=%7B%22approvalStatus%22:%5B%7B%22name%22:%22Open%22,%22value%22:10%7D%5D%7D&viewType=table&pageSize=10",
+    "file": "best-practice-dashboard.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "table_view\nTable",
+      "view_list\nList",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Approval Dashboard",
+      "search text"
+    ],
+    "tableColumns": [
+      "Id",
+      "Project Title",
+      "Requested By",
+      "Requested On",
+      "Current Due Date",
+      "Revised Due Date",
+      "Reason for Revised Due Date",
+      "Module",
+      "Status",
+      "Action"
+    ]
+  },
+  {
+    "name": "Cost Management - landing",
+    "url": "https://lean-suite.web.app/main/cost-management/dashboard?filter=%7B%22year%22:%7B%22name%22:2026%7D%7D",
+    "file": "cost-management-landing.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Cost Management",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Cost Management",
+      "search text"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Cost Management - Cost Management",
+    "url": "https://lean-suite.web.app/main/cost-management/dashboard",
+    "file": "cost-management-cost-management.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Cost Management",
+      "Open Intercom Messenger",
+      "×"
+    ],
+    "tabs": [],
+    "labels": [
+      "Cost Management",
+      "search text"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Cost Management - dashboard",
+    "url": "https://lean-suite.web.app/main/cost-management/dashboard",
+    "file": "cost-management-dashboard.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Cost Management",
+      "Open Intercom Messenger",
+      "×"
+    ],
+    "tabs": [],
+    "labels": [
+      "Cost Management",
+      "search text"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Cost Management - Reports",
+    "url": "https://lean-suite.web.app/main/cost-management/reports?filter=%7B%22year%22:%7B%22name%22:2026%7D%7D",
+    "file": "cost-management-reports.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Cost Management",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Reports"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Cost Management - article",
+    "url": "https://lean-suite.web.app/main/cost-management/reports?filter=%7B%22year%22:%7B%22name%22:2026%7D%7D",
+    "file": "cost-management-article.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Cost Management",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Reports"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Cost Management - Cost Management Settings",
+    "url": "https://lean-suite.web.app/main/cost-management/setting/target-savings",
+    "file": "cost-management-cost-management-settings.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Cost Management",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Savings Target"
+    ],
+    "tableColumns": [
+      "Year",
+      "Savings Target ($)",
+      "Departments",
+      "Action"
+    ]
+  },
+  {
+    "name": "Cost Management - settings",
+    "url": "https://lean-suite.web.app/main/cost-management/setting/target-savings",
+    "file": "cost-management-settings.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Cost Management",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Savings Target"
+    ],
+    "tableColumns": [
+      "Year",
+      "Savings Target ($)",
+      "Departments",
+      "Action"
+    ]
+  },
+  {
+    "name": "Cost Management - Import History",
+    "url": "https://lean-suite.web.app/main/cost-management/import-history",
+    "file": "cost-management-import-history.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Cost Management",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Import History"
+    ],
+    "tableColumns": [
+      "File Name",
+      "File Type",
+      "Uploaded by",
+      "Uploaded On",
+      "Action"
+    ]
+  },
+  {
+    "name": "Cost Management - history",
+    "url": "https://lean-suite.web.app/main/cost-management/import-history",
+    "file": "cost-management-history.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Cost Management",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Import History"
+    ],
+    "tableColumns": [
+      "File Name",
+      "File Type",
+      "Uploaded by",
+      "Uploaded On",
+      "Action"
+    ]
+  },
+  {
+    "name": "Cost Management - Loss Trees",
+    "url": "https://lean-suite.web.app/main/cost-management/loss-trees",
+    "file": "cost-management-loss-trees.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Cost Management",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Loss Trees",
+      "search text"
+    ],
+    "tableColumns": [
+      "ID",
+      "Title",
+      "Facility",
+      "From",
+      "To",
+      "Loss Amount",
+      "Ice Score",
+      "Upload By",
+      "Upload Date",
+      "Action"
+    ]
+  },
+  {
+    "name": "Cost Management - account_tree",
+    "url": "https://lean-suite.web.app/main/cost-management/loss-trees",
+    "file": "cost-management-account-tree.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Cost Management",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Loss Trees",
+      "search text"
+    ],
+    "tableColumns": [
+      "ID",
+      "Title",
+      "Facility",
+      "From",
+      "To",
+      "Loss Amount",
+      "Ice Score",
+      "Upload By",
+      "Upload Date",
+      "Action"
+    ]
+  },
+  {
+    "name": "Cost Management - Mapping resultant & Causal Losses",
+    "url": "https://lean-suite.web.app/main/cost-management/mapping-resultant-causal",
+    "file": "cost-management-mapping-resultant-causal-losses.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Cost Management",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Mapping resultant & Causal Losses"
+    ],
+    "tableColumns": [
+      "Generated On",
+      "Loss Type",
+      "Value",
+      "Department",
+      "Line",
+      "Workstation",
+      "Asset"
+    ]
+  },
+  {
+    "name": "Cost Management - analytics",
+    "url": "https://lean-suite.web.app/main/cost-management/mapping-resultant-causal",
+    "file": "cost-management-analytics.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Cost Management",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Mapping resultant & Causal Losses"
+    ],
+    "tableColumns": [
+      "Generated On",
+      "Loss Type",
+      "Value",
+      "Department",
+      "Line",
+      "Workstation",
+      "Asset"
+    ]
+  },
+  {
+    "name": "Skill Matrix - landing",
+    "url": "https://lean-suite.web.app/main/skill-matrix/teams",
+    "file": "skill-matrix-landing.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "table_view\nTable",
+      "view_list\nList",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "All Teams",
+      "search text"
+    ],
+    "tableColumns": [
+      "Team Id",
+      "Team Title",
+      "Team Type",
+      "Pillar",
+      "Team Lead",
+      "Action"
+    ]
+  },
+  {
+    "name": "Skill Matrix - All Teams",
+    "url": "https://lean-suite.web.app/main/skill-matrix/teams",
+    "file": "skill-matrix-all-teams.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "table_view\nTable",
+      "view_list\nList",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "All Teams",
+      "search text"
+    ],
+    "tableColumns": [
+      "Team Id",
+      "Team Title",
+      "Team Type",
+      "Pillar",
+      "Team Lead",
+      "Action"
+    ]
+  },
+  {
+    "name": "Skill Matrix - diversity_3",
+    "url": "https://lean-suite.web.app/main/skill-matrix/teams",
+    "file": "skill-matrix-diversity-3.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "table_view\nTable",
+      "view_list\nList",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "All Teams",
+      "search text"
+    ],
+    "tableColumns": [
+      "Team Id",
+      "Team Title",
+      "Team Type",
+      "Pillar",
+      "Team Lead",
+      "Action"
+    ]
+  },
+  {
+    "name": "Skill Matrix - Competency Update",
+    "url": "https://lean-suite.web.app/main/skill-matrix/mass-competency-update",
+    "file": "skill-matrix-competency-update.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Competency Update",
+      "Select Users"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Skill Matrix - account_circle",
+    "url": "https://lean-suite.web.app/main/skill-matrix/profile",
+    "file": "skill-matrix-account-circle.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "download\nExport",
+      "Required series is showing, press enter to hide the Required series",
+      "Current series is showing, press enter to hide the Current series",
+      "Original series is showing, press enter to hide the Original series",
+      "expand_more",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "My Profile",
+      "search text"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Skill Matrix - Gap Planning",
+    "url": "https://lean-suite.web.app/main/skill-matrix/gap-planning",
+    "file": "skill-matrix-gap-planning.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Gap Planning"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Skill Matrix - data_thresholding",
+    "url": "https://lean-suite.web.app/main/skill-matrix/gap-planning",
+    "file": "skill-matrix-data-thresholding.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Gap Planning"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Skill Matrix - User Profile",
+    "url": "https://lean-suite.web.app/main/skill-matrix/profile",
+    "file": "skill-matrix-user-profile.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "download\nExport",
+      "Required series is showing, press enter to hide the Required series",
+      "Current series is showing, press enter to hide the Current series",
+      "Original series is showing, press enter to hide the Original series",
+      "expand_more",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "My Profile",
+      "search text"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Skill Matrix - Skill Matrix Reports",
+    "url": "https://lean-suite.web.app/main/skill-matrix/reports",
+    "file": "skill-matrix-skill-matrix-reports.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "table_view\nTable",
+      "view_list\nList",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Reports",
+      "search text",
+      "Select Users"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Skill Matrix - pie_chart",
+    "url": "https://lean-suite.web.app/main/skill-matrix/reports",
+    "file": "skill-matrix-pie-chart.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "table_view\nTable",
+      "view_list\nList",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Reports",
+      "search text",
+      "Select Users"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Skill Matrix - Skill Matrix Settings",
+    "url": "https://lean-suite.web.app/main/skill-matrix/settings/competency-management",
+    "file": "skill-matrix-skill-matrix-settings.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Skill Matrix Settings",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Competency Management",
+      "search text"
+    ],
+    "tableColumns": [
+      "Competency Name",
+      "Description",
+      "Pillar",
+      "Competency Code",
+      "Level",
+      "Type",
+      "Approach",
+      "Comptency Tools",
+      "Action"
+    ]
+  },
+  {
+    "name": "Skill Matrix - settings",
+    "url": "https://lean-suite.web.app/main/skill-matrix/settings/competency-management",
+    "file": "skill-matrix-settings.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Skill Matrix Settings",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Competency Management",
+      "search text"
+    ],
+    "tableColumns": [
+      "Competency Name",
+      "Description",
+      "Pillar",
+      "Competency Code",
+      "Level",
+      "Type",
+      "Approach",
+      "Comptency Tools",
+      "Action"
+    ]
+  },
+  {
+    "name": "LMS - landing",
+    "url": "https://lean-suite.web.app/main/people-development/lms/dashboard",
+    "file": "lms-landing.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "People Development",
+      "LMS",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Dashboard"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "LMS - LMS Dashboard",
+    "url": "https://lean-suite.web.app/main/people-development/lms/dashboard",
+    "file": "lms-lms-dashboard.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "People Development",
+      "LMS",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Dashboard"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "LMS - dashboard",
+    "url": "https://lean-suite.web.app/main/people-development/lms/dashboard",
+    "file": "lms-dashboard.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "People Development",
+      "LMS",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Dashboard"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "LMS - My Learning",
+    "url": "https://lean-suite.web.app/main/people-development/lms/my-learning",
+    "file": "lms-my-learning.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "People Development",
+      "LMS",
+      "table_view\nTable",
+      "view_list\nList",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "My Learning",
+      "search text"
+    ],
+    "tableColumns": [
+      "Last Update",
+      "Course Title",
+      "Course Type",
+      "Enrollment Date",
+      "Completed On",
+      "Learning Type",
+      "Access",
+      "Result",
+      "Action"
+    ]
+  },
+  {
+    "name": "LMS - local_library",
+    "url": "https://lean-suite.web.app/main/people-development/lms/my-learning",
+    "file": "lms-local-library.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "People Development",
+      "LMS",
+      "table_view\nTable",
+      "view_list\nList",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "My Learning",
+      "search text"
+    ],
+    "tableColumns": [
+      "Last Update",
+      "Course Title",
+      "Course Type",
+      "Enrollment Date",
+      "Completed On",
+      "Learning Type",
+      "Access",
+      "Result",
+      "Action"
+    ]
+  },
+  {
+    "name": "LMS - Course Catalog",
+    "url": "https://lean-suite.web.app/main/people-development/lms/course-catalog?viewType=grid&filter=%7B%22facilities%22:%5B%7B%22name%22:%22Ontario%22,%22value%22:2%7D%5D%7D&pageSize=20",
+    "file": "lms-course-catalog.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "People Development",
+      "LMS",
+      "table_view\nTable",
+      "grid_view\nGrid",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Course Catalog",
+      "search text"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "LMS - auto_stories",
+    "url": "https://lean-suite.web.app/main/people-development/lms/course-catalog?viewType=grid&filter=%7B%22facilities%22:%5B%7B%22name%22:%22Ontario%22,%22value%22:2%7D%5D%7D&pageSize=20",
+    "file": "lms-auto-stories.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "People Development",
+      "LMS",
+      "table_view\nTable",
+      "grid_view\nGrid",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Course Catalog",
+      "search text"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "LMS - Instructor Panel",
+    "url": "https://lean-suite.web.app/main/people-development/lms/instructor-panel",
+    "file": "lms-instructor-panel.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "People Development",
+      "LMS",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Instructor Panel"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "LMS - school",
+    "url": "https://lean-suite.web.app/main/people-development/lms/instructor-panel",
+    "file": "lms-school.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "People Development",
+      "LMS",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Instructor Panel"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "LMS - LMS Reports",
+    "url": "https://lean-suite.web.app/main/people-development/lms/reports?filter=%7B%22facilities%22:%5B%7B%22name%22:%22Ontario%22,%22id%22:2%7D%5D,%22year%22:%7B%22name%22:2026%7D%7D",
+    "file": "lms-lms-reports.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "People Development",
+      "LMS",
+      "settings",
+      "download\nExport",
+      "Training Duration (Minutes)",
+      "Trainee Count",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "LMS Report"
+    ],
+    "tableColumns": [
+      "Pillar",
+      "Number of Trainees",
+      "Training Duration (Minutes)"
+    ]
+  },
+  {
+    "name": "LMS - pie_chart",
+    "url": "https://lean-suite.web.app/main/people-development/lms/reports?filter=%7B%22facilities%22:%5B%7B%22name%22:%22Ontario%22,%22id%22:2%7D%5D,%22year%22:%7B%22name%22:2026%7D%7D",
+    "file": "lms-pie-chart.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "People Development",
+      "LMS",
+      "settings",
+      "download\nExport",
+      "Training Duration (Minutes)",
+      "Trainee Count",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "LMS Report"
+    ],
+    "tableColumns": [
+      "Pillar",
+      "Number of Trainees",
+      "Training Duration (Minutes)"
+    ]
+  },
+  {
+    "name": "Workflow - landing",
+    "url": "https://lean-suite.web.app/main/workflow/dashboard",
+    "file": "workflow-landing.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Workflow",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "All Workflow",
+      "Search workflows..."
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "KPI - landing",
+    "url": "https://lean-suite.web.app/main/kpi/kpi-dashboard?filter=%7B%22dateRange%22:%7B%22from%22:%222026-09-01%22,%22to%22:%222026-09-30%22%7D%7D",
+    "file": "kpi-landing.png",
+    "headings": [
+      "Indicator KPIs",
+      "Tree KPIs",
+      "How to Build KPI Trees"
+    ],
+    "buttons": [
+      "home",
+      "KPI",
+      "insights\nvisibility test\n24\n40% vs prior period",
+      "bar_chart\nvisibility test by ans\n0\n—\n0% vs prior period",
+      "table_chart\nKPI test Frequency\n0\n100% vs prior period",
+      "table_chart\nEt ipsa minus volup\n56\n—\n0% vs prior period",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "KPI Dashboard",
+      "search text"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Daily Standard Work - landing",
+    "url": "https://lean-suite.web.app/main/dsw/overview",
+    "file": "daily-standard-work-landing.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Daily Standard Work",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Overview"
+    ],
+    "tableColumns": [
+      "Type",
+      "Activity Type",
+      "Title",
+      "Assignee",
+      "Start Date & Time",
+      "End Date & Time",
+      "Action"
+    ]
+  },
+  {
+    "name": "Daily Standard Work - Overview",
+    "url": "https://lean-suite.web.app/main/dsw/overview",
+    "file": "daily-standard-work-overview.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Daily Standard Work",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Overview"
+    ],
+    "tableColumns": [
+      "Type",
+      "Activity Type",
+      "Title",
+      "Assignee",
+      "Start Date & Time",
+      "End Date & Time",
+      "Action"
+    ]
+  },
+  {
+    "name": "Daily Standard Work - dashboard",
+    "url": "https://lean-suite.web.app/main/dsw/overview",
+    "file": "daily-standard-work-dashboard.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Daily Standard Work",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Overview"
+    ],
+    "tableColumns": [
+      "Type",
+      "Activity Type",
+      "Title",
+      "Assignee",
+      "Start Date & Time",
+      "End Date & Time",
+      "Action"
+    ]
+  },
+  {
+    "name": "Daily Standard Work - Schedule Calendar",
+    "url": "https://lean-suite.web.app/main/dsw/schedule-calendar",
+    "file": "daily-standard-work-schedule-calendar.png",
+    "headings": [
+      "Scheduler"
+    ],
+    "buttons": [
+      "home",
+      "Daily Standard Work",
+      "Today",
+      "chevron_left",
+      "chevron_right",
+      "All",
+      "Huddles",
+      "Standard Work",
+      "Overdue",
+      "calendar_view_month\nMonth",
+      "calendar_view_week\nWeek",
+      "calendar_today\nDay",
+      "5:44 AM\nteam schedule",
+      "9:49 AM\nScoring test for questions",
+      "1:21 PM\nmultiple assignment test",
+      "multiple assignment test",
+      "1:26 PM\ntest document attach",
+      "1:28 PM\ntest document attach",
+      "+1 more",
+      "12:10 AM\ntest document attach",
+      "5:53 AM\ncheck title update issue",
+      "12:47 AM\ntest document attach",
+      "12:48 AM\nRam Template Test",
+      "2:17 AM\nTest Darpan",
+      "1:15 PM\ntest document attach",
+      "1:23 PM\nSchedule",
+      "multiple assignment test\n1:21 PM",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Schedule Calendar"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Daily Standard Work - calendar_month",
+    "url": "https://lean-suite.web.app/main/dsw/schedule-calendar",
+    "file": "daily-standard-work-calendar-month.png",
+    "headings": [
+      "Scheduler"
+    ],
+    "buttons": [
+      "home",
+      "Daily Standard Work",
+      "Today",
+      "chevron_left",
+      "chevron_right",
+      "All",
+      "Huddles",
+      "Standard Work",
+      "Overdue",
+      "calendar_view_month\nMonth",
+      "calendar_view_week\nWeek",
+      "calendar_today\nDay",
+      "5:44 AM\nteam schedule",
+      "9:49 AM\nScoring test for questions",
+      "1:21 PM\nmultiple assignment test",
+      "multiple assignment test",
+      "1:26 PM\ntest document attach",
+      "1:28 PM\ntest document attach",
+      "+1 more",
+      "12:10 AM\ntest document attach",
+      "5:53 AM\ncheck title update issue",
+      "12:47 AM\ntest document attach",
+      "12:48 AM\nRam Template Test",
+      "2:17 AM\nTest Darpan",
+      "1:15 PM\ntest document attach",
+      "1:23 PM\nSchedule",
+      "multiple assignment test\n1:21 PM",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Schedule Calendar"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Daily Standard Work - Kanban Board",
+    "url": "https://lean-suite.web.app/main/dsw/kanban?filter=%7B%22eventStartDate%22:%7B%22from%22:%222026-09-25%22,%22to%22:%222026-10-01%22%7D%7D",
+    "file": "daily-standard-work-kanban-board.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Daily Standard Work",
+      "Start",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Kanban Board"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Daily Standard Work - view_kanban",
+    "url": "https://lean-suite.web.app/main/dsw/kanban?filter=%7B%22eventStartDate%22:%7B%22from%22:%222026-09-25%22,%22to%22:%222026-10-01%22%7D%7D",
+    "file": "daily-standard-work-view-kanban.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Daily Standard Work",
+      "Start",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Kanban Board"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Daily Standard Work - My Templates",
+    "url": "https://lean-suite.web.app/main/dsw/my-templates",
+    "file": "daily-standard-work-my-templates.png",
+    "headings": [
+      "Test Darpan",
+      "Template",
+      "test document attach",
+      "Rough post compressed.mp4",
+      "Waste Coordinator Duties Daily Hazardous",
+      "a",
+      "Ram Template Test",
+      "Safety Audit — Full Test",
+      "test assignment attachment question",
+      "test visual instruction type que",
+      "AI Generated Template SPOs",
+      "TEst SOP for Control Bar",
+      "AI Generated Template",
+      "create SOP 🎬 vidssave.com Standard Operating Procedures 720P (1).mp4 · 15.6 MB",
+      "Weekly Scheduling",
+      "GOODS LIFT CLEANING CHECKLIST",
+      "Testing table",
+      "Master question",
+      "Kaizen Template",
+      "Template RAM"
+    ],
+    "buttons": [
+      "home",
+      "Daily Standard Work",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "My Templates",
+      "search text"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Daily Standard Work - auto_awesome_mosaic",
+    "url": "https://lean-suite.web.app/main/dsw/my-templates",
+    "file": "daily-standard-work-auto-awesome-mosaic.png",
+    "headings": [
+      "Test Darpan",
+      "Template",
+      "test document attach",
+      "Rough post compressed.mp4",
+      "Waste Coordinator Duties Daily Hazardous",
+      "a",
+      "Ram Template Test",
+      "Safety Audit — Full Test",
+      "test assignment attachment question",
+      "test visual instruction type que",
+      "AI Generated Template SPOs",
+      "TEst SOP for Control Bar",
+      "AI Generated Template",
+      "create SOP 🎬 vidssave.com Standard Operating Procedures 720P (1).mp4 · 15.6 MB",
+      "Weekly Scheduling",
+      "GOODS LIFT CLEANING CHECKLIST",
+      "Testing table",
+      "Master question",
+      "Kaizen Template",
+      "Template RAM"
+    ],
+    "buttons": [
+      "home",
+      "Daily Standard Work",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "My Templates",
+      "search text"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Daily Standard Work - Schedule Dashboard",
+    "url": "https://lean-suite.web.app/main/dsw/schedule-dashboard",
+    "file": "daily-standard-work-schedule-dashboard.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Daily Standard Work",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Schedule Dashboard",
+      "search text"
+    ],
+    "tableColumns": [
+      "Assignees",
+      "Title",
+      "Template Name",
+      "Event Start Date & Time",
+      "Event End Date & Time",
+      "Action"
+    ]
+  },
+  {
+    "name": "Daily Standard Work - calendar_view_month",
+    "url": "https://lean-suite.web.app/main/dsw/schedule-dashboard",
+    "file": "daily-standard-work-calendar-view-month.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Daily Standard Work",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Schedule Dashboard",
+      "search text"
+    ],
+    "tableColumns": [
+      "Assignees",
+      "Title",
+      "Template Name",
+      "Event Start Date & Time",
+      "Event End Date & Time",
+      "Action"
+    ]
+  },
+  {
+    "name": "Daily Standard Work - DSW Reports",
+    "url": "https://lean-suite.web.app/main/dsw/dsw-report",
+    "file": "daily-standard-work-dsw-reports.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Daily Standard Work",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "DSW Reports"
+    ],
+    "tableColumns": [
+      "User",
+      "Created On",
+      "Question",
+      "Template"
+    ]
+  },
+  {
+    "name": "Daily Standard Work - pie_chart",
+    "url": "https://lean-suite.web.app/main/dsw/dsw-report",
+    "file": "daily-standard-work-pie-chart.png",
+    "headings": [
+      "Total Flag Items by Date",
+      "Total Flag Items by Day"
+    ],
+    "buttons": [
+      "home",
+      "Daily Standard Work",
+      "settings",
+      "download\nExport",
+      "expand_more",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "DSW Reports"
+    ],
+    "tableColumns": [
+      "User",
+      "Created On",
+      "Question",
+      "Template"
+    ]
+  },
+  {
+    "name": "Lean Studio - landing",
+    "url": "https://lean-suite.web.app/main/custom-dashboard",
+    "file": "lean-studio-landing.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Tier 2 Board\nGrid\nedit\ncontent_copy\n\nTier 2 board for Weekly Huddles",
+      "Text House\nGrid\nedit\ncontent_copy\n\nDescription not added",
+      "Test-Plant-4 Dashboard\nGrid\nedit\ncontent_copy\n\nA",
+      "Tier 2 board for Line\nGrid\nedit\ncontent_copy\n\nDescription not added",
+      "kaizen dashboard\nGrid\nedit\ncontent_copy\n\nDescription not added",
+      "RAM Dashboard [DND] Tag Module\nGrid\nedit\ncontent_copy\n\nDescription not added",
+      "Tag Module\nGrid\nedit\ncontent_copy\n\nDescription not added",
+      "DSW and Lean Creator\nGrid\nedit\ncontent_copy\n\nDescription not added",
+      "Custom elemt dashboard\nFreeform\nedit\ncontent_copy\n\nDescription not added",
+      "DSW Dashboard\nGrid\nedit\ncontent_copy\n\nDescription not added",
+      "Test Lean Studio\nGrid\nedit\ncontent_copy\n\nDescription not added",
+      "Ans Testing\nGrid\nedit\ncontent_copy\n\nDescription not added",
+      "Rohan testing\nGrid\nedit\ncontent_copy\n\nDescription not added",
+      "Rohan testing 2\nFreeform\nedit\ncontent_copy\n\nDescription not added",
+      "yatri test\nFreeform\nedit\ncontent_copy\n\ntest",
+      "test bjs dashboard\nFreeform\nedit\ncontent_copy\n\nacas",
+      "Free Form\nFreeform\nedit\ncontent_copy\n\nDescription not added",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Custom Dashboard",
+      "search text"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Document Management - landing",
+    "url": "https://lean-suite.web.app/main/documents?viewType=table",
+    "file": "document-management-landing.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "All",
+      "Bookmarks",
+      "Archive",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Documents",
+      "search text"
+    ],
+    "tableColumns": [
+      "Name",
+      "Version",
+      "Date modified",
+      "Format"
+    ]
+  },
+  {
+    "name": "Lean Creator - landing",
+    "url": "https://lean-suite.web.app/main/lean-creator/templates",
+    "file": "lean-creator-landing.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Lean Creator",
+      "close",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "All Templates",
+      "search text"
+    ],
+    "tableColumns": [
+      "ID",
+      "Template Name",
+      "Template Type",
+      "Status",
+      "Pillar",
+      "Labels",
+      "Action"
+    ]
+  },
+  {
+    "name": "Lean Creator - Templates",
+    "url": "https://lean-suite.web.app/main/lean-creator/templates",
+    "file": "lean-creator-templates.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Lean Creator",
+      "close",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "All Templates",
+      "search text"
+    ],
+    "tableColumns": [
+      "ID",
+      "Template Name",
+      "Template Type",
+      "Status",
+      "Pillar",
+      "Labels",
+      "Action"
+    ]
+  },
+  {
+    "name": "Lean Creator - contact_page",
+    "url": "https://lean-suite.web.app/main/lean-creator/templates",
+    "file": "lean-creator-contact-page.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Lean Creator",
+      "close",
+      "First Page",
+      "Previous Page",
+      "Next Page",
+      "Last Page",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "All Templates",
+      "search text"
+    ],
+    "tableColumns": [
+      "ID",
+      "Template Name",
+      "Template Type",
+      "Status",
+      "Pillar",
+      "Labels",
+      "Action"
+    ]
+  },
+  {
+    "name": "Lean Creator - Time & Motion Study",
+    "url": "https://lean-suite.web.app/main/lean-creator/time-and-motion",
+    "file": "lean-creator-time-motion-study.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Lean Creator",
+      "In review — edited\nTest study\n18 elements · ready to certify\nAug 17",
+      "Certified\nTest Activity\n171.4s\nCycle Time\n0%\nVA %\n3\nElements\nAug 11",
+      "Certified\ntest merge\n310.0s\nCycle Time\n12%\nVA %\n11\nElements\nAug 6",
+      "In review — edited\nnew study\n28 elements · ready to certify\nJul 27",
+      "In review — edited\ntest study 11\n26 elements · ready to certify\nJul 22",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Time & Motion Study"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Lean Creator - timer",
+    "url": "https://lean-suite.web.app/main/lean-creator/time-and-motion",
+    "file": "lean-creator-timer.png",
+    "headings": [],
+    "buttons": [
+      "home",
+      "Lean Creator",
+      "In review — edited\nTest study\n18 elements · ready to certify\nAug 17",
+      "Certified\nTest Activity\n171.4s\nCycle Time\n0%\nVA %\n3\nElements\nAug 11",
+      "Certified\ntest merge\n310.0s\nCycle Time\n12%\nVA %\n11\nElements\nAug 6",
+      "In review — edited\nnew study\n28 elements · ready to certify\nJul 27",
+      "In review — edited\ntest study 11\n26 elements · ready to certify\nJul 22",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "Time & Motion Study"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Lean Creator - Marketplace",
+    "url": "https://lean-suite.web.app/main/dsw/my-templates?tab=marketplace",
+    "file": "lean-creator-marketplace.png",
+    "headings": [
+      "version test",
+      "Scoring test for questions",
+      "template create test",
+      "Scoring test",
+      "test document attach",
+      "KPI creation template by parvati for KT",
+      "Testing the template creation by parvati",
+      "E2E Scoring Test – Lean Safety Quiz",
+      "Forklift Safety Quiz",
+      "Safety Audit — Full Test",
+      "Team Pulse Survey",
+      "Shop-Floor Safety Quiz",
+      "test dropdown type que",
+      "test 20+",
+      "test performance of create tem",
+      "last test visual instruction",
+      "test video visual 222",
+      "test video visual",
+      "Week days schedule test",
+      "test assignment attachment question"
+    ],
+    "buttons": [
+      "home",
+      "Daily Standard Work",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "My Templates",
+      "search text"
+    ],
+    "tableColumns": []
+  },
+  {
+    "name": "Lean Creator - storefront",
+    "url": "https://lean-suite.web.app/main/dsw/my-templates?tab=marketplace",
+    "file": "lean-creator-storefront.png",
+    "headings": [
+      "version test",
+      "Scoring test for questions",
+      "template create test",
+      "Scoring test",
+      "test document attach",
+      "KPI creation template by parvati for KT",
+      "Testing the template creation by parvati",
+      "E2E Scoring Test – Lean Safety Quiz",
+      "Forklift Safety Quiz",
+      "Safety Audit — Full Test",
+      "Team Pulse Survey",
+      "Shop-Floor Safety Quiz",
+      "test dropdown type que",
+      "test 20+",
+      "test performance of create tem",
+      "last test visual instruction",
+      "test video visual 222",
+      "test video visual",
+      "Week days schedule test",
+      "test assignment attachment question"
+    ],
+    "buttons": [
+      "home",
+      "Daily Standard Work",
+      "Open Intercom Messenger"
+    ],
+    "tabs": [],
+    "labels": [
+      "My Templates",
+      "search text"
+    ],
+    "tableColumns": []
+  }
+]
