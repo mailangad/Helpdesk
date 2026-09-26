@@ -1,6 +1,6 @@
 # Help Center order (drag to match)
 
-Updated 2026-09-26 after the sub-collection restructure. Articles are already in the right collection and sub-collection; only the order needs setting in Intercom (the API ignores order).
+Updated 2026-09-26 after the sub-collection restructure and the overnight title/merge pass (see OVERNIGHT_CHANGES.md). Articles are already in the right collection and sub-collection; only the order needs setting in Intercom (the API ignores order).
 
 ## 1. Top-level collection order
 
@@ -30,7 +30,7 @@ Updated 2026-09-26 after the sub-collection restructure. Articles are already in
 
 1. What is Kaizen? (12123205)
 2. What is an EWO? (17183189)
-3. About navigation in the Kaizen module (12123558)
+3. About Kaizen navigation (12123558)
 4. Navigate the Kaizen parent menu (12123550)
 5. About the Kaizen process after creation (12123695)
 6. About Kaizen phases and sections (12123696)
@@ -43,7 +43,7 @@ Updated 2026-09-26 after the sub-collection restructure. Articles are already in
 3. Add a Kaizen type (12123208)
 4. Add a Kaizen methodology (12123462)
 5. Edit methodology settings for a Kaizen type (12123471)
-6. Build a workflow for Kaizen, EWO or Tags (17183184)
+6. Build a workflow for Kaizen, EWO or F-Tag (17183184)
 7. Add and edit fields when creating a Kaizen (12123465)
 8. About savings distribution in Kaizen (12123534)
 9. Distribute savings by default in a Kaizen (12123503)
@@ -52,10 +52,10 @@ Updated 2026-09-26 after the sub-collection restructure. Articles are already in
 12. About tool management in Kaizen (12123538)
 13. Add and track tools or skills in Kaizen (12123487)
 14. Edit a tool or skill in Kaizen (12123512)
-15. Add default tools or skills to a loss type (12123490)
-16. Edit a tool or skill connected to a loss type (12123509)
-17. Add a revised due date reason (12123496)
-18. Edit a revised due date reason (12123528)
+15. Add default tools or skills to a loss type in Kaizen (12123490)
+16. Edit a tool or skill connected to a loss type in Kaizen (12123509)
+17. Add a revised due date reason in Kaizen (12123496)
+18. Edit a revised due date reason in Kaizen (12123528)
 
 **3. Create and manage Kaizens**
 
@@ -75,27 +75,27 @@ Updated 2026-09-26 after the sub-collection restructure. Articles are already in
 
 **4. Kaizen sections**
 
-1. Kaizen phase sections (12123715)
-2. About the Description section (12123778)
-3. About the Root Cause Analysis section (12123836)
-4. About the Tool section (12123843)
-5. About the Target section (12123837)
-6. About the Team section (12123839)
-7. About the 4M1D section (12123746)
-8. About the 5W1H section (12123755)
-9. About the 5WHY section (12123749)
-10. About the 5G section (12123754)
-11. About the Result section (12123835)
-12. About the Action Plan section (12123761)
-13. About the Expansion section (12123781)
-14. About the Additional Details section (12123772)
-15. About the MTTR section (12123788)
-16. About the Description of Repairs section (12123776)
-17. About the Failure Curve Analysis section (12123787)
+1. About Kaizen section types (12123715)
+2. About the Description section in Kaizen (12123778)
+3. About the Root Cause Analysis section in Kaizen (12123836)
+4. About the Tool section in Kaizen (12123843)
+5. About the Target section in Kaizen (12123837)
+6. About the Team section in Kaizen (12123839)
+7. About the 4M1D section in Kaizen (12123746)
+8. About the 5W1H section in Kaizen (12123755)
+9. About the 5WHY section in Kaizen (12123749)
+10. About the 5G section in Kaizen (12123754)
+11. About the Result section in Kaizen (12123835)
+12. About the Action Plan section in Kaizen (12123761)
+13. About the Expansion section in Kaizen (12123781)
+14. About the Additional Details section in Kaizen (12123772)
+15. About the MTTR section in Kaizen (12123788)
+16. About the Description of Repairs section in Kaizen (12123776)
+17. About the Failure Curve Analysis section in Kaizen (12123787)
 
 **5. Attachments and comments**
 
-1. Attach information and data to a Kaizen (12123658)
+1. Choose how to attach information to a Kaizen (12123658)
 2. Use the drag-and-drop box in a Kaizen (12123699)
 3. Add a file to a Kaizen (12123638)
 4. Add a photo or a photo with a sketch to a Kaizen (12123641)
@@ -108,7 +108,7 @@ Updated 2026-09-26 after the sub-collection restructure. Articles are already in
 1. Use the Kaizen Dashboard (17183948)
 2. Search the Kaizen Dashboard (12123549)
 3. Export the Kaizen Dashboard to a .csv file (12123544)
-4. Export tool or skill usage counts to a .csv file (12123548)
+4. Export Kaizen tool or skill usage counts to a .csv file (12123548)
 5. About the Kaizen Approval Dashboard (12123563)
 6. About Kaizen reports (12123557)
 
@@ -151,14 +151,14 @@ Updated 2026-09-26 after the sub-collection restructure. Articles are already in
 4. About the F-Tag detail view (12125078)
 5. About the F-Tag activity field (12125075)
 6. Edit information in an F-Tag (12125066)
-7. Operate an F-Tag (12125069)
+7. Move an F-Tag through its stages (12125069)
 8. Clone an F-Tag (12125062)
-9. Escalate tags between tiers (17183568)
-10. Use QR codes and print tags (17183569)
+9. Escalate F-Tags between tiers (17183568)
+10. Use QR codes and print F-Tags (17183569)
 
 **4. Attachments and comments**
 
-1. Attach information and data to an F-Tag (12125060)
+1. Choose how to attach information to an F-Tag (12125060)
 2. Attach a file to an F-Tag (12125055)
 3. Attach a photo or a photo with a sketch to an F-Tag (12125057)
 4. Attach a sketch to an F-Tag (12125058)
@@ -193,15 +193,15 @@ Updated 2026-09-26 after the sub-collection restructure. Articles are already in
 
 1. What is a Suggestion Campaign? (12123193)
 2. Create a Suggestion Campaign (12123187)
-3. Edit campaign details (12123188)
+3. Edit Suggestion Campaign details (12123188)
 4. Submit a suggestion to a campaign (12123192)
-5. See campaign details and submitted suggestions (12123191)
+5. View Suggestion Campaign details and submitted suggestions (12123191)
 
 **4. Create and manage suggestions**
 
 1. Create a suggestion (12122771)
 2. Open a suggestion after creation (12123157)
-3. What is the side window of a suggestion and its features? (12123178)
+3. About the suggestion side window (17186037)
 4. About the suggestion detail view (12123181)
 5. About the suggestion activity field (12123167)
 6. Edit information in a suggestion (12123152)
@@ -217,7 +217,7 @@ Updated 2026-09-26 after the sub-collection restructure. Articles are already in
 
 **6. Attachments and comments**
 
-1. Attach information and data to a suggestion (12123150)
+1. Choose how to attach information to a suggestion (12123150)
 2. Attach a file to a suggestion (12123143)
 3. Attach a photo or a photo with a sketch to a suggestion (12123146)
 4. Attach a sketch to a suggestion (12123147)
@@ -254,7 +254,7 @@ Updated 2026-09-26 after the sub-collection restructure. Articles are already in
 
 **3. Attachments and comments**
 
-1. Attach information and data to a Best Practice (12124950)
+1. Choose how to attach information to a Best Practice (12124950)
 2. Use the drag-and-drop box in a Best Practice (12124971)
 3. Add a file to a Best Practice (12124933)
 4. Add a photo or a photo with a sketch to a Best Practice (12124937)
@@ -291,11 +291,11 @@ Updated 2026-09-26 after the sub-collection restructure. Articles are already in
 **3. Build courses and quizzes**
 
 1. Build quizzes, courses and learning plans in the Instructor Panel (17183621)
-2. Add a new quiz (12125091)
-3. Create a quiz (12125113)
-4. Add a new course (12125087)
+2. Add a quiz and its basic details (12125091)
+3. Build and publish a quiz (12125113)
+4. Add a course and its basic details (12125087)
 5. Create a course category (12125105)
-6. Create a course (12125106)
+6. Build and publish a course (12125106)
 7. Add a quiz to a course (12125094)
 8. Assign a course to a user (12125099)
 9. Assign courses to roles and share them across facilities (17183625)
@@ -304,12 +304,11 @@ Updated 2026-09-26 after the sub-collection restructure. Articles are already in
 **4. Instructor Panel**
 
 1. About the Instructor Panel (12125142)
-2. Use the Instructor Panel (12125124)
-3. View and add instructors (12125126)
-4. Edit or delete an instructor (12125115)
-5. Run an in-class training session (17183623)
-6. View submitted quizzes (12125128)
-7. Mark submitted quizzes (12125120)
+2. View and add instructors (12125126)
+3. Edit or delete an instructor (12125115)
+4. Run an in-class training session (17183623)
+5. View submitted quizzes (12125128)
+6. Mark submitted quizzes (12125120)
 
 **5. Dashboards and reports**
 
@@ -328,27 +327,27 @@ Updated 2026-09-26 after the sub-collection restructure. Articles are already in
 
 **2. Set up teams**
 
-1. Create a team and set required skills (17183949)
-2. Clone a team (12124643)
-3. Edit a team (12124680)
+1. Create a Skill Matrix team and set required skills (17183949)
+2. Clone a team in Skill Matrix (12124643)
+3. Edit a team in Skill Matrix (12124680)
 4. Link training to the Skill Matrix and record external training (17183626)
 
 **3. Track competency**
 
-1. View a team in detail (12124749)
+1. View team details in Skill Matrix (12124749)
 2. About the Team Detail View (12124810)
 3. View competency detail for a team member (12124763)
 4. View or export team data for a past date (12124779)
 5. Read the radar chart and plan skill gaps (17183629)
-6. About the User Profile (12124812)
+6. About the User Profile in Skill Matrix (12124812)
 
 **4. Dashboards and reports**
 
-1. About the Team Dashboard (12124805)
+1. About the Team Dashboard in Skill Matrix (12124805)
 2. About the Job Cover Matrix (17183952)
 3. About Skill Matrix reports (12124796)
 4. Export data from Skill Matrix reports (12124693)
-5. Export team overview results (12124734)
+5. Export team overview results from Skill Matrix (12124734)
 
 ### Cost Management (15005915)
 
@@ -394,12 +393,12 @@ Updated 2026-09-26 after the sub-collection restructure. Articles are already in
 **2. Build templates**
 
 1. Create a template in Lean Creator (12919955)
-2. Create pages and sections (12919960)
-3. How to create Questions & Responses in the Lean Creator Window? (12921679)
-4. Edit template questions and responses (12919963)
-5. Edit template properties (12927244)
+2. Create pages and sections in Lean Creator (12919960)
+3. Add questions and responses in Lean Creator (17186038)
+4. Edit questions and responses in Lean Creator (12919963)
+5. Edit template properties in Lean Creator (12927244)
 6. Add rules, required evidence and scoring to a template (17183180)
-7. Create a custom Kaizen section (17183492)
+7. Create a custom Kaizen section in Lean Creator (17183492)
 8. Publish and assign a template for sign-off (17182753)
 
 **3. Create with AI**
@@ -439,7 +438,7 @@ Updated 2026-09-26 after the sub-collection restructure. Articles are already in
 
 **Troubleshooting**
 
-13. Troubleshoot common problems (17183947)
+13. Troubleshoot common problems in LeanSuite (17183947)
 
 ### Administration — collection 19761635 (7)
 
@@ -464,26 +463,26 @@ Updated 2026-09-26 after the sub-collection restructure. Articles are already in
 **What is it and how it fits together**
 
 1. What is Lean Studio? (13311666)
-2. Types of dashboards in Lean Studio (13311679)
+2. About dashboard types in Lean Studio (13311679)
 
 **Set up and administer**
 
 3. Create a dashboard in Lean Studio (13311870)
-4. Set up a Grid dashboard (13311974)
-5. Set up a Freeform dashboard and use templates (13311987)
-6. Edit dashboard details (13311893)
-7. Edit a dashboard layout (13312017)
+4. Set up a Grid dashboard in Lean Studio (13311974)
+5. Set up a Freeform dashboard and use templates in Lean Studio (13311987)
+6. Edit dashboard details in Lean Studio (13311893)
+7. Edit a dashboard layout in Lean Studio (13312017)
 
 **Everyday tasks**
 
-8. Add a widget to a dashboard (13312050)
-9. Edit a widget in a dashboard (13312040)
+8. Add a widget to a Lean Studio dashboard (13312050)
+9. Edit a widget in a Lean Studio dashboard (13312040)
 10. Use a Lean Studio board in a huddle (13312024)
-11. Export charts from dashboards (13312027)
+11. Export charts from Lean Studio dashboards (13312027)
 
 **Reference**
 
-12. Widget types (13312033)
+12. Lean Studio widget types (13312033)
 
 ### KPI — collection 16867071 (11)
 
@@ -495,7 +494,7 @@ Updated 2026-09-26 after the sub-collection restructure. Articles are already in
 **Set up and administer**
 
 3. About the KPI builder sections (12930648)
-5. Create a KPI step by step (17183337)
+5. Create a KPI (17183337)
 6. Connect a KPI to Excel or Google Sheets (17183339)
 7. Edit a KPI (12920075)
 
@@ -516,22 +515,22 @@ Updated 2026-09-26 after the sub-collection restructure. Articles are already in
 
 **Set up and administer**
 
-2. About My Templates (12920914)
+2. About My Templates in Daily Standard Work (12920914)
 3. About the Template Marketplace (12920999)
-4. Clone a template from the Marketplace (12920945)
-5. Preview a template (12920922)
-6. Assign and schedule a template (17183176)
+4. Clone a template from the Template Marketplace (12920945)
+5. Preview a Daily Standard Work template (12920922)
+6. Assign and schedule a Daily Standard Work template (17183176)
 
 **Everyday tasks**
 
-8. Start a template or activity (12920931)
-10. View submitted reports (12920896)
+8. Start a Daily Standard Work template or activity (12920931)
+10. View submitted Daily Standard Work reports (12920896)
 
 **Dashboards and reports**
 
-11. About the Overview dashboard (12920876)
-12. About the Kanban Board (12920905)
-13. About the Schedule Dashboard (12920981)
+11. About the Daily Standard Work Overview dashboard (12920876)
+12. About the Kanban Board in Daily Standard Work (12920905)
+13. About the Schedule Dashboard in Daily Standard Work (12920981)
 
 ### Release Notes — collection 14770621 (7)
 
