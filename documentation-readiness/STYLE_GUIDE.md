@@ -84,3 +84,23 @@ Order the articles in each module collection like this:
   - new screenshots wherever the UI changed
 - **Every call:** each "I'll send you the steps" on a customer call becomes an article.
 - **Quarterly review:** check the most-viewed articles, and any articles with negative reactions or Fin handoffs.
+
+## 11. Callouts and spacing
+Notes and warnings always appear as **coloured callout boxes**, never as plain text:
+
+| Callout | Colour | Use for |
+|---|---|---|
+| **Note** | Blue | Useful extra information |
+| **Who can do this** | Blue | Permissions needed |
+| **Example** | Blue | A worked example: a sample workflow, KPI or prompt |
+| **Tip** | Green | A faster or better way |
+| **Important** | Yellow | Something that could cause a problem |
+| **Warning** | Red | Data loss or an action that can't be undone |
+
+**Spacing rules:**
+- No empty lines or empty paragraphs.
+- One idea per paragraph, 3 lines or fewer.
+- Every section starts with a heading, and headings are never stacked.
+- Each screenshot sits directly after the step it shows.
+- A divider line appears only before "Related articles".
+- Use a bulleted list for 3 or more items.
