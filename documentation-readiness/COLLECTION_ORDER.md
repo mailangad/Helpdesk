@@ -5,7 +5,7 @@ Order follows section 9 of STYLE_GUIDE.md: 1) What is X? and orientation, 2) set
 
 Notes:
 
-- **Lean Creator** is the form and template builder. **Document Management** (controlled documents) and **QA Matrix** are separate modules and should get their own collections; their articles currently have no collection.
+- **Lean Creator** is the form and template builder. **Document Management** (controlled documents) and **QA Matrix** are separate modules with their own collections: Document Management (19761726) and QA Matrix (19761776). The AI Time and Motion Study articles are in their own collection (19761725). All were moved on 2026-09-26.
 - The AI Time & Motion Study articles sit in the Lean Creator collection because the feature is opened from Lean Creator. Move them to their own section if the collection grows.
 - Duplicate or overlapping pairs are listed in FINAL_QA.md. Each pair is placed next to each other here so it is easy to merge.
 

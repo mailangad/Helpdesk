@@ -59,3 +59,14 @@
 | 12920026 | 17183343 |
 
 6. **Delete** the empty draft 12960771 ("Untitled public article").
+
+## Update 2026-09-26: collections
+- **Created** QA Matrix (19761776), using the Intercom REST API.
+- **Moved articles:**
+  - Time Study articles 17183323, 17183326, 17183329 and 17183331 → AI Time and Motion Study (19761725). The name uses "and" because Intercom escapes "&" in collection names.
+  - 17183630 → Document Management (19761726)
+  - 17185105 → QA Matrix (19761776)
+- **Lean Creator (15557323)** stays its own collection, separate from Document Management.
+- **Descriptions:** rewrote the one-word descriptions on all older collections.
+- **Article order:** Intercom's API can't reorder articles inside a collection. To apply `COLLECTION_ORDER.md`, drag the articles into order in the Intercom editor.
+- **Final QA:** see `FINAL_QA.md`. It found 3 more duplicate pairs: 12920931/12920887, 17183557/12123466 and 17183564/12124998.
