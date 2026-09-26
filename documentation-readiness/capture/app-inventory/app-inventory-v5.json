@@ -113,12 +113,14 @@
   },
   {
     "name": "Suggestion - pie_chart",
-    "url": "https://lean-suite.web.app/main/suggestion/report",
+    "url": "https://lean-suite.web.app/main/suggestion/report?filter=%7B%22submittedDateRange%22:%7B%22from%22:%222026-01-01%22,%22to%22:%222026-09-25%22%7D%7D",
     "file": "suggestion-pie-chart.png",
     "headings": [],
     "buttons": [
       "home",
       "All Suggestions",
+      "settings",
+      "download\nExport",
       "View Detailed Reports →",
       "Open Intercom Messenger"
     ],
@@ -340,17 +342,9 @@
     "name": "Kaizen - pie_chart",
     "url": "https://lean-suite.web.app/main/kaizen/reports?filter=%7B%22createdOn%22:%7B%22from%22:%222026-01-01%22,%22to%22:%222026-09-25%22%7D%7D",
     "file": "kaizen-pie-chart.png",
-    "headings": [
-      "State With Workflow"
-    ],
+    "headings": [],
     "buttons": [
       "home",
-      "settings",
-      "download\nExport",
-      "To Do",
-      "In Progress",
-      "Start",
-      "Done",
       "Open Intercom Messenger"
     ],
     "tabs": [],
@@ -951,15 +945,13 @@
     "url": "https://lean-suite.web.app/main/kaizen/ewo-report?filter=%7B%22breakdownDate%22:%7B%22from%22:%222026-01-01%22,%22to%22:%222026-09-25%22%7D%7D",
     "file": "ewo-pie-chart.png",
     "headings": [
-      "Open Vs Close (Pillar)"
+      "Open Vs Close (Pillar)",
+      "Open Vs Close (Root Cause)"
     ],
     "buttons": [
       "home",
       "settings",
       "download\nExport",
-      "To Do",
-      "In Progress",
-      "Done",
       "Open Intercom Messenger"
     ],
     "tabs": [],
