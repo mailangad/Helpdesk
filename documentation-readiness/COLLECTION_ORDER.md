@@ -91,7 +91,6 @@ Notes:
 
 **Everyday tasks**
 
-25. Create a Kaizen (12123466)
 26. Create a Kaizen and add sections (17183557)
 27. Open a Kaizen after creating it (12123666)
 28. About the Kaizen side window (12123707)
@@ -133,7 +132,6 @@ Notes:
 **Dashboards and reports**
 
 63. Use the Kaizen Dashboard (17183948)
-64. About the Kaizen Dashboard (12123562)
 65. Search the Kaizen Dashboard (12123549)
 66. Export the Kaizen Dashboard to a .csv file (12123544)
 67. Export tool or skill usage counts to a .csv file (12123548)
@@ -149,14 +147,12 @@ Notes:
 **What is it and how it fits together**
 
 1. What is the F-Tag module? (17183950)
-2. About the F-Tag module (12124990)
 3. About F-Tag navigation (12125046)
 4. About the F-Tag workflow after creation (12125071)
 5. About F-Tag statuses (12125081)
 
 **Set up and administer**
 
-6. Configure the F-Tag module for your workspace (12124998)
 7. Configure tag types, fields and auto-assignment in F-Tag (17183564)
 8. About Tag Settings (12125047)
 9. Add and edit fields when creating an F-Tag (12124994)
@@ -342,7 +338,6 @@ Notes:
 **Set up and administer**
 
 4. Create a team and set required skills (17183949)
-5. Create a new team (12124661)
 6. Clone a team (12124643)
 7. Edit a team (12124680)
 8. Link training to the Skill Matrix and record external training (17183626)
@@ -432,14 +427,12 @@ Notes:
 **Set up and administer**
 
 3. About the KPI builder sections (12930648)
-4. Create a KPI (12920022)
 5. Create a KPI step by step (17183337)
 6. Connect a KPI to Excel or Google Sheets (17183339)
 7. Edit a KPI (12920075)
 
 **Everyday tasks**
 
-8. Enter KPI data manually (12920026)
 9. Enter KPI values (17183343)
 
 **Dashboards and reports**
@@ -494,12 +487,10 @@ Notes:
 4. Clone a template from the Marketplace (12920945)
 5. Preview a template (12920922)
 6. Assign and schedule a template (17183176)
-7. Assign a template to a user (12920991)
 
 **Everyday tasks**
 
 8. Start a template or activity (12920931)
-9. Start and submit an assigned activity (12920887)
 10. View submitted reports (12920896)
 
 **Dashboards and reports**

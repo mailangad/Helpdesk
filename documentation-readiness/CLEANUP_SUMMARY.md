@@ -70,3 +70,6 @@
 - **Descriptions:** rewrote the one-word descriptions on all older collections.
 - **Article order:** Intercom's API can't reorder articles inside a collection. To apply `COLLECTION_ORDER.md`, drag the articles into order in the Intercom editor.
 - **Final QA:** see `FINAL_QA.md`. It found 3 more duplicate pairs: 12920931/12920887, 17183557/12123466 and 17183564/12124998.
+- **Duplicates:** the owner chose to keep the newer articles. 9 older copies were set to draft: 12920991, 12123562, 12124661, 12124990, 12920022, 12920026, 12123466, 12124998 and 12920887. Links to them in 40 published articles now point to the replacements; the log is `intercom-backups/link_redirect_log.jsonl` and the backups are in `intercom-backups/unpublished/`.
+- **Custom domain:** help.theleansuite.com is live.
+- **Empty draft 12960771:** still to be deleted by hand in the Intercom editor.
