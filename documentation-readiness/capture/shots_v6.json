@@ -1,0 +1,3539 @@
+[
+ {
+  "id": "v6-001",
+  "article_id": "17740577",
+  "article_title": "View submissions and reports for a Lean Creator template",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Open a template's submissions\"): Open Lean Creator.",
+  "output_file": "documentation-readiness/screenshots/v7/17740577-001.png"
+ },
+ {
+  "id": "v6-002",
+  "article_id": "17740577",
+  "article_title": "View submissions and reports for a Lean Creator template",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Open a template's submissions\"): In the template list, click the template's row.",
+  "output_file": "documentation-readiness/screenshots/v7/17740577-002.png"
+ },
+ {
+  "id": "v6-003",
+  "article_id": "17740577",
+  "article_title": "View submissions and reports for a Lean Creator template",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Open a template's submissions\"): Click Submissions.",
+  "output_file": "documentation-readiness/screenshots/v7/17740577-003.png"
+ },
+ {
+  "id": "v6-004",
+  "article_id": "17740577",
+  "article_title": "View submissions and reports for a Lean Creator template",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"See all submissions in one grid\"): At the top right of Submissions, select Grid.",
+  "output_file": "documentation-readiness/screenshots/v7/17740577-004.png"
+ },
+ {
+  "id": "v6-005",
+  "article_id": "17740577",
+  "article_title": "View submissions and reports for a Lean Creator template",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"See all submissions in one grid\"): Double-click a row to open that submission's full report in a pop-up.",
+  "output_file": "documentation-readiness/screenshots/v7/17740577-005.png"
+ },
+ {
+  "id": "v6-006",
+  "article_id": "17740577",
+  "article_title": "View submissions and reports for a Lean Creator template",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"See submissions for earlier versions\"): At the top of Submissions, open the version list, for example V6, published September 20.",
+  "output_file": "documentation-readiness/screenshots/v7/17740577-006.png"
+ },
+ {
+  "id": "v6-007",
+  "article_id": "17740576",
+  "article_title": "Set up processes and steps for AI time studies",
+  "module": "AI Time and Motion Study",
+  "url_path": "/main/lean-creator/time-and-motion",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a process\"): Go to Lean Creator → Time & Motion Study.",
+  "output_file": "documentation-readiness/screenshots/v7/17740576-007.png"
+ },
+ {
+  "id": "v6-008",
+  "article_id": "17740576",
+  "article_title": "Set up processes and steps for AI time studies",
+  "module": "AI Time and Motion Study",
+  "url_path": "/main/lean-creator/time-and-motion",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a process\"): Click Processes at the top right of the Time & Motion Studies page.",
+  "output_file": "documentation-readiness/screenshots/v7/17740576-008.png"
+ },
+ {
+  "id": "v6-009",
+  "article_id": "17740576",
+  "article_title": "Set up processes and steps for AI time studies",
+  "module": "AI Time and Motion Study",
+  "url_path": "/main/lean-creator/time-and-motion",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a process\"): Click Add Processes.",
+  "output_file": "documentation-readiness/screenshots/v7/17740576-009.png"
+ },
+ {
+  "id": "v6-010",
+  "article_id": "17740576",
+  "article_title": "Set up processes and steps for AI time studies",
+  "module": "AI Time and Motion Study",
+  "url_path": "/main/lean-creator/time-and-motion",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add steps to a process\"): In the process list, open the process and click Edit steps.",
+  "output_file": "documentation-readiness/screenshots/v7/17740576-010.png"
+ },
+ {
+  "id": "v6-011",
+  "article_id": "17740576",
+  "article_title": "Set up processes and steps for AI time studies",
+  "module": "AI Time and Motion Study",
+  "url_path": "/main/lean-creator/time-and-motion",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add steps to a process\"): Click Add step and enter the step name.",
+  "output_file": "documentation-readiness/screenshots/v7/17740576-011.png"
+ },
+ {
+  "id": "v6-012",
+  "article_id": "17740576",
+  "article_title": "Set up processes and steps for AI time studies",
+  "module": "AI Time and Motion Study",
+  "url_path": "/main/lean-creator/time-and-motion",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add steps to a process\"): Choose the step's category: value-added or non-value-added.",
+  "output_file": "documentation-readiness/screenshots/v7/17740576-012.png"
+ },
+ {
+  "id": "v6-013",
+  "article_id": "17740576",
+  "article_title": "Set up processes and steps for AI time studies",
+  "module": "AI Time and Motion Study",
+  "url_path": "/main/lean-creator/time-and-motion",
+  "action_description": "Open the screen and capture the state right after this step (section \"Use processes in a study\"): On the Time & Motion Studies page, click + New Study.",
+  "output_file": "documentation-readiness/screenshots/v7/17740576-013.png"
+ },
+ {
+  "id": "v6-014",
+  "article_id": "17740576",
+  "article_title": "Set up processes and steps for AI time studies",
+  "module": "AI Time and Motion Study",
+  "url_path": "/main/lean-creator/time-and-motion",
+  "action_description": "Open the screen and capture the state right after this step (section \"Use processes in a study\"): Under Processes, select every process that appears in the video. You can select more than one.",
+  "output_file": "documentation-readiness/screenshots/v7/17740576-014.png"
+ },
+ {
+  "id": "v6-015",
+  "article_id": "12123638",
+  "article_title": "Add a file to a Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a file\"): Open the Kaizen you want to add a file to, in either the side window or the detail view.",
+  "output_file": "documentation-readiness/screenshots/v7/12123638-015.png"
+ },
+ {
+  "id": "v6-016",
+  "article_id": "12123638",
+  "article_title": "Add a file to a Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a file\"): Select the file from your device.",
+  "output_file": "documentation-readiness/screenshots/v7/12123638-016.png"
+ },
+ {
+  "id": "v6-017",
+  "article_id": "17183944",
+  "article_title": "Get started with LeanSuite as a frontline user",
+  "module": "Getting Started",
+  "url_path": "/main/home",
+  "action_description": "Open the screen and capture the state right after this step (section \"3. Complete a checklist or sign an SOP\"): Open the item and tap Start.",
+  "output_file": "documentation-readiness/screenshots/v7/17183944-017.png"
+ },
+ {
+  "id": "v6-018",
+  "article_id": "17183944",
+  "article_title": "Get started with LeanSuite as a frontline user",
+  "module": "Getting Started",
+  "url_path": "/main/home",
+  "action_description": "Open the screen and capture the state right after this step (section \"3. Complete a checklist or sign an SOP\"): Tap Submit.",
+  "output_file": "documentation-readiness/screenshots/v7/17183944-018.png"
+ },
+ {
+  "id": "v6-019",
+  "article_id": "17183331",
+  "article_title": "Review, edit and certify a time study",
+  "module": "AI Time and Motion Study",
+  "url_path": "/main/lean-creator/time-and-motion",
+  "action_description": "Open the screen and capture the state right after this step (section \"Compare studies\"): View by operator or for the full study. Choose Fit each study or Shared clock.",
+  "output_file": "documentation-readiness/screenshots/v7/17183331-019.png"
+ },
+ {
+  "id": "v6-020",
+  "article_id": "17183331",
+  "article_title": "Review, edit and certify a time study",
+  "module": "AI Time and Motion Study",
+  "url_path": "/main/lean-creator/time-and-motion",
+  "action_description": "Open the screen and capture the state right after this step (section \"Compare studies\"): Click a category in the legend, such as VA, to show only that category. Click it again to reset.",
+  "output_file": "documentation-readiness/screenshots/v7/17183331-020.png"
+ },
+ {
+  "id": "v6-021",
+  "article_id": "17183331",
+  "article_title": "Review, edit and certify a time study",
+  "module": "AI Time and Motion Study",
+  "url_path": "/main/lean-creator/time-and-motion",
+  "action_description": "Open the screen and capture the state right after this step (section \"Compare studies\"): Click Save comparison to keep it on your dashboard, where you can rename it.",
+  "output_file": "documentation-readiness/screenshots/v7/17183331-021.png"
+ },
+ {
+  "id": "v6-022",
+  "article_id": "17182750",
+  "article_title": "Create an SOP from a video",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Create the SOP\"): Click the attach icon and select your video.",
+  "output_file": "documentation-readiness/screenshots/v7/17182750-022.png"
+ },
+ {
+  "id": "v6-023",
+  "article_id": "13311870",
+  "article_title": "Create a dashboard in Lean Studio",
+  "module": "Lean Studio",
+  "url_path": "/main/custom-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Create the dashboard\"): Choose who to share it with.",
+  "output_file": "documentation-readiness/screenshots/v7/13311870-023.png"
+ },
+ {
+  "id": "v6-024",
+  "article_id": "12882033",
+  "article_title": "About the Floor Plan in F-Tag",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/floor-plan-detail",
+  "action_description": "Open the screen and capture the state right after this step (section \"Set up the Floor Plan\"): Go to the Floor Plan settings in the F-Tag module.",
+  "output_file": "documentation-readiness/screenshots/v7/12882033-024.png"
+ },
+ {
+  "id": "v6-025",
+  "article_id": "12882033",
+  "article_title": "About the Floor Plan in F-Tag",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/floor-plan-detail",
+  "action_description": "Open the screen and capture the state right after this step (section \"Set up the Floor Plan\"): Set the areas and choose the pin size.",
+  "output_file": "documentation-readiness/screenshots/v7/12882033-025.png"
+ },
+ {
+  "id": "v6-026",
+  "article_id": "12123761",
+  "article_title": "About the Action Plan section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Stage 1: Add an action\"): In the section, click Manage actions → Add new.",
+  "output_file": "documentation-readiness/screenshots/v7/12123761-026.png"
+ },
+ {
+  "id": "v6-027",
+  "article_id": "12123761",
+  "article_title": "About the Action Plan section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Stage 1: Add an action\"): Choose the Action Type (for example, corrective or preventive).",
+  "output_file": "documentation-readiness/screenshots/v7/12123761-027.png"
+ },
+ {
+  "id": "v6-028",
+  "article_id": "12123761",
+  "article_title": "About the Action Plan section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Stage 1: Add an action\"): Add the assignee: search for and select the person responsible.",
+  "output_file": "documentation-readiness/screenshots/v7/12123761-028.png"
+ },
+ {
+  "id": "v6-029",
+  "article_id": "17183561",
+  "article_title": "Manage action plans, timelines and delays in a Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add actions\"): Click Manage actions → Add new.",
+  "output_file": "documentation-readiness/screenshots/v7/17183561-029.png"
+ },
+ {
+  "id": "v6-030",
+  "article_id": "17183182",
+  "article_title": "Set up Kaizen project types, methodologies and templates",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/settings/settings",
+  "action_description": "Open the screen and capture the state right after this step (section \"1. Add a project type\"): Click the gear icon (top right) and open Kaizen Settings.",
+  "output_file": "documentation-readiness/screenshots/v7/17183182-030.png"
+ },
+ {
+  "id": "v6-031",
+  "article_id": "17183182",
+  "article_title": "Set up Kaizen project types, methodologies and templates",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"1. Add a project type\"): Click Add Project Type.",
+  "output_file": "documentation-readiness/screenshots/v7/17183182-031.png"
+ },
+ {
+  "id": "v6-032",
+  "article_id": "17183182",
+  "article_title": "Set up Kaizen project types, methodologies and templates",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/ewo",
+  "action_description": "Open the screen and capture the state right after this step (section \"1. Add a project type\"): Choose the module: Kaizen for improvement projects, or EWO for work orders and downtime.",
+  "output_file": "documentation-readiness/screenshots/v7/17183182-032.png"
+ },
+ {
+  "id": "v6-033",
+  "article_id": "17183182",
+  "article_title": "Set up Kaizen project types, methodologies and templates",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"2. Add a methodology and phases\"): Click Add Methodology → Create.",
+  "output_file": "documentation-readiness/screenshots/v7/17183182-033.png"
+ },
+ {
+  "id": "v6-034",
+  "article_id": "17183182",
+  "article_title": "Set up Kaizen project types, methodologies and templates",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/settings/settings",
+  "action_description": "Open the screen and capture the state right after this step (section \"3. Add phase templates (optional)\"): In Kaizen Settings, scroll to your project type.",
+  "output_file": "documentation-readiness/screenshots/v7/17183182-034.png"
+ },
+ {
+  "id": "v6-035",
+  "article_id": "17183182",
+  "article_title": "Set up Kaizen project types, methodologies and templates",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"3. Add phase templates (optional)\"): Under Templates, click + Add Templates on a phase.",
+  "output_file": "documentation-readiness/screenshots/v7/17183182-035.png"
+ },
+ {
+  "id": "v6-036",
+  "article_id": "17183182",
+  "article_title": "Set up Kaizen project types, methodologies and templates",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"3. Add phase templates (optional)\"): Click Save and apply.",
+  "output_file": "documentation-readiness/screenshots/v7/17183182-036.png"
+ },
+ {
+  "id": "v6-037",
+  "article_id": "17186038",
+  "article_title": "Add questions and responses in Lean Creator",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Enter the question\"): 1. Open the Lean Creator window by creating a new template or opening an existing one.",
+  "output_file": "documentation-readiness/screenshots/v7/17186038-037.png"
+ },
+ {
+  "id": "v6-038",
+  "article_id": "17186038",
+  "article_title": "Add questions and responses in Lean Creator",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Set the response properties\"): 4. Choose whether the response is mandatory by using the Required field.",
+  "output_file": "documentation-readiness/screenshots/v7/17186038-038.png"
+ },
+ {
+  "id": "v6-039",
+  "article_id": "17183952",
+  "article_title": "About the Job Cover Matrix",
+  "module": "Skill Matrix",
+  "url_path": "/main/skill-matrix/teams",
+  "action_description": "Open /main/skill-matrix/teams, wait for the table/charts to finish loading, capture: A team open on its Job Cover Matrix view (people x skills with levels)",
+  "output_file": "documentation-readiness/screenshots/v7/17183952-039.png"
+ },
+ {
+  "id": "v6-040",
+  "article_id": "17183950",
+  "article_title": "What is the F-Tag module?",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-settings",
+  "action_description": "Open the screen and capture the state right after this step (section \"How a tag works\"): Raise: on the web or mobile app, choose the tag type, location, priority and a description, and add a photo. Scan a location QR code to fill in the location automatically.",
+  "output_file": "documentation-readiness/screenshots/v7/17183950-040.png"
+ },
+ {
+  "id": "v6-041",
+  "article_id": "17183949",
+  "article_title": "Create a Skill Matrix team and set required skills",
+  "module": "Skill Matrix",
+  "url_path": "/main/skill-matrix/teams",
+  "action_description": "Open the screen and capture the state right after this step (section \"Create the team\"): Go to Skill Matrix → All Teams and click to create a new team. You can also use Create New → Team in the top bar.",
+  "output_file": "documentation-readiness/screenshots/v7/17183949-041.png"
+ },
+ {
+  "id": "v6-042",
+  "article_id": "17183949",
+  "article_title": "Create a Skill Matrix team and set required skills",
+  "module": "Skill Matrix",
+  "url_path": "/main/skill-matrix/teams",
+  "action_description": "Open the screen and capture the state right after this step (section \"Create the team\"): Choose the team lead, and the department or line if relevant.",
+  "output_file": "documentation-readiness/screenshots/v7/17183949-042.png"
+ },
+ {
+  "id": "v6-043",
+  "article_id": "17183949",
+  "article_title": "Create a Skill Matrix team and set required skills",
+  "module": "Skill Matrix",
+  "url_path": "/main/skill-matrix/teams",
+  "action_description": "Open the screen and capture the state right after this step (section \"Set what the team needs\"): Click Save.",
+  "output_file": "documentation-readiness/screenshots/v7/17183949-043.png"
+ },
+ {
+  "id": "v6-044",
+  "article_id": "17183629",
+  "article_title": "Read the radar chart and plan skill gaps",
+  "module": "Skill Matrix",
+  "url_path": "/main/skill-matrix/gap-planning",
+  "action_description": "Open the screen and capture the state right after this step (section \"Use the Gap Planning page\"): Open Gap Planning from the Skill Matrix menu. The page shows GAP (%), GAP Closure YTD (%) and GAP Closure Total (%) at the top, and tabs for each level step (1-2 level, 2-3 level, 3-4 level, 4-5 level).",
+  "output_file": "documentation-readiness/screenshots/v7/17183629-044.png"
+ },
+ {
+  "id": "v6-045",
+  "article_id": "17183629",
+  "article_title": "Read the radar chart and plan skill gaps",
+  "module": "Skill Matrix",
+  "url_path": "/main/skill-matrix/gap-planning",
+  "action_description": "Open the screen and capture the state right after this step (section \"Use the Gap Planning page\"): Choose Individual and a person (or another option) from the two drop-downs.",
+  "output_file": "documentation-readiness/screenshots/v7/17183629-045.png"
+ },
+ {
+  "id": "v6-046",
+  "article_id": "17183626",
+  "article_title": "Link training to the Skill Matrix and record external training",
+  "module": "Skill Matrix",
+  "url_path": "/main/skill-matrix/profile",
+  "action_description": "Open /main/skill-matrix/profile, wait for the table/charts to finish loading, capture: User profile Training Tracker tab listing courses and external training",
+  "output_file": "documentation-readiness/screenshots/v7/17183626-046.png"
+ },
+ {
+  "id": "v6-047",
+  "article_id": "17183621",
+  "article_title": "Build quizzes, courses and learning plans in the Instructor Panel",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/instructor-panel",
+  "action_description": "Open the screen and capture the state right after this step (section \"Open the Instructor Panel\"): Open LMS → Instructor Panel.",
+  "output_file": "documentation-readiness/screenshots/v7/17183621-047.png"
+ },
+ {
+  "id": "v6-048",
+  "article_id": "17183621",
+  "article_title": "Build quizzes, courses and learning plans in the Instructor Panel",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/instructor-panel",
+  "action_description": "Open the screen and capture the state right after this step (section \"Open the Instructor Panel\"): Click + Create New in the Continue Editing or Backlog section to start a new item.",
+  "output_file": "documentation-readiness/screenshots/v7/17183621-048.png"
+ },
+ {
+  "id": "v6-049",
+  "article_id": "17183621",
+  "article_title": "Build quizzes, courses and learning plans in the Instructor Panel",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/instructor-panel",
+  "action_description": "Open the screen and capture the state right after this step (section \"Create a course\"): Choose Public (anyone can enroll themselves) or Private (only people you assign can take it; others can request to enroll, and requests appear under Enrollment Requests at the top of the Instructor Panel).",
+  "output_file": "documentation-readiness/screenshots/v7/17183621-049.png"
+ },
+ {
+  "id": "v6-050",
+  "article_id": "17183568",
+  "article_title": "Escalate F-Tags between tiers",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Escalate a tag\"): Open the tag.",
+  "output_file": "documentation-readiness/screenshots/v7/17183568-050.png"
+ },
+ {
+  "id": "v6-051",
+  "article_id": "17183568",
+  "article_title": "Escalate F-Tags between tiers",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Escalate a tag\"): Click Escalate. You can add a comment explaining why.",
+  "output_file": "documentation-readiness/screenshots/v7/17183568-051.png"
+ },
+ {
+  "id": "v6-052",
+  "article_id": "17183559",
+  "article_title": "Present, export and analyze a Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Present mode\"): Click the Present (play) button at the top of a Kaizen. It turns into a slide presentation automatically.",
+  "output_file": "documentation-readiness/screenshots/v7/17183559-052.png"
+ },
+ {
+  "id": "v6-053",
+  "article_id": "17183559",
+  "article_title": "Present, export and analyze a Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"RCA Agent (AI root-cause analysis)\"): Open the RCA Agent tab.",
+  "output_file": "documentation-readiness/screenshots/v7/17183559-053.png"
+ },
+ {
+  "id": "v6-054",
+  "article_id": "17183559",
+  "article_title": "Present, export and analyze a Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"RCA Agent (AI root-cause analysis)\"): Click Run RCA Analysis. The AI suggests a 5 Whys, 4M and fishbone analysis.",
+  "output_file": "documentation-readiness/screenshots/v7/17183559-054.png"
+ },
+ {
+  "id": "v6-055",
+  "article_id": "17183557",
+  "article_title": "Create a Kaizen and add sections",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Create the project\"): Go to Kaizen and click Create new.",
+  "output_file": "documentation-readiness/screenshots/v7/17183557-055.png"
+ },
+ {
+  "id": "v6-056",
+  "article_id": "17183557",
+  "article_title": "Create a Kaizen and add sections",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Create the project\"): Click Create.",
+  "output_file": "documentation-readiness/screenshots/v7/17183557-056.png"
+ },
+ {
+  "id": "v6-057",
+  "article_id": "17183491",
+  "article_title": "Create a one-point lesson (OPL) with AI",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Create the OPL\"): Go to Lean Creator → Create with AI and choose OPL.",
+  "output_file": "documentation-readiness/screenshots/v7/17183491-057.png"
+ },
+ {
+  "id": "v6-058",
+  "article_id": "17183491",
+  "article_title": "Create a one-point lesson (OPL) with AI",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Review and save\"): Click Save.",
+  "output_file": "documentation-readiness/screenshots/v7/17183491-058.png"
+ },
+ {
+  "id": "v6-059",
+  "article_id": "17183491",
+  "article_title": "Create a one-point lesson (OPL) with AI",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Review and save\"): Add a name, labels and pillar (for example Safety), and choose the visibility.",
+  "output_file": "documentation-readiness/screenshots/v7/17183491-059.png"
+ },
+ {
+  "id": "v6-060",
+  "article_id": "17183491",
+  "article_title": "Create a one-point lesson (OPL) with AI",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Review and save\"): Click Save & Publish.",
+  "output_file": "documentation-readiness/screenshots/v7/17183491-060.png"
+ },
+ {
+  "id": "v6-061",
+  "article_id": "17183480",
+  "article_title": "About notifications and reminders",
+  "module": "Getting Started",
+  "url_path": "/main/home",
+  "action_description": "Open /main/home, wait for the table/charts to finish loading, capture: Bell icon (top right) clicked: notifications panel open with a few notifications",
+  "output_file": "documentation-readiness/screenshots/v7/17183480-061.png"
+ },
+ {
+  "id": "v6-062",
+  "article_id": "17183339",
+  "article_title": "Connect a KPI to Excel or Google Sheets",
+  "module": "KPI",
+  "url_path": "/main/kpi/kpi-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Connect the file\"): Open the KPI, go to the Source step, and choose Excel (Microsoft) or Google Sheet.",
+  "output_file": "documentation-readiness/screenshots/v7/17183339-062.png"
+ },
+ {
+  "id": "v6-063",
+  "article_id": "17183339",
+  "article_title": "Connect a KPI to Excel or Google Sheets",
+  "module": "KPI",
+  "url_path": "/main/kpi/kpi-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Connect the file\"): Select the sheet or table.",
+  "output_file": "documentation-readiness/screenshots/v7/17183339-063.png"
+ },
+ {
+  "id": "v6-064",
+  "article_id": "17183339",
+  "article_title": "Connect a KPI to Excel or Google Sheets",
+  "module": "KPI",
+  "url_path": "/main/kpi/kpi-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Uploading a file instead\"): Open the KPI and click Upload file.",
+  "output_file": "documentation-readiness/screenshots/v7/17183339-064.png"
+ },
+ {
+  "id": "v6-065",
+  "article_id": "17183339",
+  "article_title": "Connect a KPI to Excel or Google Sheets",
+  "module": "KPI",
+  "url_path": "/main/kpi/kpi-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Uploading a file instead\"): Choose the Excel or CSV file.",
+  "output_file": "documentation-readiness/screenshots/v7/17183339-065.png"
+ },
+ {
+  "id": "v6-066",
+  "article_id": "17183337",
+  "article_title": "Create a KPI",
+  "module": "KPI",
+  "url_path": "/main/kpi/kpi-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Details\"): 2. Choose the pillar and enter a name and description.",
+  "output_file": "documentation-readiness/screenshots/v7/17183337-066.png"
+ },
+ {
+  "id": "v6-067",
+  "article_id": "17183337",
+  "article_title": "Create a KPI",
+  "module": "KPI",
+  "url_path": "/main/kpi/kpi-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Details\"): 5. Click Save & Next.",
+  "output_file": "documentation-readiness/screenshots/v7/17183337-067.png"
+ },
+ {
+  "id": "v6-068",
+  "article_id": "17183337",
+  "article_title": "Create a KPI",
+  "module": "KPI",
+  "url_path": "/main/kpi/kpi-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Frequency\"): 6. Choose how often a value is due, for example every day, or every week on Monday.",
+  "output_file": "documentation-readiness/screenshots/v7/17183337-068.png"
+ },
+ {
+  "id": "v6-069",
+  "article_id": "17183337",
+  "article_title": "Create a KPI",
+  "module": "KPI",
+  "url_path": "/main/kpi/kpi-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Frequency\"): 9. Click Save & Next.",
+  "output_file": "documentation-readiness/screenshots/v7/17183337-069.png"
+ },
+ {
+  "id": "v6-070",
+  "article_id": "17183337",
+  "article_title": "Create a KPI",
+  "module": "KPI",
+  "url_path": "/main/kpi/kpi-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Share\"): 11. Click Save & Next.",
+  "output_file": "documentation-readiness/screenshots/v7/17183337-070.png"
+ },
+ {
+  "id": "v6-071",
+  "article_id": "17183337",
+  "article_title": "Create a KPI",
+  "module": "KPI",
+  "url_path": "/main/kpi/kpi-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Source\"): 12. Choose where the values come from:",
+  "output_file": "documentation-readiness/screenshots/v7/17183337-071.png"
+ },
+ {
+  "id": "v6-072",
+  "article_id": "17183337",
+  "article_title": "Create a KPI",
+  "module": "KPI",
+  "url_path": "/main/kpi/kpi-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Publish\"): 13. Click Publish.",
+  "output_file": "documentation-readiness/screenshots/v7/17183337-072.png"
+ },
+ {
+  "id": "v6-073",
+  "article_id": "17183335",
+  "article_title": "About KPI indicators, targets and trees",
+  "module": "KPI",
+  "url_path": "/main/kpi/kpi-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"KPI trees\"): Open the KPI Builder.",
+  "output_file": "documentation-readiness/screenshots/v7/17183335-073.png"
+ },
+ {
+  "id": "v6-074",
+  "article_id": "17183189",
+  "article_title": "What is an EWO?",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/ewo",
+  "action_description": "Open the screen and capture the state right after this step (section \"Set up EWO\"): Go to gear icon → Kaizen Settings → Add Project Type, choose module EWO, and name it, for example \"Downtime Report\".",
+  "output_file": "documentation-readiness/screenshots/v7/17183189-074.png"
+ },
+ {
+  "id": "v6-075",
+  "article_id": "17183189",
+  "article_title": "What is an EWO?",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/ewo",
+  "action_description": "Open the screen and capture the state right after this step (section \"Set up EWO\"): Click Add template on that phase and choose the sections to show, for example Problem Description, Description of Repair, Root Cause Analysis, Action Plan and MTTR.",
+  "output_file": "documentation-readiness/screenshots/v7/17183189-075.png"
+ },
+ {
+  "id": "v6-076",
+  "article_id": "17183189",
+  "article_title": "What is an EWO?",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/ewo",
+  "action_description": "Open the screen and capture the state right after this step (section \"Set up EWO\"): Click Save and apply.",
+  "output_file": "documentation-readiness/screenshots/v7/17183189-076.png"
+ },
+ {
+  "id": "v6-077",
+  "article_id": "17183189",
+  "article_title": "What is an EWO?",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/ewo",
+  "action_description": "Open the screen and capture the state right after this step (section \"Set up EWO\"): In EWO Settings, maintain your breakdown types, for example mechanical, electrical or lubrication. Click Create New to add a type.",
+  "output_file": "documentation-readiness/screenshots/v7/17183189-077.png"
+ },
+ {
+  "id": "v6-078",
+  "article_id": "17183189",
+  "article_title": "What is an EWO?",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/ewo",
+  "action_description": "Open the screen and capture the state right after this step (section \"Create an EWO\"): Go to EWO → Create new.",
+  "output_file": "documentation-readiness/screenshots/v7/17183189-078.png"
+ },
+ {
+  "id": "v6-079",
+  "article_id": "17183189",
+  "article_title": "What is an EWO?",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/ewo",
+  "action_description": "Open the screen and capture the state right after this step (section \"Create an EWO\"): Choose the breakdown type.",
+  "output_file": "documentation-readiness/screenshots/v7/17183189-079.png"
+ },
+ {
+  "id": "v6-080",
+  "article_id": "17183189",
+  "article_title": "What is an EWO?",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/ewo",
+  "action_description": "Open the screen and capture the state right after this step (section \"Create an EWO\"): Select Create.",
+  "output_file": "documentation-readiness/screenshots/v7/17183189-080.png"
+ },
+ {
+  "id": "v6-081",
+  "article_id": "17183180",
+  "article_title": "Add rules, required evidence and scoring to a template",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Flag a response\"): In Lean Creator, open your template in Build and select a question.",
+  "output_file": "documentation-readiness/screenshots/v7/17183180-081.png"
+ },
+ {
+  "id": "v6-082",
+  "article_id": "17183180",
+  "article_title": "Add rules, required evidence and scoring to a template",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Flag a response\"): Open Response properties.",
+  "output_file": "documentation-readiness/screenshots/v7/17183180-082.png"
+ },
+ {
+  "id": "v6-083",
+  "article_id": "17183180",
+  "article_title": "Add rules, required evidence and scoring to a template",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a rule\"): Select the question and click Add rule.",
+  "output_file": "documentation-readiness/screenshots/v7/17183180-083.png"
+ },
+ {
+  "id": "v6-084",
+  "article_id": "17183180",
+  "article_title": "Add rules, required evidence and scoring to a template",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a rule\"): Choose the action:",
+  "output_file": "documentation-readiness/screenshots/v7/17183180-084.png"
+ },
+ {
+  "id": "v6-085",
+  "article_id": "17183180",
+  "article_title": "Add rules, required evidence and scoring to a template",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Score an audit\"): Select a question, open Response properties and turn on scoring.",
+  "output_file": "documentation-readiness/screenshots/v7/17183180-085.png"
+ },
+ {
+  "id": "v6-086",
+  "article_id": "17183176",
+  "article_title": "Assign and schedule a Daily Standard Work template",
+  "module": "Daily Standard Work",
+  "url_path": "/main/dsw/overview",
+  "action_description": "Open the screen and capture the state right after this step (section \"Open the assignment\"): 1. Go to Lean Creator and find your published template.",
+  "output_file": "documentation-readiness/screenshots/v7/17183176-086.png"
+ },
+ {
+  "id": "v6-087",
+  "article_id": "17183176",
+  "article_title": "Assign and schedule a Daily Standard Work template",
+  "module": "Daily Standard Work",
+  "url_path": "/main/dsw/overview",
+  "action_description": "Open the screen and capture the state right after this step (section \"Open the assignment\"): 2. Click the ⋮ menu on the template and choose Assign.",
+  "output_file": "documentation-readiness/screenshots/v7/17183176-087.png"
+ },
+ {
+  "id": "v6-088",
+  "article_id": "17183176",
+  "article_title": "Assign and schedule a Daily Standard Work template",
+  "module": "Daily Standard Work",
+  "url_path": "/main/dsw/overview",
+  "action_description": "Open the screen and capture the state right after this step (section \"Choose who it's for\"): 4. Choose whether to assign the template to users, a role or an asset.",
+  "output_file": "documentation-readiness/screenshots/v7/17183176-088.png"
+ },
+ {
+  "id": "v6-089",
+  "article_id": "17183176",
+  "article_title": "Assign and schedule a Daily Standard Work template",
+  "module": "Daily Standard Work",
+  "url_path": "/main/dsw/overview",
+  "action_description": "Open the screen and capture the state right after this step (section \"Set the frequency\"): 6. Click Submit.",
+  "output_file": "documentation-readiness/screenshots/v7/17183176-089.png"
+ },
+ {
+  "id": "v6-090",
+  "article_id": "17182753",
+  "article_title": "Publish and assign a template for sign-off",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Publish\"): 2. Click Save & Publish. You'll be prompted to assign the template.",
+  "output_file": "documentation-readiness/screenshots/v7/17182753-090.png"
+ },
+ {
+  "id": "v6-091",
+  "article_id": "17182753",
+  "article_title": "Publish and assign a template for sign-off",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Assign\"): 4. Choose who it's for:",
+  "output_file": "documentation-readiness/screenshots/v7/17182753-091.png"
+ },
+ {
+  "id": "v6-092",
+  "article_id": "17182753",
+  "article_title": "Publish and assign a template for sign-off",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Assign\"): 5. Set the frequency. For a one-time read-and-sign, choose a single occurrence. For recurring checks, set the repeat and an end date.",
+  "output_file": "documentation-readiness/screenshots/v7/17182753-092.png"
+ },
+ {
+  "id": "v6-093",
+  "article_id": "17182753",
+  "article_title": "Publish and assign a template for sign-off",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Assign\"): 6. Click Submit.",
+  "output_file": "documentation-readiness/screenshots/v7/17182753-093.png"
+ },
+ {
+  "id": "v6-094",
+  "article_id": "17182753",
+  "article_title": "Publish and assign a template for sign-off",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"What the user sees\"): They click Start to open it. The document must be opened before it can be signed.",
+  "output_file": "documentation-readiness/screenshots/v7/17182753-094.png"
+ },
+ {
+  "id": "v6-095",
+  "article_id": "17182753",
+  "article_title": "Publish and assign a template for sign-off",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"What the user sees\"): They read it, answer any questions, and click Submit. The Submit button is at the top of the screen.",
+  "output_file": "documentation-readiness/screenshots/v7/17182753-095.png"
+ },
+ {
+  "id": "v6-096",
+  "article_id": "17182735",
+  "article_title": "Log in to LeanSuite",
+  "module": "Getting Started",
+  "url_path": "/main/home",
+  "action_description": "Open the screen and capture the state right after this step (section \"Logging in for the first time\"): You'll be asked to set a new password. Choose one you'll remember.",
+  "output_file": "documentation-readiness/screenshots/v7/17182735-096.png"
+ },
+ {
+  "id": "v6-097",
+  "article_id": "13312050",
+  "article_title": "Add a widget to a Lean Studio dashboard",
+  "module": "Lean Studio",
+  "url_path": "/main/custom-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a widget\"): Open your dashboard and click Edit Layout.",
+  "output_file": "documentation-readiness/screenshots/v7/13312050-097.png"
+ },
+ {
+  "id": "v6-098",
+  "article_id": "13312050",
+  "article_title": "Add a widget to a Lean Studio dashboard",
+  "module": "Lean Studio",
+  "url_path": "/main/custom-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a widget\"): Click Add widget and choose the chart type.",
+  "output_file": "documentation-readiness/screenshots/v7/13312050-098.png"
+ },
+ {
+  "id": "v6-099",
+  "article_id": "13312050",
+  "article_title": "Add a widget to a Lean Studio dashboard",
+  "module": "Lean Studio",
+  "url_path": "/main/custom-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a widget\"): Choose the module the data comes from, such as Kaizen, KPI, Daily Standard Work or Tags, and then the report.",
+  "output_file": "documentation-readiness/screenshots/v7/13312050-099.png"
+ },
+ {
+  "id": "v6-100",
+  "article_id": "13312050",
+  "article_title": "Add a widget to a Lean Studio dashboard",
+  "module": "Lean Studio",
+  "url_path": "/main/custom-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a widget\"): Set filters, for example facility (you can choose several), date range (YTD, QTD, MTD or a custom range), status or project type.",
+  "output_file": "documentation-readiness/screenshots/v7/13312050-100.png"
+ },
+ {
+  "id": "v6-101",
+  "article_id": "13312050",
+  "article_title": "Add a widget to a Lean Studio dashboard",
+  "module": "Lean Studio",
+  "url_path": "/main/custom-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a widget\"): Click Save & Next.",
+  "output_file": "documentation-readiness/screenshots/v7/13312050-101.png"
+ },
+ {
+  "id": "v6-102",
+  "article_id": "13312040",
+  "article_title": "Edit a widget in a Lean Studio dashboard",
+  "module": "Lean Studio",
+  "url_path": "/main/custom-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Edit a widget\"): Open the dashboard and click Edit Layout.",
+  "output_file": "documentation-readiness/screenshots/v7/13312040-102.png"
+ },
+ {
+  "id": "v6-103",
+  "article_id": "13312040",
+  "article_title": "Edit a widget in a Lean Studio dashboard",
+  "module": "Lean Studio",
+  "url_path": "/main/custom-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Edit a widget\"): Open the widget's edit option.",
+  "output_file": "documentation-readiness/screenshots/v7/13312040-103.png"
+ },
+ {
+  "id": "v6-104",
+  "article_id": "13312040",
+  "article_title": "Edit a widget in a Lean Studio dashboard",
+  "module": "Lean Studio",
+  "url_path": "/main/custom-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Edit a widget\"): Click Save.",
+  "output_file": "documentation-readiness/screenshots/v7/13312040-104.png"
+ },
+ {
+  "id": "v6-105",
+  "article_id": "13312033",
+  "article_title": "Lean Studio widget types",
+  "module": "Lean Studio",
+  "url_path": "/main/custom-dashboard",
+  "action_description": "Open /main/custom-dashboard, wait for the table/charts to finish loading, capture: A dashboard in Edit Layout with the Add widget panel open listing the widget types",
+  "output_file": "documentation-readiness/screenshots/v7/13312033-105.png"
+ },
+ {
+  "id": "v6-106",
+  "article_id": "13312027",
+  "article_title": "Export charts from Lean Studio dashboards",
+  "module": "Lean Studio",
+  "url_path": "/main/custom-dashboard",
+  "action_description": "Open /main/custom-dashboard, wait for the table/charts to finish loading, capture: A dashboard open with a widget menu expanded showing the export option",
+  "output_file": "documentation-readiness/screenshots/v7/13312027-106.png"
+ },
+ {
+  "id": "v6-107",
+  "article_id": "13312024",
+  "article_title": "Use a Lean Studio board in a huddle",
+  "module": "Lean Studio",
+  "url_path": "/main/custom-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Enter a KPI value\"): Click a date on a KPI widget.",
+  "output_file": "documentation-readiness/screenshots/v7/13312024-107.png"
+ },
+ {
+  "id": "v6-108",
+  "article_id": "13312024",
+  "article_title": "Use a Lean Studio board in a huddle",
+  "module": "Lean Studio",
+  "url_path": "/main/custom-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Enter a KPI value\"): Click Add KPI.",
+  "output_file": "documentation-readiness/screenshots/v7/13312024-108.png"
+ },
+ {
+  "id": "v6-109",
+  "article_id": "13312017",
+  "article_title": "Edit a dashboard layout in Lean Studio",
+  "module": "Lean Studio",
+  "url_path": "/main/custom-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Edit the layout\"): Open the dashboard and click Edit Layout.",
+  "output_file": "documentation-readiness/screenshots/v7/13312017-109.png"
+ },
+ {
+  "id": "v6-110",
+  "article_id": "13311987",
+  "article_title": "Set up a Freeform dashboard and use templates in Lean Studio",
+  "module": "Lean Studio",
+  "url_path": "/main/custom-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add notes and shapes\"): Open a Freeform dashboard and click Edit Layout.",
+  "output_file": "documentation-readiness/screenshots/v7/13311987-110.png"
+ },
+ {
+  "id": "v6-111",
+  "article_id": "13311987",
+  "article_title": "Set up a Freeform dashboard and use templates in Lean Studio",
+  "module": "Lean Studio",
+  "url_path": "/main/custom-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Use a template\"): In Edit Layout, open the template library.",
+  "output_file": "documentation-readiness/screenshots/v7/13311987-111.png"
+ },
+ {
+  "id": "v6-112",
+  "article_id": "13311987",
+  "article_title": "Set up a Freeform dashboard and use templates in Lean Studio",
+  "module": "Lean Studio",
+  "url_path": "/main/custom-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Use a template\"): Choose a template to add it to the canvas.",
+  "output_file": "documentation-readiness/screenshots/v7/13311987-112.png"
+ },
+ {
+  "id": "v6-113",
+  "article_id": "13311987",
+  "article_title": "Set up a Freeform dashboard and use templates in Lean Studio",
+  "module": "Lean Studio",
+  "url_path": "/main/custom-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Save your own template\"): Select the shapes you want. Hold Shift and click each one.",
+  "output_file": "documentation-readiness/screenshots/v7/13311987-113.png"
+ },
+ {
+  "id": "v6-114",
+  "article_id": "13311987",
+  "article_title": "Set up a Freeform dashboard and use templates in Lean Studio",
+  "module": "Lean Studio",
+  "url_path": "/main/custom-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Save your own template\"): Click Group.",
+  "output_file": "documentation-readiness/screenshots/v7/13311987-114.png"
+ },
+ {
+  "id": "v6-115",
+  "article_id": "13311987",
+  "article_title": "Set up a Freeform dashboard and use templates in Lean Studio",
+  "module": "Lean Studio",
+  "url_path": "/main/custom-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Save your own template\"): Click Save as template.",
+  "output_file": "documentation-readiness/screenshots/v7/13311987-115.png"
+ },
+ {
+  "id": "v6-116",
+  "article_id": "13311974",
+  "article_title": "Set up a Grid dashboard in Lean Studio",
+  "module": "Lean Studio",
+  "url_path": "/main/custom-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Set up the dashboard\"): In Lean Studio, create a new dashboard and choose the Grid layout.",
+  "output_file": "documentation-readiness/screenshots/v7/13311974-116.png"
+ },
+ {
+  "id": "v6-117",
+  "article_id": "13311974",
+  "article_title": "Set up a Grid dashboard in Lean Studio",
+  "module": "Lean Studio",
+  "url_path": "/main/custom-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Set up the dashboard\"): Click Edit Layout.",
+  "output_file": "documentation-readiness/screenshots/v7/13311974-117.png"
+ },
+ {
+  "id": "v6-118",
+  "article_id": "13311974",
+  "article_title": "Set up a Grid dashboard in Lean Studio",
+  "module": "Lean Studio",
+  "url_path": "/main/custom-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Set up the dashboard\"): Add widgets, for example a single-value tile for each KPI, a trend chart, a table of open actions, and a heat map such as a safety cross.",
+  "output_file": "documentation-readiness/screenshots/v7/13311974-118.png"
+ },
+ {
+  "id": "v6-119",
+  "article_id": "13311893",
+  "article_title": "Edit dashboard details in Lean Studio",
+  "module": "Lean Studio",
+  "url_path": "/main/custom-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Edit dashboard details\"): Open the dashboard in Lean Studio.",
+  "output_file": "documentation-readiness/screenshots/v7/13311893-119.png"
+ },
+ {
+  "id": "v6-120",
+  "article_id": "13311893",
+  "article_title": "Edit dashboard details in Lean Studio",
+  "module": "Lean Studio",
+  "url_path": "/main/custom-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Edit dashboard details\"): Open the dashboard's settings or edit option.",
+  "output_file": "documentation-readiness/screenshots/v7/13311893-120.png"
+ },
+ {
+  "id": "v6-121",
+  "article_id": "12927244",
+  "article_title": "Edit template properties in Lean Creator",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Open the template menu\"): 2. Find the template you want to edit and go to the last column, Action.",
+  "output_file": "documentation-readiness/screenshots/v7/12927244-121.png"
+ },
+ {
+  "id": "v6-122",
+  "article_id": "12927244",
+  "article_title": "Edit template properties in Lean Creator",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Edit the properties\"): 5. Make your changes and click Update in the top right corner.",
+  "output_file": "documentation-readiness/screenshots/v7/12927244-122.png"
+ },
+ {
+  "id": "v6-123",
+  "article_id": "12920945",
+  "article_title": "Clone a template from the Template Marketplace",
+  "module": "Daily Standard Work",
+  "url_path": "/main/dsw/my-templates?tab=marketplace",
+  "action_description": "Open the screen and capture the state right after this step (section \"Clone a template from Daily Standard Work\"): 2. Click the Marketplace tab, next to My Templates.",
+  "output_file": "documentation-readiness/screenshots/v7/12920945-123.png"
+ },
+ {
+  "id": "v6-124",
+  "article_id": "12920945",
+  "article_title": "Clone a template from the Template Marketplace",
+  "module": "Daily Standard Work",
+  "url_path": "/main/dsw/my-templates?tab=marketplace",
+  "action_description": "Open the screen and capture the state right after this step (section \"Clone a template from Daily Standard Work\"): 3. Find the template you want. Click Preview first if you want to look inside.",
+  "output_file": "documentation-readiness/screenshots/v7/12920945-124.png"
+ },
+ {
+  "id": "v6-125",
+  "article_id": "12920945",
+  "article_title": "Clone a template from the Template Marketplace",
+  "module": "Daily Standard Work",
+  "url_path": "/main/dsw/my-templates?tab=marketplace",
+  "action_description": "Open the screen and capture the state right after this step (section \"Clone a template from Lean Creator\"): In Lean Creator, click Marketplace. It opens the Marketplace tab shown above.",
+  "output_file": "documentation-readiness/screenshots/v7/12920945-125.png"
+ },
+ {
+  "id": "v6-126",
+  "article_id": "12920945",
+  "article_title": "Clone a template from the Template Marketplace",
+  "module": "Daily Standard Work",
+  "url_path": "/main/dsw/my-templates?tab=marketplace",
+  "action_description": "Open the screen and capture the state right after this step (section \"Clone a template from Lean Creator\"): Click Preview to look at a template.",
+  "output_file": "documentation-readiness/screenshots/v7/12920945-126.png"
+ },
+ {
+  "id": "v6-127",
+  "article_id": "12920945",
+  "article_title": "Clone a template from the Template Marketplace",
+  "module": "Daily Standard Work",
+  "url_path": "/main/dsw/my-templates?tab=marketplace",
+  "action_description": "Open the screen and capture the state right after this step (section \"Clone a template from Lean Creator\"): Click Use template to clone it into My Templates.",
+  "output_file": "documentation-readiness/screenshots/v7/12920945-127.png"
+ },
+ {
+  "id": "v6-128",
+  "article_id": "12920931",
+  "article_title": "Start a Daily Standard Work template or activity",
+  "module": "Daily Standard Work",
+  "url_path": "/main/dsw/overview",
+  "action_description": "Open the screen and capture the state right after this step (section \"Find the activity on the Overview Dashboard\"): 1. In the top menu bar, click My Activities.",
+  "output_file": "documentation-readiness/screenshots/v7/12920931-128.png"
+ },
+ {
+  "id": "v6-129",
+  "article_id": "12920931",
+  "article_title": "Start a Daily Standard Work template or activity",
+  "module": "Daily Standard Work",
+  "url_path": "/main/dsw/kanban",
+  "action_description": "Open the screen and capture the state right after this step (section \"Start from the Kanban Board\"): In the DSW menu, click Kanban Board.",
+  "output_file": "documentation-readiness/screenshots/v7/12920931-129.png"
+ },
+ {
+  "id": "v6-130",
+  "article_id": "12920922",
+  "article_title": "Preview a Daily Standard Work template",
+  "module": "Daily Standard Work",
+  "url_path": "/main/dsw/my-templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Preview a template\"): 1. In the Daily Standard Work menu, go to My Templates.",
+  "output_file": "documentation-readiness/screenshots/v7/12920922-130.png"
+ },
+ {
+  "id": "v6-131",
+  "article_id": "12920896",
+  "article_title": "View submitted Daily Standard Work reports",
+  "module": "Daily Standard Work",
+  "url_path": "/main/dsw/overview",
+  "action_description": "Open the screen and capture the state right after this step (section \"From the Overview Dashboard\"): 1. Go to the Overview Dashboard from the home page.",
+  "output_file": "documentation-readiness/screenshots/v7/12920896-131.png"
+ },
+ {
+  "id": "v6-132",
+  "article_id": "12920896",
+  "article_title": "View submitted Daily Standard Work reports",
+  "module": "Daily Standard Work",
+  "url_path": "/main/dsw/dsw-report",
+  "action_description": "Open the screen and capture the state right after this step (section \"From the Overview Dashboard\"): 3. In the Status Window, click Submitted.",
+  "output_file": "documentation-readiness/screenshots/v7/12920896-132.png"
+ },
+ {
+  "id": "v6-133",
+  "article_id": "12920896",
+  "article_title": "View submitted Daily Standard Work reports",
+  "module": "Daily Standard Work",
+  "url_path": "/main/dsw/kanban",
+  "action_description": "Open the screen and capture the state right after this step (section \"From the Kanban Board\"): In the Daily Standard Work menu, click Kanban Board.",
+  "output_file": "documentation-readiness/screenshots/v7/12920896-133.png"
+ },
+ {
+  "id": "v6-134",
+  "article_id": "12920896",
+  "article_title": "View submitted Daily Standard Work reports",
+  "module": "Daily Standard Work",
+  "url_path": "/main/dsw/overview",
+  "action_description": "Open the screen and capture the state right after this step (section \"From the Kanban Board\"): Open the report from the activity's card.",
+  "output_file": "documentation-readiness/screenshots/v7/12920896-134.png"
+ },
+ {
+  "id": "v6-135",
+  "article_id": "12920075",
+  "article_title": "Edit a KPI",
+  "module": "KPI",
+  "url_path": "/main/kpi/kpi-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Edit and publish\"): 3. In the top right corner of the window, click the pencil (edit) icon, to the left of the close (X) icon. The Create KPI window opens.",
+  "output_file": "documentation-readiness/screenshots/v7/12920075-135.png"
+ },
+ {
+  "id": "v6-136",
+  "article_id": "12920075",
+  "article_title": "Edit a KPI",
+  "module": "KPI",
+  "url_path": "/main/kpi/kpi-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Edit and publish\"): 5. Click Publish to make the changes live.",
+  "output_file": "documentation-readiness/screenshots/v7/12920075-136.png"
+ },
+ {
+  "id": "v6-137",
+  "article_id": "12919963",
+  "article_title": "Edit questions and responses in Lean Creator",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Edit and save\"): 4. When you have finished, click one of these in the top right corner:",
+  "output_file": "documentation-readiness/screenshots/v7/12919963-137.png"
+ },
+ {
+  "id": "v6-138",
+  "article_id": "12919955",
+  "article_title": "Create a template in Lean Creator",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Create the template\"): 4. Click Create in the top right corner.",
+  "output_file": "documentation-readiness/screenshots/v7/12919955-138.png"
+ },
+ {
+  "id": "v6-139",
+  "article_id": "12919955",
+  "article_title": "Create a template in Lean Creator",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Build and publish\"): 5. Build your template. Building a template can take more than one sitting, so you can save your work as a draft. Open the template again from the dashboard to continue editing.",
+  "output_file": "documentation-readiness/screenshots/v7/12919955-139.png"
+ },
+ {
+  "id": "v6-140",
+  "article_id": "12919955",
+  "article_title": "Create a template in Lean Creator",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Build and publish\"): 6. When the template is ready, click Save & Publish. You are then prompted to schedule (assign) it.",
+  "output_file": "documentation-readiness/screenshots/v7/12919955-140.png"
+ },
+ {
+  "id": "v6-141",
+  "article_id": "12125129",
+  "article_title": "View Course Analytics",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/instructor-panel",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 2. Open the Instructor Panel from the LMS parent menu.",
+  "output_file": "documentation-readiness/screenshots/v7/12125129-141.png"
+ },
+ {
+  "id": "v6-142",
+  "article_id": "12125129",
+  "article_title": "View Course Analytics",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/reports",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 5. Click Course Analytics.",
+  "output_file": "documentation-readiness/screenshots/v7/12125129-142.png"
+ },
+ {
+  "id": "v6-143",
+  "article_id": "12125120",
+  "article_title": "Mark submitted quizzes",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/instructor-panel",
+  "action_description": "Open the screen and capture the state right after this step (section \"Before you begin\"): Open the Instructor Panel from the LMS parent menu.",
+  "output_file": "documentation-readiness/screenshots/v7/12125120-143.png"
+ },
+ {
+  "id": "v6-144",
+  "article_id": "12125120",
+  "article_title": "Mark submitted quizzes",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/instructor-panel",
+  "action_description": "Open the screen and capture the state right after this step (section \"Before you begin\"): In the top bar, click View Details on the Submitted Quizzes card. The Your Tasks dashboard opens.",
+  "output_file": "documentation-readiness/screenshots/v7/12125120-144.png"
+ },
+ {
+  "id": "v6-145",
+  "article_id": "12125120",
+  "article_title": "Mark submitted quizzes",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/instructor-panel",
+  "action_description": "Open the screen and capture the state right after this step (section \"Mark a quiz\"): 1. On the Your Tasks dashboard, click the quiz you want to mark.",
+  "output_file": "documentation-readiness/screenshots/v7/12125120-145.png"
+ },
+ {
+  "id": "v6-146",
+  "article_id": "12125120",
+  "article_title": "Mark submitted quizzes",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/instructor-panel",
+  "action_description": "Open the screen and capture the state right after this step (section \"Mark a quiz\"): 3. When you have marked all the questions, click Save in the top bar.",
+  "output_file": "documentation-readiness/screenshots/v7/12125120-146.png"
+ },
+ {
+  "id": "v6-147",
+  "article_id": "12125118",
+  "article_title": "Enroll in a course",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/course-catalog?viewType=grid",
+  "action_description": "Open the screen and capture the state right after this step (section \"Enroll\"): In the right-side panel, click Enroll Now below the Wishlist icon.",
+  "output_file": "documentation-readiness/screenshots/v7/12125118-147.png"
+ },
+ {
+  "id": "v6-148",
+  "article_id": "12125115",
+  "article_title": "Edit or delete an instructor",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/instructor-panel",
+  "action_description": "Open the screen and capture the state right after this step (section \"Open the instructor list\"): 3. Click View Details on the Instructors card to open the instructor dashboard.",
+  "output_file": "documentation-readiness/screenshots/v7/12125115-148.png"
+ },
+ {
+  "id": "v6-149",
+  "article_id": "12125115",
+  "article_title": "Edit or delete an instructor",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/instructor-panel",
+  "action_description": "Open the screen and capture the state right after this step (section \"Edit an instructor\"): Click Edit. The Add Instructor window opens.",
+  "output_file": "documentation-readiness/screenshots/v7/12125115-149.png"
+ },
+ {
+  "id": "v6-150",
+  "article_id": "12125115",
+  "article_title": "Edit or delete an instructor",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/instructor-panel",
+  "action_description": "Open the screen and capture the state right after this step (section \"Edit an instructor\"): Click Update at the top right.",
+  "output_file": "documentation-readiness/screenshots/v7/12125115-150.png"
+ },
+ {
+  "id": "v6-151",
+  "article_id": "12125115",
+  "article_title": "Edit or delete an instructor",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/instructor-panel",
+  "action_description": "Open the screen and capture the state right after this step (section \"Delete an instructor\"): Click Delete. A browser pop-up asks you to confirm.",
+  "output_file": "documentation-readiness/screenshots/v7/12125115-151.png"
+ },
+ {
+  "id": "v6-152",
+  "article_id": "12125115",
+  "article_title": "Edit or delete an instructor",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/instructor-panel",
+  "action_description": "Open the screen and capture the state right after this step (section \"Delete an instructor\"): Click OK to delete the instructor, or Cancel to keep them.",
+  "output_file": "documentation-readiness/screenshots/v7/12125115-152.png"
+ },
+ {
+  "id": "v6-153",
+  "article_id": "12125114",
+  "article_title": "Delete a course",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 5. Click Delete. A browser pop-up asks you to confirm.",
+  "output_file": "documentation-readiness/screenshots/v7/12125114-153.png"
+ },
+ {
+  "id": "v6-154",
+  "article_id": "12125114",
+  "article_title": "Delete a course",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 6. Click OK to delete the course, or Cancel to keep it.",
+  "output_file": "documentation-readiness/screenshots/v7/12125114-154.png"
+ },
+ {
+  "id": "v6-155",
+  "article_id": "12125113",
+  "article_title": "Build and publish a quiz",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/instructor-panel",
+  "action_description": "Open the screen and capture the state right after this step (section \"Build a quiz\"): 1. Go to the Instructor Panel or the All Quizzes dashboard and find the quiz you want to build.",
+  "output_file": "documentation-readiness/screenshots/v7/12125113-155.png"
+ },
+ {
+  "id": "v6-156",
+  "article_id": "12125113",
+  "article_title": "Build and publish a quiz",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/instructor-panel",
+  "action_description": "Open the screen and capture the state right after this step (section \"Build a quiz\"): 4. Click Publish at the top right to make the quiz available in your workspace.",
+  "output_file": "documentation-readiness/screenshots/v7/12125113-156.png"
+ },
+ {
+  "id": "v6-157",
+  "article_id": "12125106",
+  "article_title": "Build and publish a course",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/instructor-panel",
+  "action_description": "Open the screen and capture the state right after this step (section \"Build a course\"): 1. Go to the Instructor Panel or the All Courses dashboard and find the course you want to build.",
+  "output_file": "documentation-readiness/screenshots/v7/12125106-157.png"
+ },
+ {
+  "id": "v6-158",
+  "article_id": "12125106",
+  "article_title": "Build and publish a course",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/instructor-panel",
+  "action_description": "Open the screen and capture the state right after this step (section \"Build a course\"): 4. Click Publish at the top right to make the course available in your workspace.",
+  "output_file": "documentation-readiness/screenshots/v7/12125106-158.png"
+ },
+ {
+  "id": "v6-159",
+  "article_id": "12125105",
+  "article_title": "Create a course category",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/instructor-panel",
+  "action_description": "Open the screen and capture the state right after this step (section \"Create a new course category\"): Open the Instructor Panel in the LMS.",
+  "output_file": "documentation-readiness/screenshots/v7/12125105-159.png"
+ },
+ {
+  "id": "v6-160",
+  "article_id": "12125105",
+  "article_title": "Create a course category",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/instructor-panel",
+  "action_description": "Open the screen and capture the state right after this step (section \"Create a new course category\"): Click View All Courses.",
+  "output_file": "documentation-readiness/screenshots/v7/12125105-160.png"
+ },
+ {
+  "id": "v6-161",
+  "article_id": "12125105",
+  "article_title": "Create a course category",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/instructor-panel",
+  "action_description": "Open the screen and capture the state right after this step (section \"Create a new course category\"): On the All Courses dashboard, click Add New at the top right. The Create Course window opens.",
+  "output_file": "documentation-readiness/screenshots/v7/12125105-161.png"
+ },
+ {
+  "id": "v6-162",
+  "article_id": "12125105",
+  "article_title": "Create a course category",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/instructor-panel",
+  "action_description": "Open the screen and capture the state right after this step (section \"Create a new course category\"): In the Course Category field, choose an existing category, or use the button in that field to create a new one.",
+  "output_file": "documentation-readiness/screenshots/v7/12125105-162.png"
+ },
+ {
+  "id": "v6-163",
+  "article_id": "12125105",
+  "article_title": "Create a course category",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/instructor-panel",
+  "action_description": "Open the screen and capture the state right after this step (section \"Create a new course category\"): Complete the other course fields and click Save at the top right.",
+  "output_file": "documentation-readiness/screenshots/v7/12125105-163.png"
+ },
+ {
+  "id": "v6-164",
+  "article_id": "12125080",
+  "article_title": "About the F-Tag side window",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-dashboard",
+  "action_description": "Open /main/tag/tag-dashboard, wait for the table/charts to finish loading, capture: A tag row clicked: F-Tag side window open on the right with its fields expanded",
+  "output_file": "documentation-readiness/screenshots/v7/12125080-164.png"
+ },
+ {
+  "id": "v6-165",
+  "article_id": "12125071",
+  "article_title": "About the F-Tag workflow after creation",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-dashboard",
+  "action_description": "Open /main/tag/tag-dashboard, wait for the table/charts to finish loading, capture: A tag open in the detail view with the Status drop-down expanded",
+  "output_file": "documentation-readiness/screenshots/v7/12125071-165.png"
+ },
+ {
+  "id": "v6-166",
+  "article_id": "12125069",
+  "article_title": "Move an F-Tag through its stages",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-dashboard",
+  "action_description": "Open the screen and capture the state right after this step: Open",
+  "output_file": "documentation-readiness/screenshots/v7/12125069-166.png"
+ },
+ {
+  "id": "v6-167",
+  "article_id": "12125069",
+  "article_title": "Move an F-Tag through its stages",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Stage 2: Submit the F-Tag\"): 1. Click Submit, next to the Attach button (in both the side window and the detail view). The F-Tag becomes available for analysis and feedback.",
+  "output_file": "documentation-readiness/screenshots/v7/12125069-167.png"
+ },
+ {
+  "id": "v6-168",
+  "article_id": "12125066",
+  "article_title": "Edit information in an F-Tag",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-dashboard",
+  "action_description": "Open /main/tag/tag-dashboard, wait for the table/charts to finish loading, capture: A tag open in the detail view; details panel on the right in edit mode",
+  "output_file": "documentation-readiness/screenshots/v7/12125066-168.png"
+ },
+ {
+  "id": "v6-169",
+  "article_id": "12125058",
+  "article_title": "Attach a sketch to an F-Tag",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 2. Select the Sketch option.",
+  "output_file": "documentation-readiness/screenshots/v7/12125058-169.png"
+ },
+ {
+  "id": "v6-170",
+  "article_id": "12125057",
+  "article_title": "Attach a photo or a photo with a sketch to an F-Tag",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 2. Select the Photo option.",
+  "output_file": "documentation-readiness/screenshots/v7/12125057-170.png"
+ },
+ {
+  "id": "v6-171",
+  "article_id": "12125055",
+  "article_title": "Attach a file to an F-Tag",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-dashboard",
+  "action_description": "Open /main/tag/tag-dashboard, wait for the table/charts to finish loading, capture: A tag open in the detail view with the Attach drop-down expanded (Attach, Sketch, Photo)",
+  "output_file": "documentation-readiness/screenshots/v7/12125055-171.png"
+ },
+ {
+  "id": "v6-172",
+  "article_id": "12125043",
+  "article_title": "Search the F-Tag dashboard",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Search with filters\"): Click the Filter button next to the search box. A side window opens with fields you can filter by, such as Tag Labels.",
+  "output_file": "documentation-readiness/screenshots/v7/12125043-172.png"
+ },
+ {
+  "id": "v6-173",
+  "article_id": "12125043",
+  "article_title": "Search the F-Tag dashboard",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Search with filters\"): Scroll through the window and set the fields relevant to your search.",
+  "output_file": "documentation-readiness/screenshots/v7/12125043-173.png"
+ },
+ {
+  "id": "v6-174",
+  "article_id": "12125043",
+  "article_title": "Search the F-Tag dashboard",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Group F-Tags with Group By\"): 1. Click Group By. A side window similar to the filter window opens.",
+  "output_file": "documentation-readiness/screenshots/v7/12125043-174.png"
+ },
+ {
+  "id": "v6-175",
+  "article_id": "12125043",
+  "article_title": "Search the F-Tag dashboard",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Save views\"): 3. To reuse the view, click Saved Views and select it from the list. The saved filters are applied.",
+  "output_file": "documentation-readiness/screenshots/v7/12125043-175.png"
+ },
+ {
+  "id": "v6-176",
+  "article_id": "12124995",
+  "article_title": "Create an F-Tag",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 5. Select the Tag Type that classifies the tag.",
+  "output_file": "documentation-readiness/screenshots/v7/12124995-176.png"
+ },
+ {
+  "id": "v6-177",
+  "article_id": "12124971",
+  "article_title": "Use the drag-and-drop box in a Best Practice",
+  "module": "Best Practice",
+  "url_path": "/main/kaizen/dashboard/best-practice",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a file or document\"): 2. Click and drag the file into the box.",
+  "output_file": "documentation-readiness/screenshots/v7/12124971-177.png"
+ },
+ {
+  "id": "v6-178",
+  "article_id": "12124956",
+  "article_title": "Edit information in a Best Practice",
+  "module": "Best Practice",
+  "url_path": "/main/kaizen/dashboard/best-practice",
+  "action_description": "Open the screen and capture the state right after this step (section \"Edit properties information\"): 2. Go to the field you want to change (in the detail view, it is in the Details field).",
+  "output_file": "documentation-readiness/screenshots/v7/12124956-178.png"
+ },
+ {
+  "id": "v6-179",
+  "article_id": "12124956",
+  "article_title": "Edit information in a Best Practice",
+  "module": "Best Practice",
+  "url_path": "/main/kaizen/dashboard/best-practice",
+  "action_description": "Open the screen and capture the state right after this step (section \"Edit properties information\"): 3. Choose the new value from the field's drop-down menu.",
+  "output_file": "documentation-readiness/screenshots/v7/12124956-179.png"
+ },
+ {
+  "id": "v6-180",
+  "article_id": "12124943",
+  "article_title": "Add a web URL to a Best Practice",
+  "module": "Best Practice",
+  "url_path": "/main/kaizen/dashboard/best-practice",
+  "action_description": "Open /main/kaizen/dashboard/best-practice, wait for the table/charts to finish loading, capture: A Best Practice open in the detail view, Add Link / URL field visible",
+  "output_file": "documentation-readiness/screenshots/v7/12124943-180.png"
+ },
+ {
+  "id": "v6-181",
+  "article_id": "12124940",
+  "article_title": "Add a sketch to a Best Practice",
+  "module": "Best Practice",
+  "url_path": "/main/kaizen/dashboard/best-practice",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a sketch\"): 2. Scroll to the drag & drop box.",
+  "output_file": "documentation-readiness/screenshots/v7/12124940-181.png"
+ },
+ {
+  "id": "v6-182",
+  "article_id": "12124940",
+  "article_title": "Add a sketch to a Best Practice",
+  "module": "Best Practice",
+  "url_path": "/main/kaizen/dashboard/best-practice",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a sketch\"): 3. Click the relevant icon in the bottom-right corner of the box.",
+  "output_file": "documentation-readiness/screenshots/v7/12124940-182.png"
+ },
+ {
+  "id": "v6-183",
+  "article_id": "12124937",
+  "article_title": "Add a photo or a photo with a sketch to a Best Practice",
+  "module": "Best Practice",
+  "url_path": "/main/kaizen/dashboard/best-practice",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a photo or a photo with a sketch\"): 2. Scroll to the drag & drop box.",
+  "output_file": "documentation-readiness/screenshots/v7/12124937-183.png"
+ },
+ {
+  "id": "v6-184",
+  "article_id": "12124937",
+  "article_title": "Add a photo or a photo with a sketch to a Best Practice",
+  "module": "Best Practice",
+  "url_path": "/main/kaizen/dashboard/best-practice",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a photo or a photo with a sketch\"): 3. Click the relevant icon in the bottom-right corner of the box.",
+  "output_file": "documentation-readiness/screenshots/v7/12124937-184.png"
+ },
+ {
+  "id": "v6-185",
+  "article_id": "12124933",
+  "article_title": "Add a file to a Best Practice",
+  "module": "Best Practice",
+  "url_path": "/main/kaizen/dashboard/best-practice",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a file using the drag & drop box\"): 2. Scroll to the drag & drop box.",
+  "output_file": "documentation-readiness/screenshots/v7/12124933-185.png"
+ },
+ {
+  "id": "v6-186",
+  "article_id": "12124803",
+  "article_title": "About Skill Matrix navigation",
+  "module": "Skill Matrix",
+  "url_path": "/main/skill-matrix/teams",
+  "action_description": "Open the screen and capture the state right after this step (section \"Competency Update\"): Choose what to update by: Tools, Users, Kaizen Teams or Skill Matrix Teams.",
+  "output_file": "documentation-readiness/screenshots/v7/12124803-186.png"
+ },
+ {
+  "id": "v6-187",
+  "article_id": "12124803",
+  "article_title": "About Skill Matrix navigation",
+  "module": "Skill Matrix",
+  "url_path": "/main/skill-matrix/teams",
+  "action_description": "Open the screen and capture the state right after this step (section \"Competency Update\"): Pick from Select Tool and Select Users.",
+  "output_file": "documentation-readiness/screenshots/v7/12124803-187.png"
+ },
+ {
+  "id": "v6-188",
+  "article_id": "12124779",
+  "article_title": "View or export team data for a past date",
+  "module": "Skill Matrix",
+  "url_path": "/main/skill-matrix/teams",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 4. In the top-right corner, click the calendar icon in the Select Date box.",
+  "output_file": "documentation-readiness/screenshots/v7/12124779-188.png"
+ },
+ {
+  "id": "v6-189",
+  "article_id": "12124763",
+  "article_title": "View competency detail for a team member",
+  "module": "Skill Matrix",
+  "url_path": "/main/skill-matrix/teams",
+  "action_description": "Open the screen and capture the state right after this step (section \"Open a member's details\"): 4. Open a team member's details from either view.",
+  "output_file": "documentation-readiness/screenshots/v7/12124763-189.png"
+ },
+ {
+  "id": "v6-190",
+  "article_id": "12124734",
+  "article_title": "Export team overview results from Skill Matrix",
+  "module": "Skill Matrix",
+  "url_path": "/main/skill-matrix/teams",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 5. Go to the All Tools sub-section and click the PDF icon in the right corner.",
+  "output_file": "documentation-readiness/screenshots/v7/12124734-190.png"
+ },
+ {
+  "id": "v6-191",
+  "article_id": "12124693",
+  "article_title": "Export data from Skill Matrix reports",
+  "module": "Skill Matrix",
+  "url_path": "/main/skill-matrix/reports",
+  "action_description": "Open the screen and capture the state right after this step (section \"Export the data\"): 3. Select the sub-section you want to export from.",
+  "output_file": "documentation-readiness/screenshots/v7/12124693-191.png"
+ },
+ {
+  "id": "v6-192",
+  "article_id": "12124693",
+  "article_title": "Export data from Skill Matrix reports",
+  "module": "Skill Matrix",
+  "url_path": "/main/skill-matrix/reports",
+  "action_description": "Open the screen and capture the state right after this step (section \"Export the data\"): 4. Click the first Excel icon to export all users' competency data, or the second Excel icon to export the data of the selected sub-section.",
+  "output_file": "documentation-readiness/screenshots/v7/12124693-192.png"
+ },
+ {
+  "id": "v6-193",
+  "article_id": "12124680",
+  "article_title": "Edit a team in Skill Matrix",
+  "module": "Skill Matrix",
+  "url_path": "/main/skill-matrix/teams",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 4. In the right corner, under the Select Date box, click Edit Team. The Edit Team window opens.",
+  "output_file": "documentation-readiness/screenshots/v7/12124680-193.png"
+ },
+ {
+  "id": "v6-194",
+  "article_id": "12124643",
+  "article_title": "Clone a team in Skill Matrix",
+  "module": "Skill Matrix",
+  "url_path": "/main/skill-matrix/teams",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 4. Click the Clone icon next to the team name. The Create Team window opens, with the fields already filled in from the source team.",
+  "output_file": "documentation-readiness/screenshots/v7/12124643-194.png"
+ },
+ {
+  "id": "v6-195",
+  "article_id": "12123843",
+  "article_title": "About the Tool section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Use the Tool section\"): 4. Click the down arrow to view the options.",
+  "output_file": "documentation-readiness/screenshots/v7/12123843-195.png"
+ },
+ {
+  "id": "v6-196",
+  "article_id": "12123839",
+  "article_title": "About the Team section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add team members\"): 3. Click Add Member. The button is replaced by a search drop-down menu.",
+  "output_file": "documentation-readiness/screenshots/v7/12123839-196.png"
+ },
+ {
+  "id": "v6-197",
+  "article_id": "12123839",
+  "article_title": "About the Team section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add team members\"): 5. Click in the field and start typing the name of the user you want to add as the selected member type (in this example, Lead).",
+  "output_file": "documentation-readiness/screenshots/v7/12123839-197.png"
+ },
+ {
+  "id": "v6-198",
+  "article_id": "12123839",
+  "article_title": "About the Team section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Member type\"): Click the member type icon next to the delete (bin) icon. A small member type window opens.",
+  "output_file": "documentation-readiness/screenshots/v7/12123839-198.png"
+ },
+ {
+  "id": "v6-199",
+  "article_id": "12123839",
+  "article_title": "About the Team section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Member type\"): Click the type you want to change to.",
+  "output_file": "documentation-readiness/screenshots/v7/12123839-199.png"
+ },
+ {
+  "id": "v6-200",
+  "article_id": "12123837",
+  "article_title": "About the Target section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Use the Target section\"): 5. Click Save when you finish.",
+  "output_file": "documentation-readiness/screenshots/v7/12123837-200.png"
+ },
+ {
+  "id": "v6-201",
+  "article_id": "12123836",
+  "article_title": "About the Root Cause Analysis section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Use the Root Cause Analysis section\"): 4. Click Save. The Save button becomes active after you enter the information.",
+  "output_file": "documentation-readiness/screenshots/v7/12123836-201.png"
+ },
+ {
+  "id": "v6-202",
+  "article_id": "12123788",
+  "article_title": "About the MTTR section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Use the MTTR section\"): 4. Click Save when you finish.",
+  "output_file": "documentation-readiness/screenshots/v7/12123788-202.png"
+ },
+ {
+  "id": "v6-203",
+  "article_id": "12123787",
+  "article_title": "About the Failure Curve Analysis section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Use the Failure Curve Analysis section\"): 4. Click Save when you finish.",
+  "output_file": "documentation-readiness/screenshots/v7/12123787-203.png"
+ },
+ {
+  "id": "v6-204",
+  "article_id": "12123781",
+  "article_title": "About the Expansion section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Use the Expansion section\"): 5. Click Save.",
+  "output_file": "documentation-readiness/screenshots/v7/12123781-204.png"
+ },
+ {
+  "id": "v6-205",
+  "article_id": "12123781",
+  "article_title": "About the Expansion section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Edit or delete an expansion item (optional)\"): 2. Click the cross icon in the top-right corner when you finish.",
+  "output_file": "documentation-readiness/screenshots/v7/12123781-205.png"
+ },
+ {
+  "id": "v6-206",
+  "article_id": "12123778",
+  "article_title": "About the Description section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Use the Description section\"): 4. Click Save.",
+  "output_file": "documentation-readiness/screenshots/v7/12123778-206.png"
+ },
+ {
+  "id": "v6-207",
+  "article_id": "12123776",
+  "article_title": "About the Description of Repairs section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Use the Description of Repairs section\"): 6. To add another spare part, click the green + sign next to the number field.",
+  "output_file": "documentation-readiness/screenshots/v7/12123776-207.png"
+ },
+ {
+  "id": "v6-208",
+  "article_id": "12123776",
+  "article_title": "About the Description of Repairs section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Use the Description of Repairs section\"): 7. Click Save when you finish.",
+  "output_file": "documentation-readiness/screenshots/v7/12123776-208.png"
+ },
+ {
+  "id": "v6-209",
+  "article_id": "12123772",
+  "article_title": "About the Additional Details section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Use the Additional Details section\"): 4. Click Save.",
+  "output_file": "documentation-readiness/screenshots/v7/12123772-209.png"
+ },
+ {
+  "id": "v6-210",
+  "article_id": "12123755",
+  "article_title": "About the 5W1H section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Use the 5W1H section\"): 4. Click Save when you finish.",
+  "output_file": "documentation-readiness/screenshots/v7/12123755-210.png"
+ },
+ {
+  "id": "v6-211",
+  "article_id": "12123754",
+  "article_title": "About the 5G section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Use the 5G section\"): 4. Click Save when you finish.",
+  "output_file": "documentation-readiness/screenshots/v7/12123754-211.png"
+ },
+ {
+  "id": "v6-212",
+  "article_id": "12123749",
+  "article_title": "About the 5WHY section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Use the 5WHY section\"): 3. Click Add New to add a 5 Why item. When the section is added for the first time, it has no 5 Why items.",
+  "output_file": "documentation-readiness/screenshots/v7/12123749-212.png"
+ },
+ {
+  "id": "v6-213",
+  "article_id": "12123749",
+  "article_title": "About the 5WHY section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Use the 5WHY section\"): 5. Click Save when you finish.",
+  "output_file": "documentation-readiness/screenshots/v7/12123749-213.png"
+ },
+ {
+  "id": "v6-214",
+  "article_id": "12123746",
+  "article_title": "About the 4M1D section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Use the 4M1D section\"): Click Add Item. When the section is added for the first time, it has no items.",
+  "output_file": "documentation-readiness/screenshots/v7/12123746-214.png"
+ },
+ {
+  "id": "v6-215",
+  "article_id": "12123746",
+  "article_title": "About the 4M1D section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Create a 4M1D item (Stage 1)\"): In Category, choose Man, Machine, Material, Method or Design.",
+  "output_file": "documentation-readiness/screenshots/v7/12123746-215.png"
+ },
+ {
+  "id": "v6-216",
+  "article_id": "12123746",
+  "article_title": "About the 4M1D section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Create a 4M1D item (Stage 1)\"): When you have added all the causes for the category, click Save.",
+  "output_file": "documentation-readiness/screenshots/v7/12123746-216.png"
+ },
+ {
+  "id": "v6-217",
+  "article_id": "12123746",
+  "article_title": "About the 4M1D section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add an assignee and date (Stage 2)\"): Click the avatar icon in the top-left corner of the card. The Add Assignee window opens.",
+  "output_file": "documentation-readiness/screenshots/v7/12123746-217.png"
+ },
+ {
+  "id": "v6-218",
+  "article_id": "12123746",
+  "article_title": "About the 4M1D section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add an assignee and date (Stage 2)\"): Type the name of the assignee and select them from the results. The avatar is replaced by the user's picture or initials.",
+  "output_file": "documentation-readiness/screenshots/v7/12123746-218.png"
+ },
+ {
+  "id": "v6-219",
+  "article_id": "12123746",
+  "article_title": "About the 4M1D section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add an assignee and date (Stage 2)\"): Click the calendar icon next to the assignee icon. A calendar window opens.",
+  "output_file": "documentation-readiness/screenshots/v7/12123746-219.png"
+ },
+ {
+  "id": "v6-220",
+  "article_id": "12123746",
+  "article_title": "About the 4M1D section in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add an assignee and date (Stage 2)\"): Choose the date. It appears next to the assignee's avatar.",
+  "output_file": "documentation-readiness/screenshots/v7/12123746-220.png"
+ },
+ {
+  "id": "v6-221",
+  "article_id": "12123699",
+  "article_title": "Use the drag-and-drop box in a Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a file or document\"): Click and drag the file into the box.",
+  "output_file": "documentation-readiness/screenshots/v7/12123699-221.png"
+ },
+ {
+  "id": "v6-222",
+  "article_id": "12123674",
+  "article_title": "View the workflow attached to a Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 2. Click the Workflow icon next to the Attach button. It is in the same place in both views.",
+  "output_file": "documentation-readiness/screenshots/v7/12123674-222.png"
+ },
+ {
+  "id": "v6-223",
+  "article_id": "12123659",
+  "article_title": "Edit the due date of a Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Open the due date request\"): 1. Open the Kaizen in either the side window or the detail view.",
+  "output_file": "documentation-readiness/screenshots/v7/12123659-223.png"
+ },
+ {
+  "id": "v6-224",
+  "article_id": "12123659",
+  "article_title": "Edit the due date of a Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Open the due date request\"): 2. Scroll down to the Due Date field.",
+  "output_file": "documentation-readiness/screenshots/v7/12123659-224.png"
+ },
+ {
+  "id": "v6-225",
+  "article_id": "12123659",
+  "article_title": "Edit the due date of a Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Fill in the request\"): 4. Click the calendar icon on the right of the Revised Due Date field.",
+  "output_file": "documentation-readiness/screenshots/v7/12123659-225.png"
+ },
+ {
+  "id": "v6-226",
+  "article_id": "12123659",
+  "article_title": "Edit the due date of a Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Fill in the request\"): 8. Click Save to submit the request.",
+  "output_file": "documentation-readiness/screenshots/v7/12123659-226.png"
+ },
+ {
+  "id": "v6-227",
+  "article_id": "12123648",
+  "article_title": "Add a web URL to a Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a URL in the side window\"): Go to the URL Attach field. It is always shown and can't be collapsed.",
+  "output_file": "documentation-readiness/screenshots/v7/12123648-227.png"
+ },
+ {
+  "id": "v6-228",
+  "article_id": "12123648",
+  "article_title": "Add a web URL to a Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a URL in the detail view\"): Open the Kaizen in the detail view.",
+  "output_file": "documentation-readiness/screenshots/v7/12123648-228.png"
+ },
+ {
+  "id": "v6-229",
+  "article_id": "12123648",
+  "article_title": "Add a web URL to a Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a URL in the detail view\"): In the implementation field (top left), go to Add Link, directly above the drag & drop box.",
+  "output_file": "documentation-readiness/screenshots/v7/12123648-229.png"
+ },
+ {
+  "id": "v6-230",
+  "article_id": "12123647",
+  "article_title": "Add a sketch to a Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a sketch\"): Open the Kaizen you want to add a sketch to, in either the side window or the detail view.",
+  "output_file": "documentation-readiness/screenshots/v7/12123647-230.png"
+ },
+ {
+  "id": "v6-231",
+  "article_id": "12123647",
+  "article_title": "Add a sketch to a Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a sketch\"): Choose the Sketch option from the attachment options.",
+  "output_file": "documentation-readiness/screenshots/v7/12123647-231.png"
+ },
+ {
+  "id": "v6-232",
+  "article_id": "12123641",
+  "article_title": "Add a photo or a photo with a sketch to a Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a photo or a photo with a sketch\"): Open the Kaizen you want to add a photo to, in either the side window or the detail view.",
+  "output_file": "documentation-readiness/screenshots/v7/12123641-232.png"
+ },
+ {
+  "id": "v6-233",
+  "article_id": "12123641",
+  "article_title": "Add a photo or a photo with a sketch to a Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a photo or a photo with a sketch\"): Choose the Photo option from the attachment options.",
+  "output_file": "documentation-readiness/screenshots/v7/12123641-233.png"
+ },
+ {
+  "id": "v6-234",
+  "article_id": "12123569",
+  "article_title": "Add or remove sections from Kaizen phases",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Open the phase\"): 3. Click the phase you want to add a section to.",
+  "output_file": "documentation-readiness/screenshots/v7/12123569-234.png"
+ },
+ {
+  "id": "v6-235",
+  "article_id": "12123569",
+  "article_title": "Add or remove sections from Kaizen phases",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a section\"): 1. Choose the section you want to add to the selected phase.",
+  "output_file": "documentation-readiness/screenshots/v7/12123569-235.png"
+ },
+ {
+  "id": "v6-236",
+  "article_id": "12123555",
+  "article_title": "About Kaizen Settings",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/settings/settings",
+  "action_description": "Open the screen and capture the state right after this step (section \"Setting up Kaizen: the recommended order\"): Open Kaizen Settings from the gear menu.",
+  "output_file": "documentation-readiness/screenshots/v7/12123555-236.png"
+ },
+ {
+  "id": "v6-237",
+  "article_id": "12123555",
+  "article_title": "About Kaizen Settings",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/ewo",
+  "action_description": "Open the screen and capture the state right after this step (section \"Setting up Kaizen: the recommended order\"): Add a project type. Choose the module (Kaizen or EWO) and give it a name, for example Quick Win, JDI or DMAIC.",
+  "output_file": "documentation-readiness/screenshots/v7/12123555-237.png"
+ },
+ {
+  "id": "v6-238",
+  "article_id": "12123555",
+  "article_title": "About Kaizen Settings",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/settings/settings",
+  "action_description": "Open the screen and capture the state right after this step (section \"Setting up Kaizen: the recommended order\"): Add a template for each phase. Choose the sections that open automatically in that phase, such as Problem Description, 5W1H, 5 Whys or Action Plan, then save and apply.",
+  "output_file": "documentation-readiness/screenshots/v7/12123555-238.png"
+ },
+ {
+  "id": "v6-239",
+  "article_id": "12123544",
+  "article_title": "Export the Kaizen Dashboard to a .csv file",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 3. Choose where to save the file on your computer.",
+  "output_file": "documentation-readiness/screenshots/v7/12123544-239.png"
+ },
+ {
+  "id": "v6-240",
+  "article_id": "12123544",
+  "article_title": "Export the Kaizen Dashboard to a .csv file",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 5. Click Save.",
+  "output_file": "documentation-readiness/screenshots/v7/12123544-240.png"
+ },
+ {
+  "id": "v6-241",
+  "article_id": "12123528",
+  "article_title": "Edit a revised due date reason in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 4. Click Delete to remove the reason, or Edit to rename it.",
+  "output_file": "documentation-readiness/screenshots/v7/12123528-241.png"
+ },
+ {
+  "id": "v6-242",
+  "article_id": "12123528",
+  "article_title": "Edit a revised due date reason in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 6. Click Update at the bottom right.",
+  "output_file": "documentation-readiness/screenshots/v7/12123528-242.png"
+ },
+ {
+  "id": "v6-243",
+  "article_id": "12123512",
+  "article_title": "Edit a tool or skill in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 3. Click Edit to change the tool, or Delete to remove it.",
+  "output_file": "documentation-readiness/screenshots/v7/12123512-243.png"
+ },
+ {
+  "id": "v6-244",
+  "article_id": "12123509",
+  "article_title": "Edit a tool or skill connected to a loss type in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 1. Go to the List of Tools attached to the loss type.",
+  "output_file": "documentation-readiness/screenshots/v7/12123509-244.png"
+ },
+ {
+  "id": "v6-245",
+  "article_id": "12123509",
+  "article_title": "Edit a tool or skill connected to a loss type in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 3. Click Edit.",
+  "output_file": "documentation-readiness/screenshots/v7/12123509-245.png"
+ },
+ {
+  "id": "v6-246",
+  "article_id": "12123509",
+  "article_title": "Edit a tool or skill connected to a loss type in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 5. Click Save at the bottom.",
+  "output_file": "documentation-readiness/screenshots/v7/12123509-246.png"
+ },
+ {
+  "id": "v6-247",
+  "article_id": "12123503",
+  "article_title": "Distribute savings by default in a Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 4. Click Submit once you have entered the values you want.",
+  "output_file": "documentation-readiness/screenshots/v7/12123503-247.png"
+ },
+ {
+  "id": "v6-248",
+  "article_id": "12123496",
+  "article_title": "Add a revised due date reason in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 4. Click Submit at the bottom right of the window.",
+  "output_file": "documentation-readiness/screenshots/v7/12123496-248.png"
+ },
+ {
+  "id": "v6-249",
+  "article_id": "12123490",
+  "article_title": "Add default tools or skills to a loss type in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 4. Click the tool you want to add. Scroll down if needed.",
+  "output_file": "documentation-readiness/screenshots/v7/12123490-249.png"
+ },
+ {
+  "id": "v6-250",
+  "article_id": "12123487",
+  "article_title": "Add and track tools or skills in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Fill in the tool details\"): 9. Click Submit.",
+  "output_file": "documentation-readiness/screenshots/v7/12123487-250.png"
+ },
+ {
+  "id": "v6-251",
+  "article_id": "12123483",
+  "article_title": "Add a loss type in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Fill in the loss type details\"): 9. Click Submit.",
+  "output_file": "documentation-readiness/screenshots/v7/12123483-251.png"
+ },
+ {
+  "id": "v6-252",
+  "article_id": "12123479",
+  "article_title": "Add a loss category in Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/settings/settings",
+  "action_description": "Open the screen and capture the state right after this step (section \"Open the Add Loss Type window\"): 2. Click the Add Loss button at the top right of the Loss Management dashboard.",
+  "output_file": "documentation-readiness/screenshots/v7/12123479-252.png"
+ },
+ {
+  "id": "v6-253",
+  "article_id": "12123462",
+  "article_title": "Add a Kaizen methodology",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add the methodology\"): 4. Click Create on the right of the box.",
+  "output_file": "documentation-readiness/screenshots/v7/12123462-253.png"
+ },
+ {
+  "id": "v6-254",
+  "article_id": "12123462",
+  "article_title": "Add a Kaizen methodology",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add the phases\"): 7. Click Save at the bottom right.",
+  "output_file": "documentation-readiness/screenshots/v7/12123462-254.png"
+ },
+ {
+  "id": "v6-255",
+  "article_id": "12123192",
+  "article_title": "Submit a suggestion to a campaign",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 1. Open the Suggestion Campaign dashboard by clicking Campaigns in the parent menu on the home page.",
+  "output_file": "documentation-readiness/screenshots/v7/12123192-255.png"
+ },
+ {
+  "id": "v6-256",
+  "article_id": "12123191",
+  "article_title": "View Suggestion Campaign details and submitted suggestions",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 2. Open the Suggestion Campaign dashboard by clicking Campaigns in the parent menu on the home page. The dashboard shows each campaign as a campaign card.",
+  "output_file": "documentation-readiness/screenshots/v7/12123191-256.png"
+ },
+ {
+  "id": "v6-257",
+  "article_id": "12123191",
+  "article_title": "View Suggestion Campaign details and submitted suggestions",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 3. Click anywhere on the campaign card to open the campaign detail view.",
+  "output_file": "documentation-readiness/screenshots/v7/12123191-257.png"
+ },
+ {
+  "id": "v6-258",
+  "article_id": "12123188",
+  "article_title": "Edit Suggestion Campaign details",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 2. Open the Suggestion Campaign dashboard by clicking Campaigns in the parent menu on the home page.",
+  "output_file": "documentation-readiness/screenshots/v7/12123188-258.png"
+ },
+ {
+  "id": "v6-259",
+  "article_id": "12123188",
+  "article_title": "Edit Suggestion Campaign details",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 3. Find the campaign card you want to change and click the three dots in its top right corner.",
+  "output_file": "documentation-readiness/screenshots/v7/12123188-259.png"
+ },
+ {
+  "id": "v6-260",
+  "article_id": "12123188",
+  "article_title": "Edit Suggestion Campaign details",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 6. Click Update Campaign at the bottom.",
+  "output_file": "documentation-readiness/screenshots/v7/12123188-260.png"
+ },
+ {
+  "id": "v6-261",
+  "article_id": "12123187",
+  "article_title": "Create a Suggestion Campaign",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 2. Open the Suggestion Campaign dashboard by clicking Campaigns in the parent menu on the home page.",
+  "output_file": "documentation-readiness/screenshots/v7/12123187-261.png"
+ },
+ {
+  "id": "v6-262",
+  "article_id": "12123157",
+  "article_title": "Open a suggestion after creation",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 1. Go to the Suggestion dashboard.",
+  "output_file": "documentation-readiness/screenshots/v7/12123157-262.png"
+ },
+ {
+  "id": "v6-263",
+  "article_id": "12123157",
+  "article_title": "Open a suggestion after creation",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 2. Choose how to open the suggestion. You can use the side window or the detail view.",
+  "output_file": "documentation-readiness/screenshots/v7/12123157-263.png"
+ },
+ {
+  "id": "v6-264",
+  "article_id": "12123147",
+  "article_title": "Attach a sketch to a suggestion",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): Open the suggestion in the detail view.",
+  "output_file": "documentation-readiness/screenshots/v7/12123147-264.png"
+ },
+ {
+  "id": "v6-265",
+  "article_id": "12123147",
+  "article_title": "Attach a sketch to a suggestion",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): Click the Attach button at the top and select Sketch from the drop-down list.",
+  "output_file": "documentation-readiness/screenshots/v7/12123147-265.png"
+ },
+ {
+  "id": "v6-266",
+  "article_id": "12123146",
+  "article_title": "Attach a photo or a photo with a sketch to a suggestion",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): Open the suggestion in the detail view.",
+  "output_file": "documentation-readiness/screenshots/v7/12123146-266.png"
+ },
+ {
+  "id": "v6-267",
+  "article_id": "12123146",
+  "article_title": "Attach a photo or a photo with a sketch to a suggestion",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): Click the Attach button at the top and select Photo from the drop-down list.",
+  "output_file": "documentation-readiness/screenshots/v7/12123146-267.png"
+ },
+ {
+  "id": "v6-268",
+  "article_id": "12123146",
+  "article_title": "Attach a photo or a photo with a sketch to a suggestion",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): Choose a photo from your device, or take one with your device camera.",
+  "output_file": "documentation-readiness/screenshots/v7/12123146-268.png"
+ },
+ {
+  "id": "v6-269",
+  "article_id": "12123143",
+  "article_title": "Attach a file to a suggestion",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 1. Click the suggestion to open it in the side window.",
+  "output_file": "documentation-readiness/screenshots/v7/12123143-269.png"
+ },
+ {
+  "id": "v6-270",
+  "article_id": "12123143",
+  "article_title": "Attach a file to a suggestion",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 3. Click anywhere inside the box, or drag and drop a file into it. The file appears in a list below the box.",
+  "output_file": "documentation-readiness/screenshots/v7/12123143-270.png"
+ },
+ {
+  "id": "v6-271",
+  "article_id": "12123143",
+  "article_title": "Attach a file to a suggestion",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 1. Open the suggestion in the detail view.",
+  "output_file": "documentation-readiness/screenshots/v7/12123143-271.png"
+ },
+ {
+  "id": "v6-272",
+  "article_id": "17183492",
+  "article_title": "Create a custom Kaizen section in Lean Creator",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Build the section\"): Go to Lean Creator and create a new template, either yourself or with AI.",
+  "output_file": "documentation-readiness/screenshots/v7/17183492-272.png"
+ },
+ {
+  "id": "v6-273",
+  "article_id": "17183492",
+  "article_title": "Create a custom Kaizen section in Lean Creator",
+  "module": "Lean Creator",
+  "url_path": "/main/lean-creator/templates",
+  "action_description": "Open the screen and capture the state right after this step (section \"Build the section\"): Choose the pillar.",
+  "output_file": "documentation-readiness/screenshots/v7/17183492-273.png"
+ },
+ {
+  "id": "v6-274",
+  "article_id": "12124950",
+  "article_title": "Choose how to attach information to a Best Practice",
+  "module": "Best Practice",
+  "url_path": "/main/kaizen/dashboard/best-practice",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 2. Choose one of the four ways to add information:",
+  "output_file": "documentation-readiness/screenshots/v7/12124950-274.png"
+ },
+ {
+  "id": "v6-275",
+  "article_id": "12123150",
+  "article_title": "Choose how to attach information to a suggestion",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): Choose how to add the information. There are 3 ways:",
+  "output_file": "documentation-readiness/screenshots/v7/12123150-275.png"
+ },
+ {
+  "id": "v6-276",
+  "article_id": "12125060",
+  "article_title": "Choose how to attach information to an F-Tag",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 2. Choose one of the three ways to add information:",
+  "output_file": "documentation-readiness/screenshots/v7/12125060-276.png"
+ },
+ {
+  "id": "v6-277",
+  "article_id": "17183569",
+  "article_title": "Use QR codes and print F-Tags",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Raise a tag with a location QR code\"): Add a photo, choose the tag type, describe the problem and submit.",
+  "output_file": "documentation-readiness/screenshots/v7/17183569-277.png"
+ },
+ {
+  "id": "v6-278",
+  "article_id": "12123658",
+  "article_title": "Choose how to attach information to a Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): Choose one of the 4 ways to add information, and follow the linked article.",
+  "output_file": "documentation-readiness/screenshots/v7/12123658-278.png"
+ },
+ {
+  "id": "v6-279",
+  "article_id": "17183184",
+  "article_title": "Build a workflow for Kaizen, EWO or F-Tag",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/workflow/dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"1. Create the workflow\"): Open the module menu (the grid icon next to the LeanSuite logo) and go to Workflow → Add New.",
+  "output_file": "documentation-readiness/screenshots/v7/17183184-279.png"
+ },
+ {
+  "id": "v6-280",
+  "article_id": "17183184",
+  "article_title": "Build a workflow for Kaizen, EWO or F-Tag",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/workflow/dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"1. Create the workflow\"): Choose the module (for example Kaizen, EWO, Tag, Best Practice or KPI) and the project type it applies to.",
+  "output_file": "documentation-readiness/screenshots/v7/17183184-280.png"
+ },
+ {
+  "id": "v6-281",
+  "article_id": "17183184",
+  "article_title": "Build a workflow for Kaizen, EWO or F-Tag",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/workflow/dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"1. Create the workflow\"): Click Submit.",
+  "output_file": "documentation-readiness/screenshots/v7/17183184-281.png"
+ },
+ {
+  "id": "v6-282",
+  "article_id": "17183184",
+  "article_title": "Build a workflow for Kaizen, EWO or F-Tag",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/workflow/dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"3. Connect statuses with transitions\"): Click Transition.",
+  "output_file": "documentation-readiness/screenshots/v7/17183184-282.png"
+ },
+ {
+  "id": "v6-283",
+  "article_id": "17183184",
+  "article_title": "Build a workflow for Kaizen, EWO or F-Tag",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/workflow/dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"3. Connect statuses with transitions\"): Choose the From and To statuses.",
+  "output_file": "documentation-readiness/screenshots/v7/17183184-283.png"
+ },
+ {
+  "id": "v6-284",
+  "article_id": "12123867",
+  "article_title": "Export data from the Loss Trees dashboard",
+  "module": "Cost Management",
+  "url_path": "/main/cost-management/loss-trees",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 4. Click the Excel icon next to the Add New button in the top-right corner of the window.",
+  "output_file": "documentation-readiness/screenshots/v7/12123867-284.png"
+ },
+ {
+  "id": "v6-285",
+  "article_id": "12123871",
+  "article_title": "Export results from the Cost Management dashboard",
+  "module": "Cost Management",
+  "url_path": "/main/cost-management/dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 4. Go to Section 3, where the filtered results are displayed.",
+  "output_file": "documentation-readiness/screenshots/v7/12123871-285.png"
+ },
+ {
+  "id": "v6-286",
+  "article_id": "12123871",
+  "article_title": "Export results from the Cost Management dashboard",
+  "module": "Cost Management",
+  "url_path": "/main/cost-management/dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 5. Select the tab you want to export: Hard Savings Projects or All Saving Projects.",
+  "output_file": "documentation-readiness/screenshots/v7/12123871-286.png"
+ },
+ {
+  "id": "v6-287",
+  "article_id": "12123862",
+  "article_title": "Delete a Loss Tree",
+  "module": "Cost Management",
+  "url_path": "/main/cost-management/loss-trees",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 4. Select Delete to remove the Loss Tree from the database.",
+  "output_file": "documentation-readiness/screenshots/v7/12123862-287.png"
+ },
+ {
+  "id": "v6-288",
+  "article_id": "12123862",
+  "article_title": "Delete a Loss Tree",
+  "module": "Cost Management",
+  "url_path": "/main/cost-management/loss-trees",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 5. A browser pop-up asks you to confirm. Click OK to proceed.",
+  "output_file": "documentation-readiness/screenshots/v7/12123862-288.png"
+ },
+ {
+  "id": "v6-289",
+  "article_id": "12123864",
+  "article_title": "Export data from a Loss Tree",
+  "module": "Cost Management",
+  "url_path": "/main/cost-management/loss-trees",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 5. The option expands to Export Loss Tree Detail. Click it.",
+  "output_file": "documentation-readiness/screenshots/v7/12123864-289.png"
+ },
+ {
+  "id": "v6-290",
+  "article_id": "12123848",
+  "article_title": "Add a Loss Tree",
+  "module": "Cost Management",
+  "url_path": "/main/cost-management/loss-trees",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 3. In the top-right corner, click Add New. The Add Loss Tree window opens.",
+  "output_file": "documentation-readiness/screenshots/v7/12123848-290.png"
+ },
+ {
+  "id": "v6-291",
+  "article_id": "17183951",
+  "article_title": "Set savings targets and track imports in Cost Management",
+  "module": "Cost Management",
+  "url_path": "/main/cost-management/import-history",
+  "action_description": "Open the screen and capture the state right after this step (section \"Set savings targets\"): 2. Open Savings Target. The page lists each target with the columns Year, Savings Target ($), Departments and Action (the ⋯ menu).",
+  "output_file": "documentation-readiness/screenshots/v7/17183951-291.png"
+ },
+ {
+  "id": "v6-292",
+  "article_id": "12123895",
+  "article_title": "Import data into Cost Management",
+  "module": "Cost Management",
+  "url_path": "/main/cost-management/import-history",
+  "action_description": "Open the screen and capture the state right after this step (section \"Stage 1: Upload File\"): 3. Select the defect type. The two options are above the Drag & Drop box:",
+  "output_file": "documentation-readiness/screenshots/v7/12123895-292.png"
+ },
+ {
+  "id": "v6-293",
+  "article_id": "12123895",
+  "article_title": "Import data into Cost Management",
+  "module": "Cost Management",
+  "url_path": "/main/cost-management/import-history",
+  "action_description": "Open the screen and capture the state right after this step (section \"Stage 1: Upload File\"): 5. Click Next to go to Stage 2.",
+  "output_file": "documentation-readiness/screenshots/v7/12123895-293.png"
+ },
+ {
+  "id": "v6-294",
+  "article_id": "12123895",
+  "article_title": "Import data into Cost Management",
+  "module": "Cost Management",
+  "url_path": "/main/cost-management/import-history",
+  "action_description": "Open the screen and capture the state right after this step (section \"Stage 2: Field Mapping\"): 6. For each column in your file, select the matching Cost Management field. For example, map your \"Cost\" column to the Cost field.",
+  "output_file": "documentation-readiness/screenshots/v7/12123895-294.png"
+ },
+ {
+  "id": "v6-295",
+  "article_id": "17183623",
+  "article_title": "Run an in-class training session",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/instructor-panel",
+  "action_description": "Open the screen and capture the state right after this step (section \"Set up the session\"): In the Instructor Panel, create or open a course and choose In-class.",
+  "output_file": "documentation-readiness/screenshots/v7/17183623-295.png"
+ },
+ {
+  "id": "v6-296",
+  "article_id": "17183623",
+  "article_title": "Run an in-class training session",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Set up the session\"): Click Save.",
+  "output_file": "documentation-readiness/screenshots/v7/17183623-296.png"
+ },
+ {
+  "id": "v6-297",
+  "article_id": "12125126",
+  "article_title": "View and add instructors",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/instructor-panel",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add an instructor\"): 5. In Select Instructor, choose the person. This drop-down lists every member of your workspace; start typing a name to filter it.",
+  "output_file": "documentation-readiness/screenshots/v7/12125126-297.png"
+ },
+ {
+  "id": "v6-298",
+  "article_id": "17183625",
+  "article_title": "Assign courses to roles and share them across facilities",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/instructor-panel",
+  "action_description": "Open the screen and capture the state right after this step (section \"Share with other facilities\"): In the Instructor Panel, open the course.",
+  "output_file": "documentation-readiness/screenshots/v7/17183625-298.png"
+ },
+ {
+  "id": "v6-299",
+  "article_id": "17183625",
+  "article_title": "Assign courses to roles and share them across facilities",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Share with other facilities\"): Open Course Share and choose the facilities to share with.",
+  "output_file": "documentation-readiness/screenshots/v7/17183625-299.png"
+ },
+ {
+  "id": "v6-300",
+  "article_id": "12125123",
+  "article_title": "View course details",
+  "module": "LMS",
+  "url_path": "/main/people-development/lms/dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 3. Click the course you want to open. You can open a course from both the Table and Grid views:",
+  "output_file": "documentation-readiness/screenshots/v7/12125123-300.png"
+ },
+ {
+  "id": "v6-301",
+  "article_id": "12124842",
+  "article_title": "Export data from the Best Practice dashboard",
+  "module": "Best Practice",
+  "url_path": "/main/kaizen/dashboard/best-practice",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 4. Click Save.",
+  "output_file": "documentation-readiness/screenshots/v7/12124842-301.png"
+ },
+ {
+  "id": "v6-302",
+  "article_id": "12124851",
+  "article_title": "Search the Best Practice dashboard",
+  "module": "Best Practice",
+  "url_path": "/main/kaizen/dashboard/best-practice",
+  "action_description": "Open the screen and capture the state right after this step (section \"Search using filters\"): 1. Select one of the filters next to the search bar.",
+  "output_file": "documentation-readiness/screenshots/v7/12124851-302.png"
+ },
+ {
+  "id": "v6-303",
+  "article_id": "12124851",
+  "article_title": "Search the Best Practice dashboard",
+  "module": "Best Practice",
+  "url_path": "/main/kaizen/dashboard/best-practice",
+  "action_description": "Open the screen and capture the state right after this step (section \"Search using filters\"): 2. Choose an option from the drop-down menu.",
+  "output_file": "documentation-readiness/screenshots/v7/12124851-303.png"
+ },
+ {
+  "id": "v6-304",
+  "article_id": "17183632",
+  "article_title": "Track adoption of a shared Best Practice",
+  "module": "Best Practice",
+  "url_path": "/main/kaizen/bp-report",
+  "action_description": "Open /main/kaizen/bp-report, wait for the table/charts to finish loading, capture: Best Practice Report with the Count By Adoption Status By Facility chart loaded",
+  "output_file": "documentation-readiness/screenshots/v7/17183632-304.png"
+ },
+ {
+  "id": "v6-305",
+  "article_id": "12124957",
+  "article_title": "Export data from a Best Practice",
+  "module": "Best Practice",
+  "url_path": "/main/kaizen/dashboard/best-practice",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 4. Click Save.",
+  "output_file": "documentation-readiness/screenshots/v7/12124957-305.png"
+ },
+ {
+  "id": "v6-306",
+  "article_id": "12124952",
+  "article_title": "Edit the due date of a Best Practice",
+  "module": "Best Practice",
+  "url_path": "/main/kaizen/dashboard/best-practice",
+  "action_description": "Open the screen and capture the state right after this step (section \"Open the request window\"): 1. Open the Best Practice you want to edit, in either the side window or the detail view.",
+  "output_file": "documentation-readiness/screenshots/v7/12124952-306.png"
+ },
+ {
+  "id": "v6-307",
+  "article_id": "12124952",
+  "article_title": "Edit the due date of a Best Practice",
+  "module": "Best Practice",
+  "url_path": "/main/kaizen/dashboard/best-practice",
+  "action_description": "Open the screen and capture the state right after this step (section \"Fill in the request\"): 4. Click Save.",
+  "output_file": "documentation-readiness/screenshots/v7/12124952-307.png"
+ },
+ {
+  "id": "v6-308",
+  "article_id": "12124929",
+  "article_title": "Add and remove sections in Best Practice phases",
+  "module": "Best Practice",
+  "url_path": "/main/kaizen/dashboard/best-practice",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add a section\"): 1. Choose the section you want to add to the selected phase.",
+  "output_file": "documentation-readiness/screenshots/v7/12124929-308.png"
+ },
+ {
+  "id": "v6-309",
+  "article_id": "12124960",
+  "article_title": "Open an existing Best Practice",
+  "module": "Best Practice",
+  "url_path": "/main/kaizen/dashboard/best-practice",
+  "action_description": "Open the screen and capture the state right after this step (section \"Open the detail view\"): 1. Open the side window as described above.",
+  "output_file": "documentation-readiness/screenshots/v7/12124960-309.png"
+ },
+ {
+  "id": "v6-310",
+  "article_id": "12124964",
+  "article_title": "About the Best Practice process after creation",
+  "module": "Best Practice",
+  "url_path": "/main/kaizen/dashboard/best-practice",
+  "action_description": "Open /main/kaizen/dashboard/best-practice, wait for the table/charts to finish loading, capture: A Best Practice open in the detail view (toolbar, phases, sections, details panel)",
+  "output_file": "documentation-readiness/screenshots/v7/12124964-310.png"
+ },
+ {
+  "id": "v6-311",
+  "article_id": "12123124",
+  "article_title": "Export suggestions from the Suggestion dashboard",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 4. Click Save.",
+  "output_file": "documentation-readiness/screenshots/v7/12123124-311.png"
+ },
+ {
+  "id": "v6-312",
+  "article_id": "12123121",
+  "article_title": "Search the Suggestion dashboard",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Search using filters\"): Click the Filter button next to the search box. A side window opens with fields to choose from.",
+  "output_file": "documentation-readiness/screenshots/v7/12123121-312.png"
+ },
+ {
+  "id": "v6-313",
+  "article_id": "12123121",
+  "article_title": "Search the Suggestion dashboard",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Search using filters\"): Scroll through the window and set the fields relevant to your search.",
+  "output_file": "documentation-readiness/screenshots/v7/12123121-313.png"
+ },
+ {
+  "id": "v6-314",
+  "article_id": "12123121",
+  "article_title": "Search the Suggestion dashboard",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Group suggestions with Group By\"): 1. Click Group By. A side window similar to the filter window opens.",
+  "output_file": "documentation-readiness/screenshots/v7/12123121-314.png"
+ },
+ {
+  "id": "v6-315",
+  "article_id": "12123131",
+  "article_title": "Add a comment to a suggestion",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 1. Open the suggestion in the side window or the detail view.",
+  "output_file": "documentation-readiness/screenshots/v7/12123131-315.png"
+ },
+ {
+  "id": "v6-316",
+  "article_id": "12123131",
+  "article_title": "Add a comment to a suggestion",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 3. In the Show options, choose Comment to display the comment area.",
+  "output_file": "documentation-readiness/screenshots/v7/12123131-316.png"
+ },
+ {
+  "id": "v6-317",
+  "article_id": "12123164",
+  "article_title": "Revert a suggestion to its initial state",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 1. Open the suggestion you want to revert.",
+  "output_file": "documentation-readiness/screenshots/v7/12123164-317.png"
+ },
+ {
+  "id": "v6-318",
+  "article_id": "12123164",
+  "article_title": "Revert a suggestion to its initial state",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 4. Choose Pending Feedback to return the suggestion to its initial state.",
+  "output_file": "documentation-readiness/screenshots/v7/12123164-318.png"
+ },
+ {
+  "id": "v6-319",
+  "article_id": "12123154",
+  "article_title": "Initiate a Kaizen from a suggestion",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 1. Open the approved suggestion you want to turn into a Kaizen. You can use the side window or the detail view. These steps use the detail view.",
+  "output_file": "documentation-readiness/screenshots/v7/12123154-319.png"
+ },
+ {
+  "id": "v6-320",
+  "article_id": "12123154",
+  "article_title": "Initiate a Kaizen from a suggestion",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 4. Click Create in the top right corner.",
+  "output_file": "documentation-readiness/screenshots/v7/12123154-320.png"
+ },
+ {
+  "id": "v6-321",
+  "article_id": "12123160",
+  "article_title": "Move a suggestion forward after approval",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 1. Open the approved suggestion.",
+  "output_file": "documentation-readiness/screenshots/v7/12123160-321.png"
+ },
+ {
+  "id": "v6-322",
+  "article_id": "12123160",
+  "article_title": "Move a suggestion forward after approval",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 3. Choose the option that fits:",
+  "output_file": "documentation-readiness/screenshots/v7/12123160-322.png"
+ },
+ {
+  "id": "v6-323",
+  "article_id": "12123137",
+  "article_title": "Approve a suggestion",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 1. Open the suggestion you want to approve. You can open it in the side window or the detail view.",
+  "output_file": "documentation-readiness/screenshots/v7/12123137-323.png"
+ },
+ {
+  "id": "v6-324",
+  "article_id": "12123137",
+  "article_title": "Approve a suggestion",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 3. Choose an option. A window opens based on your choice. Follow the steps for the option you chose.",
+  "output_file": "documentation-readiness/screenshots/v7/12123137-324.png"
+ },
+ {
+  "id": "v6-325",
+  "article_id": "12123133",
+  "article_title": "Add an approver or implementor to a suggestion",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 1. Open the suggestion you want to add an approver or implementor to.",
+  "output_file": "documentation-readiness/screenshots/v7/12123133-325.png"
+ },
+ {
+  "id": "v6-326",
+  "article_id": "12123133",
+  "article_title": "Add an approver or implementor to a suggestion",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 4. Enter the name of the user you want to add and select them from the list.",
+  "output_file": "documentation-readiness/screenshots/v7/12123133-326.png"
+ },
+ {
+  "id": "v6-327",
+  "article_id": "12123133",
+  "article_title": "Add an approver or implementor to a suggestion",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 5. Click the green tick on the right to save.",
+  "output_file": "documentation-readiness/screenshots/v7/12123133-327.png"
+ },
+ {
+  "id": "v6-328",
+  "article_id": "12123133",
+  "article_title": "Add an approver or implementor to a suggestion",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 4. Enter the name of the user you want to add and select them from the list.",
+  "output_file": "documentation-readiness/screenshots/v7/12123133-328.png"
+ },
+ {
+  "id": "v6-329",
+  "article_id": "12123133",
+  "article_title": "Add an approver or implementor to a suggestion",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 5. Click the green tick on the right to save.",
+  "output_file": "documentation-readiness/screenshots/v7/12123133-329.png"
+ },
+ {
+  "id": "v6-330",
+  "article_id": "12123017",
+  "article_title": "Add or edit fields while creating a suggestion",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 3. Click Apply in the bottom right corner to apply your choices to the Create Suggestion window.",
+  "output_file": "documentation-readiness/screenshots/v7/12123017-330.png"
+ },
+ {
+  "id": "v6-331",
+  "article_id": "12123066",
+  "article_title": "Set suggestion points in Suggestion Settings",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion-settings/im-preference",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 1. Open the Suggestion module by clicking Suggestion on the home page.",
+  "output_file": "documentation-readiness/screenshots/v7/12123066-331.png"
+ },
+ {
+  "id": "v6-332",
+  "article_id": "12123066",
+  "article_title": "Set suggestion points in Suggestion Settings",
+  "module": "Suggestion",
+  "url_path": "/main/suggestion-settings/im-preference",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 5. Click Save & Apply in the bottom right corner.",
+  "output_file": "documentation-readiness/screenshots/v7/12123066-332.png"
+ },
+ {
+  "id": "v6-333",
+  "article_id": "12125042",
+  "article_title": "Export data from the F-Tag dashboard",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 1. Go to the F-Tag Dashboard and filter the list by your preferred criteria. Only the F-Tags that match your search are exported.",
+  "output_file": "documentation-readiness/screenshots/v7/12125042-333.png"
+ },
+ {
+  "id": "v6-334",
+  "article_id": "12125042",
+  "article_title": "Export data from the F-Tag dashboard",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 4. Click Save.",
+  "output_file": "documentation-readiness/screenshots/v7/12125042-334.png"
+ },
+ {
+  "id": "v6-335",
+  "article_id": "12125053",
+  "article_title": "Add a comment to an F-Tag",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 1. Open the F-Tag you want to comment on, in the side window or the detail view.",
+  "output_file": "documentation-readiness/screenshots/v7/12125053-335.png"
+ },
+ {
+  "id": "v6-336",
+  "article_id": "12125068",
+  "article_title": "Open an F-Tag after creation",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 1. Go to the F-Tag Dashboard.",
+  "output_file": "documentation-readiness/screenshots/v7/12125068-336.png"
+ },
+ {
+  "id": "v6-337",
+  "article_id": "12125068",
+  "article_title": "Open an F-Tag after creation",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 2. Choose how to open the F-Tag:",
+  "output_file": "documentation-readiness/screenshots/v7/12125068-337.png"
+ },
+ {
+  "id": "v6-338",
+  "article_id": "12125040",
+  "article_title": "Edit user re-assignments in F-Tag",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-settings",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 5. Click Save.",
+  "output_file": "documentation-readiness/screenshots/v7/12125040-338.png"
+ },
+ {
+  "id": "v6-339",
+  "article_id": "12125007",
+  "article_title": "Edit a default due date in F-Tag",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-settings",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 3. Go to the top-right corner above the Default Due Date list.",
+  "output_file": "documentation-readiness/screenshots/v7/12125007-339.png"
+ },
+ {
+  "id": "v6-340",
+  "article_id": "12125007",
+  "article_title": "Edit a default due date in F-Tag",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-settings",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 4. Click the arrow and select Default Due Date View. The Default Due Date window opens.",
+  "output_file": "documentation-readiness/screenshots/v7/12125007-340.png"
+ },
+ {
+  "id": "v6-341",
+  "article_id": "12125007",
+  "article_title": "Edit a default due date in F-Tag",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-settings",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 7. Update the information and click Save.",
+  "output_file": "documentation-readiness/screenshots/v7/12125007-341.png"
+ },
+ {
+  "id": "v6-342",
+  "article_id": "12124999",
+  "article_title": "Create a default due date in F-Tag",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-settings",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 5. Click Create New. The Create Default Due Dates window opens.",
+  "output_file": "documentation-readiness/screenshots/v7/12124999-342.png"
+ },
+ {
+  "id": "v6-343",
+  "article_id": "12124999",
+  "article_title": "Create a default due date in F-Tag",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-settings",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 7. Click Save in the bottom-right corner.",
+  "output_file": "documentation-readiness/screenshots/v7/12124999-343.png"
+ },
+ {
+  "id": "v6-344",
+  "article_id": "12125037",
+  "article_title": "About default due dates in F-Tag",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-settings",
+  "action_description": "Open /main/tag/tag-settings, wait for the table/charts to finish loading, capture: Tag Settings on the Default Due Date tab with its list",
+  "output_file": "documentation-readiness/screenshots/v7/12125037-344.png"
+ },
+ {
+  "id": "v6-345",
+  "article_id": "12125006",
+  "article_title": "Edit a default assignee in F-Tag",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-settings",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 2. On the home page, click F-Tag to open the F-Tag Dashboard.",
+  "output_file": "documentation-readiness/screenshots/v7/12125006-345.png"
+ },
+ {
+  "id": "v6-346",
+  "article_id": "12125006",
+  "article_title": "Edit a default assignee in F-Tag",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-settings",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 6. Update the information and click Save.",
+  "output_file": "documentation-readiness/screenshots/v7/12125006-346.png"
+ },
+ {
+  "id": "v6-347",
+  "article_id": "12125024",
+  "article_title": "Create a default assignee in F-Tag",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-settings",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 2. On the home page, click F-Tag to open the F-Tag Dashboard.",
+  "output_file": "documentation-readiness/screenshots/v7/12125024-347.png"
+ },
+ {
+  "id": "v6-348",
+  "article_id": "12125018",
+  "article_title": "Edit or delete an issue or sub-issue in F-Tag",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-settings",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 4. Choose the pillar whose issue you want to edit.",
+  "output_file": "documentation-readiness/screenshots/v7/12125018-348.png"
+ },
+ {
+  "id": "v6-349",
+  "article_id": "12125018",
+  "article_title": "Edit or delete an issue or sub-issue in F-Tag",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-settings",
+  "action_description": "Open the screen and capture the state right after this step (section \"Edit an issue\"): 2. Choose the issue you want to edit.",
+  "output_file": "documentation-readiness/screenshots/v7/12125018-349.png"
+ },
+ {
+  "id": "v6-350",
+  "article_id": "12125018",
+  "article_title": "Edit or delete an issue or sub-issue in F-Tag",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-settings",
+  "action_description": "Open the screen and capture the state right after this step (section \"Edit an issue\"): 4. Click Save.",
+  "output_file": "documentation-readiness/screenshots/v7/12125018-350.png"
+ },
+ {
+  "id": "v6-351",
+  "article_id": "12125001",
+  "article_title": "Create an issue and sub-issue in F-Tag",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-settings",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 5. Click Create New. The Create Issue window opens.",
+  "output_file": "documentation-readiness/screenshots/v7/12125001-351.png"
+ },
+ {
+  "id": "v6-352",
+  "article_id": "12125028",
+  "article_title": "About issues in F-Tag",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-settings",
+  "action_description": "Open /main/tag/tag-settings, wait for the table/charts to finish loading, capture: Tag Settings on the Issue tab showing issues and sub-issues",
+  "output_file": "documentation-readiness/screenshots/v7/12125028-352.png"
+ },
+ {
+  "id": "v6-353",
+  "article_id": "12124994",
+  "article_title": "Add and edit fields when creating an F-Tag",
+  "module": "Tag (F-Tag)",
+  "url_path": "/main/tag/tag-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 3. Click Apply in the bottom-right corner to apply the settings to the Create F-Tag window. A green confirmation message appears.",
+  "output_file": "documentation-readiness/screenshots/v7/12124994-353.png"
+ },
+ {
+  "id": "v6-354",
+  "article_id": "12123549",
+  "article_title": "Search the Kaizen Dashboard",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Search using filters\"): Select one of the filters next to the search bar.",
+  "output_file": "documentation-readiness/screenshots/v7/12123549-354.png"
+ },
+ {
+  "id": "v6-355",
+  "article_id": "12123549",
+  "article_title": "Search the Kaizen Dashboard",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Search using filters\"): Choose an option from the drop-down menu.",
+  "output_file": "documentation-readiness/screenshots/v7/12123549-355.png"
+ },
+ {
+  "id": "v6-356",
+  "article_id": "12123549",
+  "article_title": "Search the Kaizen Dashboard",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Save and pin a view\"): Click Save view.",
+  "output_file": "documentation-readiness/screenshots/v7/12123549-356.png"
+ },
+ {
+  "id": "v6-357",
+  "article_id": "12123549",
+  "article_title": "Search the Kaizen Dashboard",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Save and pin a view\"): To open the dashboard with this view by default, pin it.",
+  "output_file": "documentation-readiness/screenshots/v7/12123549-357.png"
+ },
+ {
+  "id": "v6-358",
+  "article_id": "12123664",
+  "article_title": "Export data from a Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 3. Choose where to save the file on your computer.",
+  "output_file": "documentation-readiness/screenshots/v7/12123664-358.png"
+ },
+ {
+  "id": "v6-359",
+  "article_id": "12123465",
+  "article_title": "Add and edit fields when creating a Kaizen",
+  "module": "Kaizen and EWO",
+  "url_path": "/main/kaizen/dashboard/kaizen",
+  "action_description": "Open the screen and capture the state right after this step (section \"Steps\"): 2. Choose which fields to show and which are required.",
+  "output_file": "documentation-readiness/screenshots/v7/12123465-359.png"
+ },
+ {
+  "id": "v6-360",
+  "article_id": "17183343",
+  "article_title": "Enter KPI values",
+  "module": "KPI",
+  "url_path": "/main/kpi/kpi-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Enter one value\"): Open the KPI and click Input value.",
+  "output_file": "documentation-readiness/screenshots/v7/17183343-360.png"
+ },
+ {
+  "id": "v6-361",
+  "article_id": "17183343",
+  "article_title": "Enter KPI values",
+  "module": "KPI",
+  "url_path": "/main/kpi/kpi-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Enter one value\"): Choose the date and enter the value.",
+  "output_file": "documentation-readiness/screenshots/v7/17183343-361.png"
+ },
+ {
+  "id": "v6-362",
+  "article_id": "17183343",
+  "article_title": "Enter KPI values",
+  "module": "KPI",
+  "url_path": "/main/kpi/kpi-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Enter one value\"): If the KPI uses categories, choose one, for example the reason for downtime.",
+  "output_file": "documentation-readiness/screenshots/v7/17183343-362.png"
+ },
+ {
+  "id": "v6-363",
+  "article_id": "17183343",
+  "article_title": "Enter KPI values",
+  "module": "KPI",
+  "url_path": "/main/kpi/kpi-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Enter from a Lean Studio board\"): On a Lean Studio dashboard, click a date on a KPI widget.",
+  "output_file": "documentation-readiness/screenshots/v7/17183343-363.png"
+ },
+ {
+  "id": "v6-364",
+  "article_id": "17183343",
+  "article_title": "Enter KPI values",
+  "module": "KPI",
+  "url_path": "/main/kpi/kpi-dashboard",
+  "action_description": "Open the screen and capture the state right after this step (section \"Enter from a Lean Studio board\"): Click Add KPI.",
+  "output_file": "documentation-readiness/screenshots/v7/17183343-364.png"
+ },
+ {
+  "id": "v6-365",
+  "article_id": "17183630",
+  "article_title": "What is Document Management?",
+  "module": "Document Management",
+  "url_path": "/main/documents?viewType=table",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add documents\"): Click Document Management on your home page (or open it from the module menu). The Documents page opens.",
+  "output_file": "documentation-readiness/screenshots/v7/17183630-365.png"
+ },
+ {
+  "id": "v6-366",
+  "article_id": "17183630",
+  "article_title": "What is Document Management?",
+  "module": "Document Management",
+  "url_path": "/main/documents?viewType=table",
+  "action_description": "Open the screen and capture the state right after this step (section \"Add documents\"): Click Add and create folders, for example one per line or workstation.",
+  "output_file": "documentation-readiness/screenshots/v7/17183630-366.png"
+ },
+ {
+  "id": "v6-367",
+  "article_id": "17183329",
+  "article_title": "Create a time study and select operators",
+  "module": "AI Time and Motion Study",
+  "url_path": "/main/lean-creator/time-and-motion",
+  "action_description": "Open the screen and capture the state right after this step (section \"Create the study\"): Go to Lean Creator → Time & Motion Study and click + New Study at the top right.",
+  "output_file": "documentation-readiness/screenshots/v7/17183329-367.png"
+ },
+ {
+  "id": "v6-368",
+  "article_id": "17183329",
+  "article_title": "Create a time study and select operators",
+  "module": "AI Time and Motion Study",
+  "url_path": "/main/lean-creator/time-and-motion",
+  "action_description": "Open the screen and capture the state right after this step (section \"Create the study\"): Name the study and choose the shot type that matches your video, for example a wide area or a close-up of a workstation.",
+  "output_file": "documentation-readiness/screenshots/v7/17183329-368.png"
+ },
+ {
+  "id": "v6-369",
+  "article_id": "17182745",
+  "article_title": "Set up departments, lines, workstations and assets",
+  "module": "Administration",
+  "url_path": "/main/home",
+  "action_description": "Admin Settings (gear icon, top right). Open the screen and capture the state right after this step (section \"Add items\"): Use the facility switcher (top left) to choose the facility.",
+  "output_file": "documentation-readiness/screenshots/v7/17182745-369.png"
+ },
+ {
+  "id": "v6-370",
+  "article_id": "17182745",
+  "article_title": "Set up departments, lines, workstations and assets",
+  "module": "Administration",
+  "url_path": "/main/home",
+  "action_description": "Admin Settings (gear icon, top right). Open the screen and capture the state right after this step (section \"Add items\"): Click the gear icon and open Admin Settings → Asset Management.",
+  "output_file": "documentation-readiness/screenshots/v7/17182745-370.png"
+ },
+ {
+  "id": "v6-371",
+  "article_id": "17182745",
+  "article_title": "Set up departments, lines, workstations and assets",
+  "module": "Administration",
+  "url_path": "/main/home",
+  "action_description": "Admin Settings (gear icon, top right). Open the screen and capture the state right after this step (section \"Add items\"): Click Add and create your departments first, then lines under each department, then workstations and assets.",
+  "output_file": "documentation-readiness/screenshots/v7/17182745-371.png"
+ },
+ {
+  "id": "v6-372",
+  "article_id": "17182743",
+  "article_title": "Create roles and manage permissions",
+  "module": "Administration",
+  "url_path": "/main/home",
+  "action_description": "Admin Settings (gear icon, top right). Open the screen and capture the state right after this step (section \"Create a role\"): Click the gear icon (top right) and open Admin Settings → Roles.",
+  "output_file": "documentation-readiness/screenshots/v7/17182743-372.png"
+ },
+ {
+  "id": "v6-373",
+  "article_id": "17182743",
+  "article_title": "Create roles and manage permissions",
+  "module": "Administration",
+  "url_path": "/main/home",
+  "action_description": "Admin Settings (gear icon, top right). Open the screen and capture the state right after this step (section \"Create a role\"): Click Create and name the role.",
+  "output_file": "documentation-readiness/screenshots/v7/17182743-373.png"
+ },
+ {
+  "id": "v6-374",
+  "article_id": "17182742",
+  "article_title": "Bulk upload users",
+  "module": "Administration",
+  "url_path": "/main/home",
+  "action_description": "Admin Settings (gear icon, top right). Open the screen and capture the state right after this step (section \"Step 1: Download the template\"): Click the gear icon (top right) and open Admin Settings → User Management.",
+  "output_file": "documentation-readiness/screenshots/v7/17182742-374.png"
+ },
+ {
+  "id": "v6-375",
+  "article_id": "17182742",
+  "article_title": "Bulk upload users",
+  "module": "Administration",
+  "url_path": "/main/home",
+  "action_description": "Admin Settings (gear icon, top right). Open the screen and capture the state right after this step (section \"Step 1: Download the template\"): Open the Excel menu and click Download User Upload Template.",
+  "output_file": "documentation-readiness/screenshots/v7/17182742-375.png"
+ },
+ {
+  "id": "v6-376",
+  "article_id": "17182742",
+  "article_title": "Bulk upload users",
+  "module": "Administration",
+  "url_path": "/main/home",
+  "action_description": "Admin Settings (gear icon, top right). Open the screen and capture the state right after this step (section \"Step 3: Upload\"): In User Management, choose the bulk upload option and select your file.",
+  "output_file": "documentation-readiness/screenshots/v7/17182742-376.png"
+ },
+ {
+  "id": "v6-377",
+  "article_id": "17182742",
+  "article_title": "Bulk upload users",
+  "module": "Administration",
+  "url_path": "/main/home",
+  "action_description": "Admin Settings (gear icon, top right). Open the screen and capture the state right after this step (section \"Step 3: Upload\"): Check everything on Review data, fix any rows flagged with errors, then click Next.",
+  "output_file": "documentation-readiness/screenshots/v7/17182742-377.png"
+ },
+ {
+  "id": "v6-378",
+  "article_id": "17182740",
+  "article_title": "Add a user",
+  "module": "Administration",
+  "url_path": "/main/home",
+  "action_description": "Admin Settings (gear icon, top right). Open the screen and capture the state right after this step (section \"Add a single user\"): Use the facility switcher (top left) to choose the facility the user belongs to.",
+  "output_file": "documentation-readiness/screenshots/v7/17182740-378.png"
+ },
+ {
+  "id": "v6-379",
+  "article_id": "17182740",
+  "article_title": "Add a user",
+  "module": "Administration",
+  "url_path": "/main/home",
+  "action_description": "Admin Settings (gear icon, top right). Open the screen and capture the state right after this step (section \"Add a single user\"): Click the gear icon (top right) and open Admin Settings → User Management.",
+  "output_file": "documentation-readiness/screenshots/v7/17182740-379.png"
+ },
+ {
+  "id": "v6-380",
+  "article_id": "17182740",
+  "article_title": "Add a user",
+  "module": "Administration",
+  "url_path": "/main/home",
+  "action_description": "Admin Settings (gear icon, top right). Open the screen and capture the state right after this step (section \"Add a single user\"): Click Add User.",
+  "output_file": "documentation-readiness/screenshots/v7/17182740-380.png"
+ },
+ {
+  "id": "v6-381",
+  "article_id": "17183483",
+  "article_title": "Save, pin and share dashboard views",
+  "module": "Getting Started",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Save a view\"): Apply the filters you want, for example Status = Open or Department = Assembly.",
+  "output_file": "documentation-readiness/screenshots/v7/17183483-381.png"
+ },
+ {
+  "id": "v6-382",
+  "article_id": "17183483",
+  "article_title": "Save, pin and share dashboard views",
+  "module": "Getting Started",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Save a view\"): Open Saved Views and click Save view.",
+  "output_file": "documentation-readiness/screenshots/v7/17183483-382.png"
+ },
+ {
+  "id": "v6-383",
+  "article_id": "17183483",
+  "article_title": "Save, pin and share dashboard views",
+  "module": "Getting Started",
+  "url_path": "/main/suggestion/view-all",
+  "action_description": "Open the screen and capture the state right after this step (section \"Save a view\"): Give it a name, for example \"Open Work Orders\" or \"My department – overdue\".",
+  "output_file": "documentation-readiness/screenshots/v7/17183483-383.png"
+ },
+ {
+  "id": "v6-384",
+  "article_id": "17183482",
+  "article_title": "Use LeanSuite on mobile, tablets and shared devices",
+  "module": "Getting Started",
+  "url_path": "mobile app",
+  "action_description": "Open mobile app, wait for the table/charts to finish loading, capture: LeanSuite mobile app home in a 390x844 phone frame showing assigned work",
+  "output_file": "documentation-readiness/screenshots/v7/17183482-384.png"
+ },
+ {
+  "id": "v6-385",
+  "article_id": "17183479",
+  "article_title": "Change your language",
+  "module": "Getting Started",
+  "url_path": "/main/home",
+  "action_description": "Open the screen and capture the state right after this step (section \"Change the app language\"): Click your name in the top right.",
+  "output_file": "documentation-readiness/screenshots/v7/17183479-385.png"
+ },
+ {
+  "id": "v6-386",
+  "article_id": "17183479",
+  "article_title": "Change your language",
+  "module": "Getting Started",
+  "url_path": "/main/home",
+  "action_description": "Open the screen and capture the state right after this step (section \"Change the app language\"): Open Language Preferences.",
+  "output_file": "documentation-readiness/screenshots/v7/17183479-386.png"
+ },
+ {
+  "id": "v6-387",
+  "article_id": "17183479",
+  "article_title": "Change your language",
+  "module": "Getting Started",
+  "url_path": "/main/home",
+  "action_description": "Open the screen and capture the state right after this step (section \"Change the app language\"): Choose your language and save.",
+  "output_file": "documentation-readiness/screenshots/v7/17183479-387.png"
+ },
+ {
+  "id": "v6-388",
+  "article_id": "17182736",
+  "article_title": "Reset or change your password",
+  "module": "Getting Started",
+  "url_path": "/main/home",
+  "action_description": "Open the screen and capture the state right after this step (section \"If you forgot your password\"): On the login page, click Forgot password.",
+  "output_file": "documentation-readiness/screenshots/v7/17182736-388.png"
+ },
+ {
+  "id": "v6-389",
+  "article_id": "17182736",
+  "article_title": "Reset or change your password",
+  "module": "Getting Started",
+  "url_path": "/main/home",
+  "action_description": "Open the screen and capture the state right after this step (section \"If you forgot your password\"): Enter your new password, confirm it, and click Submit.",
+  "output_file": "documentation-readiness/screenshots/v7/17182736-389.png"
+ },
+ {
+  "id": "v6-390",
+  "article_id": "17182736",
+  "article_title": "Reset or change your password",
+  "module": "Getting Started",
+  "url_path": "/main/home",
+  "action_description": "Open the screen and capture the state right after this step (section \"If you know your password and want to change it\"): Click your name in the top right corner.",
+  "output_file": "documentation-readiness/screenshots/v7/17182736-390.png"
+ },
+ {
+  "id": "v6-391",
+  "article_id": "17182736",
+  "article_title": "Reset or change your password",
+  "module": "Getting Started",
+  "url_path": "/main/home",
+  "action_description": "Open the screen and capture the state right after this step (section \"If you know your password and want to change it\"): Open Personal settings.",
+  "output_file": "documentation-readiness/screenshots/v7/17182736-391.png"
+ },
+ {
+  "id": "v6-392",
+  "article_id": "17182736",
+  "article_title": "Reset or change your password",
+  "module": "Getting Started",
+  "url_path": "/main/home",
+  "action_description": "Open the screen and capture the state right after this step (section \"If you know your password and want to change it\"): Open Password, enter your current password and the new one, and save.",
+  "output_file": "documentation-readiness/screenshots/v7/17182736-392.png"
+ },
+ {
+  "id": "v6-393",
+  "article_id": "17182736",
+  "article_title": "Reset or change your password",
+  "module": "Getting Started",
+  "url_path": "/main/home",
+  "action_description": "Open the screen and capture the state right after this step (section \"For admins: reset a user's password\"): Click the gear icon (top right) and open Admin Settings → User Management.",
+  "output_file": "documentation-readiness/screenshots/v7/17182736-393.png"
+ }
+]
