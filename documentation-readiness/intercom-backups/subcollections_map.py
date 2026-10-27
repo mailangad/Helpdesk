@@ -52,7 +52,7 @@ S={
 ],
 "15557323":[  # Lean Creator
  ("Overview","What Lean Creator is and where its templates are used",[12745936,12919966,12919959,12919894]),
- ("Build templates","Create, edit, publish and assign templates",[12919955,12919960,12921679,12919963,12927244,17183180,17183492,17182753]),
+ ("Build templates","Create, edit, publish and assign templates",[12919955,12919960,12921679,12919963,12927244,17183180,17183492,17182753,17740577]),
  ("Create with AI","Generate templates, SOPs and one-point lessons with AI",[17182747,17182751,17182750,17183491]),
 ],
 }

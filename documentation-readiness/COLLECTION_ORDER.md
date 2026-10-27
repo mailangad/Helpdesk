@@ -1,6 +1,6 @@
 # Help Center order (drag to match)
 
-Updated 2026-09-26 after the sub-collection restructure and the overnight title/merge pass (see OVERNIGHT_CHANGES.md). Articles are already in the right collection and sub-collection; only the order needs setting in Intercom (the API ignores order).
+Updated 2026-10-27 with the new articles from CALLS_UPDATE_2026-10.md. Earlier update 2026-09-26 after the sub-collection restructure and the overnight title/merge pass (see OVERNIGHT_CHANGES.md). Articles are already in the right collection and sub-collection; only the order needs setting in Intercom (the API ignores order).
 
 ## 1. Top-level collection order
 
@@ -400,6 +400,7 @@ Updated 2026-09-26 after the sub-collection restructure and the overnight title/
 6. Add rules, required evidence and scoring to a template (17183180)
 7. Create a custom Kaizen section in Lean Creator (17183492)
 8. Publish and assign a template for sign-off (17182753)
+9. View submissions and reports for a Lean Creator template (17740577) — new 2026-10-27
 
 **3. Create with AI**
 
@@ -416,6 +417,7 @@ Updated 2026-09-26 after the sub-collection restructure and the overnight title/
 
 1. Choose the right LeanSuite module (17183946)
 2. Find your way around LeanSuite (17183477)
+   - *Draft, publish after the November release:* Use the enhanced sidebar and global search (17740578), place here as item 3
 3. Get started with LeanSuite as a frontline user (17183944)
 
 **Set up and administer**
@@ -532,10 +534,19 @@ Updated 2026-09-26 after the sub-collection restructure and the overnight title/
 12. About the Kanban Board in Daily Standard Work (12920905)
 13. About the Schedule Dashboard in Daily Standard Work (12920981)
 
+### AI Time and Motion Study — collection 19761725 (5)
+
+1. What is AI Time & Motion Study? (17183323)
+2. Record video for an AI time study (17183326)
+3. Set up processes and steps for AI time studies (17740576) — new 2026-10-27
+4. Create a time study and select operators (17183329)
+5. Review, edit and certify a time study (17183331)
+
 ### Release Notes — collection 14770621 (7)
 
 **Newest first**
 
+- *Draft, publish after review:* Release highlights: late September to October 2026 (17740586), place first
 1. Release highlights: April to September 2026 (17183634)
 2. March 30, 2026 (Major Release) (14568481)
 3. February 28, 2026 (Major Release) (12565743)
